@@ -1,0 +1,29 @@
+,Diseases,Categories,Counts,Rank,percentage_diagnosed,position,position_final_plot
+0,CKD,At Risk,114228.0,4,279%,155180.0,98066.0
+1,CKD,At Risk (AI),106878.0,3,0%,155180.0,
+2,CKD,Diagnosed,40952.0,1,0%,40952.0,
+3,CKD,Immediate Risk,7350.0,2,0%,48302.0,
+4,Diabetes,At Risk,29348.0,4,82%,65349.0,50675.0
+5,Diabetes,At Risk (AI),29348.0,3,0%,65349.0,
+6,Diabetes,Diagnosed,36001.0,1,0%,36001.0,
+7,Diabetes,Immediate Risk,0.0,2,0%,36001.0,
+8,Dyslipidemia,At Risk,99309.0,4,242%,140313.0,90658.5
+9,Dyslipidemia,At Risk (AI),82336.0,3,0%,140313.0,
+10,Dyslipidemia,Diagnosed,41004.0,1,0%,41004.0,
+11,Dyslipidemia,Immediate Risk,16973.0,2,0%,57977.0,
+12,Heart disease,At Risk,71455.0,4,100%,142653.0,106925.5
+13,Heart disease,At Risk (AI),71455.0,3,0%,142653.0,
+14,Heart disease,Diagnosed,71198.0,1,0%,71198.0,
+15,Heart disease,Immediate Risk,0.0,2,0%,71198.0,
+16,Hypertension,At Risk,87840.0,4,99%,176435.0,132515.0
+17,Hypertension,At Risk (AI),68332.0,3,0%,176435.0,
+18,Hypertension,Diagnosed,88595.0,1,0%,88595.0,
+19,Hypertension,Immediate Risk,19508.0,2,0%,108103.0,
+20,Nash,At Risk,52883.0,4,595%,61777.0,35335.5
+21,Nash,At Risk (AI),52883.0,3,0%,61777.0,
+22,Nash,Diagnosed,8894.0,1,0%,8894.0,
+23,Nash,Immediate Risk,0.0,2,0%,8894.0,
+24,Obesity,At Risk,127455.0,4,615%,148186.0,84458.5
+25,Obesity,At Risk (AI),85369.0,3,0%,148186.0,
+26,Obesity,Diagnosed,20731.0,1,0%,20731.0,
+27,Obesity,Immediate Risk,42086.0,2,0%,62817.0,

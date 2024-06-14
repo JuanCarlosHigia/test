@@ -1,0 +1,615 @@
+Disease,Type,Timing,Nationality,Value
+CKD,Hospitalization,later,Algerian,36.85
+CKD,Hospitalization,later,Argentinian,44.9
+CKD,Hospitalization,later,Azerbaijani,36.5
+CKD,Hospitalization,later,Bilorussian,27.18
+CKD,Hospitalization,later,Bulgarian,42.91
+CKD,Hospitalization,later,Egyptian,21.9
+CKD,Hospitalization,later,English,24.8
+CKD,Hospitalization,later,Ethiopian,34.83
+CKD,Hospitalization,later,French,34.24
+CKD,Hospitalization,later,Georgian,26.21
+CKD,Hospitalization,later,German,29.36
+CKD,Hospitalization,later,Hungarian,22.79
+CKD,Hospitalization,later,Indu,34.07
+CKD,Hospitalization,later,Iranian,34.73
+CKD,Hospitalization,later,Iraqui,29.86
+CKD,Hospitalization,later,Israeli,33.41
+CKD,Hospitalization,later,Kazakh,26.31
+CKD,Hospitalization,later,Libyan,41.52
+CKD,Hospitalization,later,Moldavian,25.0
+CKD,Hospitalization,later,Moroccan,34.95
+CKD,Hospitalization,later,Polonian,35.57
+CKD,Hospitalization,later,Rumanian,34.94
+CKD,Hospitalization,later,Russian,32.88
+CKD,Hospitalization,later,Sirian,45.06
+CKD,Hospitalization,later,South African,19.71
+CKD,Hospitalization,later,Tunisian,33.05
+CKD,Hospitalization,later,Turkish,23.22
+CKD,Hospitalization,later,Ucranian,32.67
+CKD,Hospitalization,later,United States,30.57
+CKD,Hospitalization,later,Uzbek,27.28
+CKD,Hospitalization,later,Yemeni,24.68
+CKD,Hospitalization,on time,Algerian,22.36
+CKD,Hospitalization,on time,Argentinian,18.23
+CKD,Hospitalization,on time,Azerbaijani,18.6
+CKD,Hospitalization,on time,Bilorussian,18.53
+CKD,Hospitalization,on time,Bulgarian,12.22
+CKD,Hospitalization,on time,Egyptian,15.4
+CKD,Hospitalization,on time,English,22.96
+CKD,Hospitalization,on time,Ethiopian,16.98
+CKD,Hospitalization,on time,French,20.22
+CKD,Hospitalization,on time,Georgian,21.12
+CKD,Hospitalization,on time,German,16.48
+CKD,Hospitalization,on time,Hungarian,13.0
+CKD,Hospitalization,on time,Indu,19.19
+CKD,Hospitalization,on time,Iranian,13.49
+CKD,Hospitalization,on time,Iraqui,20.25
+CKD,Hospitalization,on time,Israeli,18.4
+CKD,Hospitalization,on time,Kazakh,12.21
+CKD,Hospitalization,on time,Libyan,21.91
+CKD,Hospitalization,on time,Moldavian,13.24
+CKD,Hospitalization,on time,Moroccan,17.8
+CKD,Hospitalization,on time,Polonian,20.03
+CKD,Hospitalization,on time,Rumanian,16.48
+CKD,Hospitalization,on time,Russian,19.66
+CKD,Hospitalization,on time,Sirian,8.16
+CKD,Hospitalization,on time,South African,24.4
+CKD,Hospitalization,on time,Tunisian,15.33
+CKD,Hospitalization,on time,Turkish,14.73
+CKD,Hospitalization,on time,Ucranian,16.1
+CKD,Hospitalization,on time,United States,22.01
+CKD,Hospitalization,on time,Uzbek,25.15
+CKD,Hospitalization,on time,Yemeni,22.9
+CKD,Procedure,later,Algerian,3.38
+CKD,Procedure,later,Argentinian,3.83
+CKD,Procedure,later,Azerbaijani,4.3
+CKD,Procedure,later,Bilorussian,2.95
+CKD,Procedure,later,Bulgarian,5.41
+CKD,Procedure,later,Egyptian,2.97
+CKD,Procedure,later,English,2.3
+CKD,Procedure,later,Ethiopian,3.75
+CKD,Procedure,later,French,4.18
+CKD,Procedure,later,Georgian,0.64
+CKD,Procedure,later,German,1.81
+CKD,Procedure,later,Hungarian,3.71
+CKD,Procedure,later,Indu,4.11
+CKD,Procedure,later,Iranian,2.06
+CKD,Procedure,later,Iraqui,2.92
+CKD,Procedure,later,Israeli,3.38
+CKD,Procedure,later,Kazakh,5.08
+CKD,Procedure,later,Libyan,4.26
+CKD,Procedure,later,Moldavian,2.2
+CKD,Procedure,later,Moroccan,3.48
+CKD,Procedure,later,Polonian,4.41
+CKD,Procedure,later,Rumanian,3.38
+CKD,Procedure,later,Russian,3.34
+CKD,Procedure,later,Sirian,4.69
+CKD,Procedure,later,South African,2.47
+CKD,Procedure,later,Tunisian,4.02
+CKD,Procedure,later,Turkish,2.41
+CKD,Procedure,later,Ucranian,3.03
+CKD,Procedure,later,United States,2.89
+CKD,Procedure,later,Uzbek,2.72
+CKD,Procedure,later,Yemeni,2.38
+CKD,Procedure,on time,Algerian,2.8
+CKD,Procedure,on time,Argentinian,1.7
+CKD,Procedure,on time,Azerbaijani,1.83
+CKD,Procedure,on time,Bilorussian,2.08
+CKD,Procedure,on time,Bulgarian,1.26
+CKD,Procedure,on time,Egyptian,2.63
+CKD,Procedure,on time,English,1.69
+CKD,Procedure,on time,Ethiopian,2.57
+CKD,Procedure,on time,French,2.46
+CKD,Procedure,on time,Georgian,5.46
+CKD,Procedure,on time,German,1.37
+CKD,Procedure,on time,Hungarian,2.05
+CKD,Procedure,on time,Indu,2.4
+CKD,Procedure,on time,Iranian,1.74
+CKD,Procedure,on time,Iraqui,2.12
+CKD,Procedure,on time,Israeli,2.08
+CKD,Procedure,on time,Kazakh,1.04
+CKD,Procedure,on time,Libyan,2.74
+CKD,Procedure,on time,Moldavian,1.84
+CKD,Procedure,on time,Moroccan,1.91
+CKD,Procedure,on time,Polonian,2.22
+CKD,Procedure,on time,Rumanian,2.01
+CKD,Procedure,on time,Russian,2.13
+CKD,Procedure,on time,Sirian,2.53
+CKD,Procedure,on time,South African,2.46
+CKD,Procedure,on time,Tunisian,1.67
+CKD,Procedure,on time,Turkish,1.34
+CKD,Procedure,on time,Ucranian,2.02
+CKD,Procedure,on time,United States,2.06
+CKD,Procedure,on time,Uzbek,1.08
+CKD,Procedure,on time,Yemeni,2.06
+Diabetes,Hospitalization,later,Algerian,45.69
+Diabetes,Hospitalization,later,Argentinian,40.83
+Diabetes,Hospitalization,later,Azerbaijani,43.62
+Diabetes,Hospitalization,later,Bilorussian,33.26
+Diabetes,Hospitalization,later,Bulgarian,45.58
+Diabetes,Hospitalization,later,Egyptian,29.94
+Diabetes,Hospitalization,later,English,27.3
+Diabetes,Hospitalization,later,Ethiopian,30.32
+Diabetes,Hospitalization,later,French,26.12
+Diabetes,Hospitalization,later,Georgian,13.0
+Diabetes,Hospitalization,later,German,42.05
+Diabetes,Hospitalization,later,Hungarian,19.4
+Diabetes,Hospitalization,later,Indu,30.36
+Diabetes,Hospitalization,later,Iranian,39.61
+Diabetes,Hospitalization,later,Iraqui,34.26
+Diabetes,Hospitalization,later,Israeli,35.41
+Diabetes,Hospitalization,later,Kazakh,13.08
+Diabetes,Hospitalization,later,Libyan,40.08
+Diabetes,Hospitalization,later,Moldavian,55.62
+Diabetes,Hospitalization,later,Moroccan,31.43
+Diabetes,Hospitalization,later,Polonian,32.88
+Diabetes,Hospitalization,later,Rumanian,40.56
+Diabetes,Hospitalization,later,Russian,37.35
+Diabetes,Hospitalization,later,Sirian,21.78
+Diabetes,Hospitalization,later,South African,24.5
+Diabetes,Hospitalization,later,Tunisian,20.5
+Diabetes,Hospitalization,later,Turkish,27.23
+Diabetes,Hospitalization,later,Ucranian,31.72
+Diabetes,Hospitalization,later,United States,35.98
+Diabetes,Hospitalization,later,Uzbek,26.89
+Diabetes,Hospitalization,later,Yemeni,34.63
+Diabetes,Hospitalization,on time,Algerian,26.88
+Diabetes,Hospitalization,on time,Argentinian,22.66
+Diabetes,Hospitalization,on time,Azerbaijani,24.07
+Diabetes,Hospitalization,on time,Bilorussian,26.72
+Diabetes,Hospitalization,on time,Bulgarian,18.81
+Diabetes,Hospitalization,on time,Egyptian,14.05
+Diabetes,Hospitalization,on time,English,24.62
+Diabetes,Hospitalization,on time,Ethiopian,24.83
+Diabetes,Hospitalization,on time,French,22.51
+Diabetes,Hospitalization,on time,Georgian,32.42
+Diabetes,Hospitalization,on time,German,27.19
+Diabetes,Hospitalization,on time,Hungarian,21.93
+Diabetes,Hospitalization,on time,Indu,20.5
+Diabetes,Hospitalization,on time,Iranian,23.32
+Diabetes,Hospitalization,on time,Iraqui,26.01
+Diabetes,Hospitalization,on time,Israeli,26.82
+Diabetes,Hospitalization,on time,Kazakh,22.55
+Diabetes,Hospitalization,on time,Libyan,18.05
+Diabetes,Hospitalization,on time,Moldavian,22.55
+Diabetes,Hospitalization,on time,Moroccan,20.78
+Diabetes,Hospitalization,on time,Polonian,20.72
+Diabetes,Hospitalization,on time,Rumanian,26.05
+Diabetes,Hospitalization,on time,Russian,31.08
+Diabetes,Hospitalization,on time,Sirian,22.64
+Diabetes,Hospitalization,on time,South African,28.94
+Diabetes,Hospitalization,on time,Tunisian,22.15
+Diabetes,Hospitalization,on time,Turkish,24.72
+Diabetes,Hospitalization,on time,Ucranian,28.65
+Diabetes,Hospitalization,on time,United States,27.3
+Diabetes,Hospitalization,on time,Uzbek,32.0
+Diabetes,Hospitalization,on time,Yemeni,22.25
+Diabetes,Procedure,later,Algerian,2.53
+Diabetes,Procedure,later,Argentinian,2.93
+Diabetes,Procedure,later,Azerbaijani,5.31
+Diabetes,Procedure,later,Bilorussian,3.35
+Diabetes,Procedure,later,Bulgarian,6.25
+Diabetes,Procedure,later,Egyptian,2.59
+Diabetes,Procedure,later,English,0.9
+Diabetes,Procedure,later,Ethiopian,3.64
+Diabetes,Procedure,later,French,2.56
+Diabetes,Procedure,later,Georgian,1.62
+Diabetes,Procedure,later,German,2.71
+Diabetes,Procedure,later,Hungarian,3.3
+Diabetes,Procedure,later,Indu,6.0
+Diabetes,Procedure,later,Iranian,2.37
+Diabetes,Procedure,later,Iraqui,3.62
+Diabetes,Procedure,later,Israeli,3.51
+Diabetes,Procedure,later,Kazakh,4.67
+Diabetes,Procedure,later,Libyan,4.0
+Diabetes,Procedure,later,Moldavian,2.25
+Diabetes,Procedure,later,Moroccan,3.19
+Diabetes,Procedure,later,Polonian,5.04
+Diabetes,Procedure,later,Rumanian,3.2
+Diabetes,Procedure,later,Russian,2.83
+Diabetes,Procedure,later,Sirian,1.44
+Diabetes,Procedure,later,South African,2.62
+Diabetes,Procedure,later,Tunisian,2.3
+Diabetes,Procedure,later,Turkish,1.94
+Diabetes,Procedure,later,Ucranian,2.94
+Diabetes,Procedure,later,United States,3.12
+Diabetes,Procedure,later,Uzbek,2.61
+Diabetes,Procedure,later,Yemeni,4.43
+Diabetes,Procedure,on time,Algerian,2.27
+Diabetes,Procedure,on time,Argentinian,1.98
+Diabetes,Procedure,on time,Azerbaijani,4.6
+Diabetes,Procedure,on time,Bilorussian,5.22
+Diabetes,Procedure,on time,Bulgarian,0.75
+Diabetes,Procedure,on time,Egyptian,3.74
+Diabetes,Procedure,on time,English,2.46
+Diabetes,Procedure,on time,Ethiopian,3.56
+Diabetes,Procedure,on time,French,3.05
+Diabetes,Procedure,on time,Georgian,8.83
+Diabetes,Procedure,on time,German,1.65
+Diabetes,Procedure,on time,Hungarian,3.0
+Diabetes,Procedure,on time,Indu,2.75
+Diabetes,Procedure,on time,Iranian,2.95
+Diabetes,Procedure,on time,Iraqui,3.2
+Diabetes,Procedure,on time,Israeli,3.02
+Diabetes,Procedure,on time,Kazakh,1.64
+Diabetes,Procedure,on time,Libyan,2.62
+Diabetes,Procedure,on time,Moldavian,3.18
+Diabetes,Procedure,on time,Moroccan,2.42
+Diabetes,Procedure,on time,Polonian,1.97
+Diabetes,Procedure,on time,Rumanian,2.91
+Diabetes,Procedure,on time,Russian,3.69
+Diabetes,Procedure,on time,Sirian,3.0
+Diabetes,Procedure,on time,South African,3.19
+Diabetes,Procedure,on time,Tunisian,3.31
+Diabetes,Procedure,on time,Turkish,2.89
+Diabetes,Procedure,on time,Ucranian,3.33
+Diabetes,Procedure,on time,United States,2.4
+Diabetes,Procedure,on time,Uzbek,2.97
+Diabetes,Procedure,on time,Yemeni,3.96
+Dyslipidemia,Hospitalization,later,Algerian,36.63
+Dyslipidemia,Hospitalization,later,Argentinian,32.05
+Dyslipidemia,Hospitalization,later,Azerbaijani,33.11
+Dyslipidemia,Hospitalization,later,Bilorussian,40.12
+Dyslipidemia,Hospitalization,later,Bulgarian,25.61
+Dyslipidemia,Hospitalization,later,Egyptian,34.89
+Dyslipidemia,Hospitalization,later,English,27.93
+Dyslipidemia,Hospitalization,later,Ethiopian,26.37
+Dyslipidemia,Hospitalization,later,French,32.92
+Dyslipidemia,Hospitalization,later,Georgian,39.33
+Dyslipidemia,Hospitalization,later,German,25.05
+Dyslipidemia,Hospitalization,later,Hungarian,26.53
+Dyslipidemia,Hospitalization,later,Indu,23.8
+Dyslipidemia,Hospitalization,later,Iranian,32.97
+Dyslipidemia,Hospitalization,later,Iraqui,32.42
+Dyslipidemia,Hospitalization,later,Israeli,33.33
+Dyslipidemia,Hospitalization,later,Kazakh,23.05
+Dyslipidemia,Hospitalization,later,Libyan,37.0
+Dyslipidemia,Hospitalization,later,Moldavian,25.39
+Dyslipidemia,Hospitalization,later,Moroccan,31.32
+Dyslipidemia,Hospitalization,later,Polonian,29.44
+Dyslipidemia,Hospitalization,later,Rumanian,38.19
+Dyslipidemia,Hospitalization,later,Russian,39.66
+Dyslipidemia,Hospitalization,later,Sirian,46.53
+Dyslipidemia,Hospitalization,later,South African,19.65
+Dyslipidemia,Hospitalization,later,Tunisian,26.14
+Dyslipidemia,Hospitalization,later,Turkish,27.83
+Dyslipidemia,Hospitalization,later,Ucranian,30.18
+Dyslipidemia,Hospitalization,later,United States,34.18
+Dyslipidemia,Hospitalization,later,Uzbek,30.97
+Dyslipidemia,Hospitalization,later,Yemeni,25.69
+Dyslipidemia,Hospitalization,on time,Algerian,29.29
+Dyslipidemia,Hospitalization,on time,Argentinian,35.11
+Dyslipidemia,Hospitalization,on time,Azerbaijani,51.0
+Dyslipidemia,Hospitalization,on time,Bilorussian,26.33
+Dyslipidemia,Hospitalization,on time,Bulgarian,27.5
+Dyslipidemia,Hospitalization,on time,Egyptian,12.0
+Dyslipidemia,Hospitalization,on time,English,30.67
+Dyslipidemia,Hospitalization,on time,Ethiopian,24.17
+Dyslipidemia,Hospitalization,on time,French,39.89
+Dyslipidemia,Hospitalization,on time,Georgian,20.25
+Dyslipidemia,Hospitalization,on time,German,27.86
+Dyslipidemia,Hospitalization,on time,Hungarian,43.5
+Dyslipidemia,Hospitalization,on time,Indu,13.5
+Dyslipidemia,Hospitalization,on time,Iranian,26.17
+Dyslipidemia,Hospitalization,on time,Iraqui,28.11
+Dyslipidemia,Hospitalization,on time,Israeli,22.84
+Dyslipidemia,Hospitalization,on time,Kazakh,29.5
+Dyslipidemia,Hospitalization,on time,Libyan,33.67
+Dyslipidemia,Hospitalization,on time,Moldavian,0.5
+Dyslipidemia,Hospitalization,on time,Moroccan,19.77
+Dyslipidemia,Hospitalization,on time,Polonian,14.0
+Dyslipidemia,Hospitalization,on time,Rumanian,18.0
+Dyslipidemia,Hospitalization,on time,Russian,25.42
+Dyslipidemia,Hospitalization,on time,South African,0.5
+Dyslipidemia,Hospitalization,on time,Tunisian,48.14
+Dyslipidemia,Hospitalization,on time,Turkish,14.8
+Dyslipidemia,Hospitalization,on time,Ucranian,28.59
+Dyslipidemia,Hospitalization,on time,United States,41.52
+Dyslipidemia,Hospitalization,on time,Uzbek,9.5
+Dyslipidemia,Hospitalization,on time,Yemeni,20.57
+Dyslipidemia,Procedure,later,Algerian,2.54
+Dyslipidemia,Procedure,later,Argentinian,1.38
+Dyslipidemia,Procedure,later,Azerbaijani,2.83
+Dyslipidemia,Procedure,later,Bilorussian,2.53
+Dyslipidemia,Procedure,later,Bulgarian,2.17
+Dyslipidemia,Procedure,later,Egyptian,3.73
+Dyslipidemia,Procedure,later,English,0.8
+Dyslipidemia,Procedure,later,Ethiopian,1.42
+Dyslipidemia,Procedure,later,French,1.63
+Dyslipidemia,Procedure,later,Georgian,1.13
+Dyslipidemia,Procedure,later,German,1.34
+Dyslipidemia,Procedure,later,Hungarian,2.76
+Dyslipidemia,Procedure,later,Indu,1.12
+Dyslipidemia,Procedure,later,Iranian,1.89
+Dyslipidemia,Procedure,later,Iraqui,1.75
+Dyslipidemia,Procedure,later,Israeli,2.02
+Dyslipidemia,Procedure,later,Kazakh,1.68
+Dyslipidemia,Procedure,later,Libyan,2.27
+Dyslipidemia,Procedure,later,Moldavian,1.28
+Dyslipidemia,Procedure,later,Moroccan,1.88
+Dyslipidemia,Procedure,later,Polonian,2.05
+Dyslipidemia,Procedure,later,Rumanian,2.11
+Dyslipidemia,Procedure,later,Russian,2.42
+Dyslipidemia,Procedure,later,Sirian,3.47
+Dyslipidemia,Procedure,later,South African,2.35
+Dyslipidemia,Procedure,later,Tunisian,1.69
+Dyslipidemia,Procedure,later,Turkish,1.46
+Dyslipidemia,Procedure,later,Ucranian,1.88
+Dyslipidemia,Procedure,later,United States,2.06
+Dyslipidemia,Procedure,later,Uzbek,1.81
+Dyslipidemia,Procedure,later,Yemeni,1.5
+Dyslipidemia,Procedure,on time,Algerian,2.57
+Dyslipidemia,Procedure,on time,Argentinian,1.89
+Dyslipidemia,Procedure,on time,Azerbaijani,5.0
+Dyslipidemia,Procedure,on time,Bilorussian,0.0
+Dyslipidemia,Procedure,on time,Bulgarian,0.0
+Dyslipidemia,Procedure,on time,Egyptian,2.2
+Dyslipidemia,Procedure,on time,English,0.33
+Dyslipidemia,Procedure,on time,Ethiopian,1.22
+Dyslipidemia,Procedure,on time,French,4.89
+Dyslipidemia,Procedure,on time,Georgian,4.12
+Dyslipidemia,Procedure,on time,German,4.43
+Dyslipidemia,Procedure,on time,Hungarian,2.0
+Dyslipidemia,Procedure,on time,Indu,0.0
+Dyslipidemia,Procedure,on time,Iranian,1.75
+Dyslipidemia,Procedure,on time,Iraqui,2.32
+Dyslipidemia,Procedure,on time,Israeli,1.52
+Dyslipidemia,Procedure,on time,Kazakh,1.0
+Dyslipidemia,Procedure,on time,Libyan,4.83
+Dyslipidemia,Procedure,on time,Moldavian,0.0
+Dyslipidemia,Procedure,on time,Moroccan,1.67
+Dyslipidemia,Procedure,on time,Polonian,3.5
+Dyslipidemia,Procedure,on time,Rumanian,1.17
+Dyslipidemia,Procedure,on time,Russian,1.23
+Dyslipidemia,Procedure,on time,South African,0.0
+Dyslipidemia,Procedure,on time,Tunisian,4.0
+Dyslipidemia,Procedure,on time,Turkish,1.0
+Dyslipidemia,Procedure,on time,Ucranian,3.68
+Dyslipidemia,Procedure,on time,United States,2.48
+Dyslipidemia,Procedure,on time,Uzbek,0.33
+Dyslipidemia,Procedure,on time,Yemeni,0.14
+Hypertension,Hospitalization,later,Algerian,44.05
+Hypertension,Hospitalization,later,Argentinian,33.06
+Hypertension,Hospitalization,later,Azerbaijani,35.0
+Hypertension,Hospitalization,later,Bilorussian,43.5
+Hypertension,Hospitalization,later,Bulgarian,49.86
+Hypertension,Hospitalization,later,Egyptian,25.42
+Hypertension,Hospitalization,later,English,23.82
+Hypertension,Hospitalization,later,Ethiopian,40.35
+Hypertension,Hospitalization,later,French,37.86
+Hypertension,Hospitalization,later,Georgian,24.3
+Hypertension,Hospitalization,later,German,31.59
+Hypertension,Hospitalization,later,Hungarian,36.86
+Hypertension,Hospitalization,later,Indu,24.18
+Hypertension,Hospitalization,later,Iranian,47.86
+Hypertension,Hospitalization,later,Iraqui,45.58
+Hypertension,Hospitalization,later,Israeli,39.9
+Hypertension,Hospitalization,later,Kazakh,51.8
+Hypertension,Hospitalization,later,Libyan,42.75
+Hypertension,Hospitalization,later,Moldavian,21.67
+Hypertension,Hospitalization,later,Moroccan,41.25
+Hypertension,Hospitalization,later,Polonian,31.72
+Hypertension,Hospitalization,later,Rumanian,42.25
+Hypertension,Hospitalization,later,Russian,51.3
+Hypertension,Hospitalization,later,Sirian,28.0
+Hypertension,Hospitalization,later,South African,18.57
+Hypertension,Hospitalization,later,Tunisian,38.67
+Hypertension,Hospitalization,later,Turkish,27.0
+Hypertension,Hospitalization,later,Ucranian,42.95
+Hypertension,Hospitalization,later,United States,41.48
+Hypertension,Hospitalization,later,Uzbek,33.79
+Hypertension,Hospitalization,later,Yemeni,23.0
+Hypertension,Hospitalization,on time,Algerian,15.33
+Hypertension,Hospitalization,on time,Argentinian,34.0
+Hypertension,Hospitalization,on time,Azerbaijani,18.0
+Hypertension,Hospitalization,on time,Bilorussian,38.6
+Hypertension,Hospitalization,on time,Bulgarian,20.33
+Hypertension,Hospitalization,on time,Egyptian,26.0
+Hypertension,Hospitalization,on time,English,21.33
+Hypertension,Hospitalization,on time,Ethiopian,39.7
+Hypertension,Hospitalization,on time,French,36.89
+Hypertension,Hospitalization,on time,Georgian,48.67
+Hypertension,Hospitalization,on time,German,29.75
+Hypertension,Hospitalization,on time,Hungarian,5.0
+Hypertension,Hospitalization,on time,Indu,18.0
+Hypertension,Hospitalization,on time,Iranian,50.2
+Hypertension,Hospitalization,on time,Iraqui,26.73
+Hypertension,Hospitalization,on time,Israeli,37.33
+Hypertension,Hospitalization,on time,Kazakh,20.0
+Hypertension,Hospitalization,on time,Libyan,41.33
+Hypertension,Hospitalization,on time,Moldavian,44.33
+Hypertension,Hospitalization,on time,Moroccan,28.46
+Hypertension,Hospitalization,on time,Polonian,29.27
+Hypertension,Hospitalization,on time,Rumanian,46.33
+Hypertension,Hospitalization,on time,Russian,29.65
+Hypertension,Hospitalization,on time,Tunisian,7.0
+Hypertension,Hospitalization,on time,Turkish,48.33
+Hypertension,Hospitalization,on time,Ucranian,49.3
+Hypertension,Hospitalization,on time,United States,43.73
+Hypertension,Hospitalization,on time,Uzbek,217.0
+Hypertension,Hospitalization,on time,Yemeni,23.6
+Hypertension,Procedure,later,Algerian,2.61
+Hypertension,Procedure,later,Argentinian,2.81
+Hypertension,Procedure,later,Azerbaijani,4.25
+Hypertension,Procedure,later,Bilorussian,2.33
+Hypertension,Procedure,later,Bulgarian,3.43
+Hypertension,Procedure,later,Egyptian,4.0
+Hypertension,Procedure,later,English,0.76
+Hypertension,Procedure,later,Ethiopian,2.04
+Hypertension,Procedure,later,French,2.14
+Hypertension,Procedure,later,Georgian,0.9
+Hypertension,Procedure,later,German,2.82
+Hypertension,Procedure,later,Hungarian,0.86
+Hypertension,Procedure,later,Indu,3.55
+Hypertension,Procedure,later,Iranian,2.49
+Hypertension,Procedure,later,Iraqui,3.15
+Hypertension,Procedure,later,Israeli,2.71
+Hypertension,Procedure,later,Kazakh,5.8
+Hypertension,Procedure,later,Libyan,2.08
+Hypertension,Procedure,later,Moldavian,1.67
+Hypertension,Procedure,later,Moroccan,3.47
+Hypertension,Procedure,later,Polonian,2.64
+Hypertension,Procedure,later,Rumanian,2.57
+Hypertension,Procedure,later,Russian,3.18
+Hypertension,Procedure,later,Sirian,0.0
+Hypertension,Procedure,later,South African,2.14
+Hypertension,Procedure,later,Tunisian,1.44
+Hypertension,Procedure,later,Turkish,1.29
+Hypertension,Procedure,later,Ucranian,3.44
+Hypertension,Procedure,later,United States,1.98
+Hypertension,Procedure,later,Uzbek,1.96
+Hypertension,Procedure,later,Yemeni,1.71
+Hypertension,Procedure,on time,Algerian,0.0
+Hypertension,Procedure,on time,Argentinian,4.67
+Hypertension,Procedure,on time,Azerbaijani,3.0
+Hypertension,Procedure,on time,Bilorussian,6.4
+Hypertension,Procedure,on time,Bulgarian,3.33
+Hypertension,Procedure,on time,Egyptian,1.6
+Hypertension,Procedure,on time,English,0.67
+Hypertension,Procedure,on time,Ethiopian,2.7
+Hypertension,Procedure,on time,French,3.56
+Hypertension,Procedure,on time,Georgian,16.33
+Hypertension,Procedure,on time,German,2.5
+Hypertension,Procedure,on time,Hungarian,0.0
+Hypertension,Procedure,on time,Indu,0.25
+Hypertension,Procedure,on time,Iranian,3.2
+Hypertension,Procedure,on time,Iraqui,1.73
+Hypertension,Procedure,on time,Israeli,4.15
+Hypertension,Procedure,on time,Kazakh,0.0
+Hypertension,Procedure,on time,Libyan,10.33
+Hypertension,Procedure,on time,Moldavian,1.67
+Hypertension,Procedure,on time,Moroccan,3.21
+Hypertension,Procedure,on time,Polonian,4.09
+Hypertension,Procedure,on time,Rumanian,3.89
+Hypertension,Procedure,on time,Russian,2.26
+Hypertension,Procedure,on time,Tunisian,2.5
+Hypertension,Procedure,on time,Turkish,6.33
+Hypertension,Procedure,on time,Ucranian,6.55
+Hypertension,Procedure,on time,United States,1.73
+Hypertension,Procedure,on time,Uzbek,7.0
+Hypertension,Procedure,on time,Yemeni,1.8
+Obesity,Hospitalization,later,Algerian,36.02
+Obesity,Hospitalization,later,Argentinian,48.24
+Obesity,Hospitalization,later,Azerbaijani,45.27
+Obesity,Hospitalization,later,Bilorussian,50.11
+Obesity,Hospitalization,later,Bulgarian,24.08
+Obesity,Hospitalization,later,Egyptian,11.08
+Obesity,Hospitalization,later,English,37.5
+Obesity,Hospitalization,later,Ethiopian,26.62
+Obesity,Hospitalization,later,French,29.23
+Obesity,Hospitalization,later,Georgian,57.33
+Obesity,Hospitalization,later,German,28.8
+Obesity,Hospitalization,later,Hungarian,27.38
+Obesity,Hospitalization,later,Indu,31.72
+Obesity,Hospitalization,later,Iranian,34.97
+Obesity,Hospitalization,later,Iraqui,31.54
+Obesity,Hospitalization,later,Israeli,36.78
+Obesity,Hospitalization,later,Kazakh,25.67
+Obesity,Hospitalization,later,Libyan,57.29
+Obesity,Hospitalization,later,Moldavian,32.83
+Obesity,Hospitalization,later,Moroccan,38.96
+Obesity,Hospitalization,later,Polonian,33.38
+Obesity,Hospitalization,later,Rumanian,31.62
+Obesity,Hospitalization,later,Russian,36.27
+Obesity,Hospitalization,later,Sirian,28.0
+Obesity,Hospitalization,later,South African,24.67
+Obesity,Hospitalization,later,Tunisian,17.78
+Obesity,Hospitalization,later,Turkish,37.96
+Obesity,Hospitalization,later,Ucranian,33.78
+Obesity,Hospitalization,later,United States,36.97
+Obesity,Hospitalization,later,Uzbek,43.5
+Obesity,Hospitalization,later,Yemeni,23.81
+Obesity,Hospitalization,on time,Algerian,24.75
+Obesity,Hospitalization,on time,Argentinian,18.35
+Obesity,Hospitalization,on time,Azerbaijani,19.8
+Obesity,Hospitalization,on time,Bilorussian,30.82
+Obesity,Hospitalization,on time,Bulgarian,18.4
+Obesity,Hospitalization,on time,Egyptian,14.43
+Obesity,Hospitalization,on time,English,13.27
+Obesity,Hospitalization,on time,Ethiopian,17.23
+Obesity,Hospitalization,on time,French,22.76
+Obesity,Hospitalization,on time,Georgian,12.33
+Obesity,Hospitalization,on time,German,28.0
+Obesity,Hospitalization,on time,Hungarian,8.78
+Obesity,Hospitalization,on time,Indu,33.33
+Obesity,Hospitalization,on time,Iranian,20.92
+Obesity,Hospitalization,on time,Iraqui,28.35
+Obesity,Hospitalization,on time,Israeli,22.31
+Obesity,Hospitalization,on time,Kazakh,7.0
+Obesity,Hospitalization,on time,Libyan,26.3
+Obesity,Hospitalization,on time,Moldavian,13.5
+Obesity,Hospitalization,on time,Moroccan,20.87
+Obesity,Hospitalization,on time,Polonian,19.0
+Obesity,Hospitalization,on time,Rumanian,18.97
+Obesity,Hospitalization,on time,Russian,19.73
+Obesity,Hospitalization,on time,Sirian,17.29
+Obesity,Hospitalization,on time,South African,14.0
+Obesity,Hospitalization,on time,Tunisian,23.92
+Obesity,Hospitalization,on time,Turkish,22.62
+Obesity,Hospitalization,on time,Ucranian,17.46
+Obesity,Hospitalization,on time,United States,24.73
+Obesity,Hospitalization,on time,Uzbek,21.38
+Obesity,Hospitalization,on time,Yemeni,33.07
+Obesity,Procedure,later,Algerian,2.06
+Obesity,Procedure,later,Argentinian,2.52
+Obesity,Procedure,later,Azerbaijani,3.09
+Obesity,Procedure,later,Bilorussian,3.58
+Obesity,Procedure,later,Bulgarian,1.17
+Obesity,Procedure,later,Egyptian,1.15
+Obesity,Procedure,later,English,1.0
+Obesity,Procedure,later,Ethiopian,2.26
+Obesity,Procedure,later,French,2.4
+Obesity,Procedure,later,Georgian,3.33
+Obesity,Procedure,later,German,1.4
+Obesity,Procedure,later,Hungarian,0.75
+Obesity,Procedure,later,Indu,2.67
+Obesity,Procedure,later,Iranian,2.05
+Obesity,Procedure,later,Iraqui,3.8
+Obesity,Procedure,later,Israeli,2.43
+Obesity,Procedure,later,Kazakh,0.5
+Obesity,Procedure,later,Libyan,2.5
+Obesity,Procedure,later,Moldavian,1.33
+Obesity,Procedure,later,Moroccan,2.44
+Obesity,Procedure,later,Polonian,2.28
+Obesity,Procedure,later,Rumanian,2.25
+Obesity,Procedure,later,Russian,1.86
+Obesity,Procedure,later,Sirian,1.17
+Obesity,Procedure,later,South African,0.0
+Obesity,Procedure,later,Tunisian,0.94
+Obesity,Procedure,later,Turkish,2.74
+Obesity,Procedure,later,Ucranian,2.84
+Obesity,Procedure,later,United States,1.88
+Obesity,Procedure,later,Uzbek,2.15
+Obesity,Procedure,later,Yemeni,1.76
+Obesity,Procedure,on time,Algerian,2.8
+Obesity,Procedure,on time,Argentinian,0.96
+Obesity,Procedure,on time,Azerbaijani,3.0
+Obesity,Procedure,on time,Bilorussian,0.27
+Obesity,Procedure,on time,Bulgarian,0.2
+Obesity,Procedure,on time,Egyptian,2.71
+Obesity,Procedure,on time,English,0.55
+Obesity,Procedure,on time,Ethiopian,1.41
+Obesity,Procedure,on time,French,1.76
+Obesity,Procedure,on time,Georgian,1.17
+Obesity,Procedure,on time,German,1.67
+Obesity,Procedure,on time,Hungarian,0.78
+Obesity,Procedure,on time,Indu,3.92
+Obesity,Procedure,on time,Iranian,2.35
+Obesity,Procedure,on time,Iraqui,2.84
+Obesity,Procedure,on time,Israeli,2.08
+Obesity,Procedure,on time,Kazakh,0.0
+Obesity,Procedure,on time,Libyan,4.0
+Obesity,Procedure,on time,Moldavian,2.5
+Obesity,Procedure,on time,Moroccan,2.57
+Obesity,Procedure,on time,Polonian,0.94
+Obesity,Procedure,on time,Rumanian,1.74
+Obesity,Procedure,on time,Russian,1.51
+Obesity,Procedure,on time,Sirian,1.43
+Obesity,Procedure,on time,South African,1.0
+Obesity,Procedure,on time,Tunisian,2.67
+Obesity,Procedure,on time,Turkish,2.0
+Obesity,Procedure,on time,Ucranian,1.47
+Obesity,Procedure,on time,United States,2.05
+Obesity,Procedure,on time,Uzbek,1.44
+Obesity,Procedure,on time,Yemeni,2.14

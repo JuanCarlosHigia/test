@@ -1,0 +1,8 @@
+Diseases,Categories,Counts,percentage_diagnosed
+CKD,At Risk,114228.0,279%
+Diabetes,At Risk,29348.0,82%
+Dyslipidemia,At Risk,99309.0,242%
+Heart disease,At Risk,71455.0,100%
+Hypertension,At Risk,87840.0,99%
+Nash,At Risk,52883.0,595%
+Obesity,At Risk,127455.0,615%

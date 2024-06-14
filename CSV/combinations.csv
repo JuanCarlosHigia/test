@@ -1,0 +1,1289 @@
+Gender,Age Group,Combination of Diagnostics,NUM_DIAGS,Counts
+Female,70+,Heart disease,1,2964
+Male,70+,Heart disease,1,2586
+Female,70+,Dyslipidemia,1,2211
+Male,60-69,Heart disease,1,1574
+Male,70+,"Dyslipidemia, Heart disease",2,1392
+Male,70+,"CKD, Heart disease, Hypertension",3,1384
+Female,60-69,Dyslipidemia,1,1313
+Female,70+,"Dyslipidemia, Heart disease",2,1251
+Male,50-59,Heart disease,1,1208
+Male,70+,"CKD, Dyslipidemia, Heart disease, Hypertension",3+,1157
+Male,70+,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension",3+,1136
+Male,60-69,Dyslipidemia,1,1129
+Female,70+,"CKD, Heart disease, Hypertension",3,1090
+Male,70+,Dyslipidemia,1,1069
+Male,70+,"CKD, Diabetes, Heart disease, Hypertension",3+,1039
+Male,60-69,"Dyslipidemia, Heart disease",2,934
+Female,70+,Diabetes,1,925
+Female,70+,"CKD, Dyslipidemia, Heart disease, Hypertension",3+,914
+Female,60-69,Heart disease,1,894
+Male,50-59,Dyslipidemia,1,889
+Female,50-59,Dyslipidemia,1,876
+Male,70+,"CKD, Heart disease",2,863
+Male,70+,"Diabetes, Heart disease",2,841
+Female,70+,"CKD, Heart disease",2,832
+Female,70+,CKD,1,814
+Female,70+,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension",3+,809
+Female,70+,"Diabetes, Heart disease",2,775
+Female,40-49,Obesity,1,772
+Female,30-39,Obesity,1,766
+Female,70+,"CKD, Diabetes, Heart disease, Hypertension",3+,716
+Female,50-59,Obesity,1,715
+Female,50-59,Heart disease,1,687
+Female,20-29,Obesity,1,677
+Male,70+,CKD,1,666
+Male,50-59,Diabetes,1,641
+Female,60-69,Diabetes,1,615
+Female,30-39,Diabetes,1,615
+Male,50-59,"Dyslipidemia, Heart disease",2,613
+Male,60-69,Diabetes,1,599
+Male,40-49,Heart disease,1,587
+Male,70+,Diabetes,1,572
+Male,50-59,CKD,1,571
+Male,70+,"CKD, Hypertension",2,565
+Male,70+,"Diabetes, Dyslipidemia, Heart disease",3,565
+Female,50-59,Diabetes,1,558
+Male,60-69,CKD,1,552
+Female,70+,"CKD, Hypertension",2,544
+Female,60-69,Obesity,1,503
+Female,70+,"Diabetes, Dyslipidemia",2,497
+Male,60-69,"Diabetes, Heart disease",2,481
+Male,40-49,Dyslipidemia,1,473
+Male,60-69,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension",3+,466
+Female,60-69,"Dyslipidemia, Heart disease",2,457
+Male,70+,"CKD, Dyslipidemia, Heart disease",3,439
+Male,70+,"CKD, Diabetes, Heart disease",3,438
+Female,40-49,Diabetes,1,409
+Male,40-49,CKD,1,408
+Female,70+,"Diabetes, Dyslipidemia, Heart disease",3,407
+Male,60-69,"Diabetes, Dyslipidemia, Heart disease",3,385
+Male,40-49,Diabetes,1,385
+Female,70+,"CKD, Diabetes, Heart disease",3,382
+Female,60-69,CKD,1,382
+Female,60-69,"Diabetes, Dyslipidemia",2,376
+Female,50-59,CKD,1,368
+Female,70+,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension, Obesity",3+,359
+Female,40-49,Heart disease,1,357
+Male,70+,"Diabetes, Dyslipidemia",2,355
+Male,60-69,"Diabetes, Dyslipidemia",2,351
+Male,60-69,"CKD, Diabetes, Heart disease, Hypertension",3+,350
+Male,50-59,Obesity,1,343
+Female,70+,"Dyslipidemia, Heart disease, Hypertension",3,340
+Female,20-29,Diabetes,1,336
+Female,70+,"CKD, Dyslipidemia, Heart disease",3,328
+Male,60-69,"CKD, Dyslipidemia, Heart disease, Hypertension",3+,322
+Male,40-49,Obesity,1,316
+Male,70+,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension, Obesity",3+,315
+Male,60-69,"CKD, Heart disease",2,315
+Male,30-39,CKD,1,309
+Male,60-69,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension, Obesity",3+,297
+Male,20-29,CKD,1,296
+Female,70+,"CKD, Dyslipidemia",2,289
+Male,60-69,"CKD, Heart disease, Hypertension",3,287
+Female,70+,"CKD, Dyslipidemia, Hypertension",3,286
+Male,50-59,"Diabetes, Heart disease",2,286
+Female,40-49,Dyslipidemia,1,274
+Male,50-59,"Diabetes, Dyslipidemia",2,273
+Male,50-59,Nash,1,270
+Male,70+,"CKD, Dyslipidemia",2,266
+Female,60-69,"Diabetes, Heart disease",2,261
+Female,40-49,CKD,1,259
+Male,70+,"CKD, Diabetes, Hypertension",3,250
+Female,70+,"CKD, Diabetes",2,249
+Male,70+,"CKD, Dyslipidemia, Hypertension",3,236
+Female,70+,"CKD, Diabetes, Hypertension",3,235
+Male,70+,"CKD, Diabetes, Dyslipidemia, Heart disease",3+,232
+Female,60-69,"Dyslipidemia, Obesity",2,232
+Female,70+,"Heart disease, Hypertension",2,231
+Female,60-69,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension, Obesity",3+,229
+Male,70+,"CKD, Diabetes",2,229
+Female,50-59,"Diabetes, Dyslipidemia",2,227
+Male,50-59,"Diabetes, Dyslipidemia, Heart disease",3,223
+Female,50-59,"Dyslipidemia, Heart disease",2,220
+Male,70+,"Dyslipidemia, Heart disease, Hypertension",3,220
+Male,30-39,Obesity,1,212
+Female,70+,Obesity,1,211
+Male,60-69,"CKD, Hypertension",2,210
+Female,70+,"CKD, Diabetes, Dyslipidemia, Heart disease",3+,210
+Female,70+,"CKD, Diabetes, Dyslipidemia, Hypertension",3+,209
+Female,50-59,Nash,1,208
+Female,30-39,Hypertension,1,206
+Female,60-69,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension",3+,206
+Male,30-39,Heart disease,1,204
+Female,50-59,"Diabetes, Obesity",2,204
+Male,50-59,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension",3+,202
+Male,60-69,Obesity,1,198
+Male,50-59,"CKD, Heart disease",2,198
+Male,70+,"CKD, Diabetes, Dyslipidemia, Hypertension",3+,192
+Female,60-69,"Diabetes, Dyslipidemia, Heart disease",3,190
+Female,50-59,"Dyslipidemia, Obesity",2,189
+Female,20-29,CKD,1,188
+Male,40-49,"Dyslipidemia, Heart disease",2,188
+Female,30-39,Heart disease,1,187
+Male,50-59,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension, Obesity",3+,186
+Male,60-69,"CKD, Diabetes, Heart disease",3,181
+Male,60-69,"CKD, Diabetes",2,173
+Female,60-69,"Diabetes, Dyslipidemia, Obesity",3,171
+Male,40-49,Nash,1,170
+Female,70+,"CKD, Dyslipidemia, Heart disease, Hypertension, Obesity",3+,169
+Male,50-59,"CKD, Diabetes",2,167
+Female,30-39,CKD,1,166
+Male,60-69,"CKD, Dyslipidemia, Heart disease",3,166
+Male,50-59,"CKD, Nash",2,165
+Female,40-49,"Diabetes, Obesity",2,164
+Male,50-59,"CKD, Hypertension",2,163
+Female,70+,"CKD, Diabetes, Heart disease, Hypertension, Obesity",3+,162
+Male,60-69,Nash,1,162
+Female,30-39,"Diabetes, Obesity",2,161
+Male,60-69,"CKD, Dyslipidemia",2,160
+Female,50-59,"Diabetes, Dyslipidemia, Obesity",3,159
+Female,60-69,Nash,1,158
+Female,60-69,"CKD, Heart disease",2,156
+Female,70+,"Dyslipidemia, Obesity",2,156
+Female,60-69,"Diabetes, Obesity",2,153
+Female,40-49,Nash,1,152
+Male,60-69,"Diabetes, Dyslipidemia, Heart disease, Obesity",3+,152
+Male,70+,"CKD, Dyslipidemia, Heart disease, Hypertension, Obesity",3+,151
+Male,20-29,Obesity,1,150
+Male,60-69,"Dyslipidemia, Heart disease, Obesity",3,149
+Male,60-69,"CKD, Diabetes, Dyslipidemia, Heart disease",3+,146
+Female,60-69,"CKD, Diabetes, Heart disease, Hypertension",3+,145
+Male,30-39,Dyslipidemia,1,145
+Male,30-39,Diabetes,1,143
+Male,50-59,"Dyslipidemia, Obesity",2,141
+Male,60-69,"CKD, Diabetes, Hypertension",3,140
+Male,50-59,"Heart disease, Obesity",2,138
+Female,70+,"Diabetes, Dyslipidemia, Heart disease, Hypertension",3+,137
+Female,70+,"CKD, Diabetes, Dyslipidemia",3,137
+Female,20-29,Hypertension,1,135
+Male,50-59,"CKD, Heart disease, Hypertension",3,133
+Male,50-59,"CKD, Diabetes, Heart disease, Hypertension",3+,126
+Male,50-59,"CKD, Dyslipidemia, Heart disease, Hypertension",3+,126
+Male,70+,"CKD, Diabetes, Dyslipidemia",3,123
+Male,40-49,"CKD, Heart disease",2,122
+Female,60-69,"CKD, Dyslipidemia",2,122
+Male,30-39,Nash,1,121
+Male,40-49,"CKD, Hypertension",2,120
+Male,60-69,"Heart disease, Obesity",2,119
+Male,60-69,"Dyslipidemia, Obesity",2,119
+Female,50-59,"Diabetes, Heart disease",2,118
+Male,50-59,"CKD, Dyslipidemia",2,117
+Female,70+,"Heart disease, Obesity",2,117
+Male,60-69,"CKD, Dyslipidemia, Hypertension",3,117
+Female,60-69,"CKD, Dyslipidemia, Heart disease, Hypertension",3+,116
+Male,40-49,"Diabetes, Dyslipidemia",2,116
+Male,70+,"Diabetes, Dyslipidemia, Heart disease, Hypertension",3+,115
+Female,50-59,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension, Obesity",3+,115
+Male,70+,"CKD, Diabetes, Heart disease, Hypertension, Obesity",3+,115
+Male,20-29,Heart disease,1,115
+Female,30-39,Nash,1,115
+Male,60-69,"CKD, Diabetes, Dyslipidemia, Hypertension",3+,115
+Male,70+,"Heart disease, Hypertension",2,114
+Female,60-69,"CKD, Heart disease, Hypertension",3,112
+Male,50-59,"Diabetes, Dyslipidemia, Heart disease, Obesity",3+,111
+Male,60-69,"CKD, Diabetes, Heart disease, Hypertension, Obesity",3+,111
+Male,50-59,"CKD, Diabetes, Heart disease",3,111
+Female,50-59,"CKD, Diabetes",2,111
+Male,40-49,"CKD, Nash",2,111
+Male,50-59,"Diabetes, Obesity",2,111
+Female,60-69,"Heart disease, Obesity",2,110
+Female,30-39,Dyslipidemia,1,108
+Female,60-69,"CKD, Hypertension",2,107
+Female,60-69,"CKD, Diabetes",2,107
+Female,60-69,"CKD, Diabetes, Heart disease",3,107
+Male,50-59,"Dyslipidemia, Heart disease, Obesity",3,106
+Female,60-69,"Dyslipidemia, Heart disease, Obesity",3,106
+Female,50-59,"Heart disease, Obesity",2,105
+Male,60-69,"Dyslipidemia, Heart disease, Hypertension",3,104
+Female,40-49,"Diabetes, Dyslipidemia",2,103
+Female,50-59,"Diabetes, Dyslipidemia, Heart disease",3,102
+Female,60-69,"Diabetes, Dyslipidemia, Heart disease, Obesity",3+,102
+Male,60-69,"Diabetes, Heart disease, Obesity",3,102
+Male,60-69,"CKD, Diabetes, Dyslipidemia",3,102
+Female,40-49,"Diabetes, Dyslipidemia, Obesity",3,101
+Female,70+,Nash,1,101
+Female,40-49,"Dyslipidemia, Obesity",2,100
+Female,20-29,Heart disease,1,100
+Male,50-59,"CKD, Diabetes, Hypertension",3,100
+Female,30-39,"Nash, Obesity",2,99
+Female,50-59,"CKD, Heart disease",2,98
+Male,40-49,"Diabetes, Heart disease",2,98
+Female,50-59,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension",3+,96
+Female,50-59,"CKD, Hypertension",2,95
+Female,20-29,"Diabetes, Obesity",2,95
+Male,70+,"Dyslipidemia, Heart disease, Obesity",3,94
+Male,60-69,"CKD, Nash",2,93
+Male,60-69,"Diabetes, Dyslipidemia, Obesity",3,92
+Female,40-49,"Dyslipidemia, Heart disease",2,92
+Female,70+,"Diabetes, Dyslipidemia, Obesity",3,92
+Male,50-59,"Diabetes, Heart disease, Obesity",3,90
+Female,70+,"Dyslipidemia, Heart disease, Obesity",3,88
+Female,70+,"Diabetes, Dyslipidemia, Heart disease, Obesity",3+,88
+Male,60-69,"Diabetes, Obesity",2,87
+Male,50-59,"Diabetes, Dyslipidemia, Obesity",3,87
+Female,60-69,"CKD, Diabetes, Heart disease, Hypertension, Obesity",3+,86
+Female,70+,"CKD, Heart disease, Hypertension, Obesity",3+,86
+Female,70+,"Diabetes, Obesity",2,86
+Male,50-59,"CKD, Dyslipidemia, Heart disease",3,86
+Female,60-69,"CKD, Diabetes, Dyslipidemia",3,84
+Female,50-59,"CKD, Nash",2,84
+Male,40-49,"CKD, Diabetes",2,82
+Female,70+,"Diabetes, Heart disease, Obesity",3,82
+Male,70+,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension, Nash",3+,81
+Male,70+,"CKD, Dyslipidemia, Heart disease, Hypertension, Nash",3+,81
+Male,70+,"Heart disease, Obesity",2,80
+Male,50-59,"CKD, Diabetes, Dyslipidemia, Heart disease",3+,79
+Female,50-59,"Diabetes, Dyslipidemia, Heart disease, Obesity",3+,78
+Female,40-49,"Nash, Obesity",2,78
+Male,70+,Obesity,1,78
+Female,60-69,"Diabetes, Heart disease, Obesity",3,78
+Male,40-49,"Diabetes, Obesity",2,77
+Male,70+,"CKD, Heart disease, Hypertension, Obesity",3+,76
+Male,70+,"Diabetes, Heart disease, Obesity",3,76
+Male,40-49,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension",3+,76
+Female,60-69,"CKD, Dyslipidemia, Heart disease",3,75
+Female,20-29,Nash,1,74
+Male,50-59,"CKD, Diabetes, Dyslipidemia, Hypertension",3+,73
+Male,50-59,"CKD, Diabetes, Dyslipidemia",3,73
+Female,60-69,"CKD, Diabetes, Dyslipidemia, Hypertension",3+,72
+Male,40-49,"Dyslipidemia, Obesity",2,72
+Male,70+,Nash,1,72
+Male,60-69,"CKD, Dyslipidemia, Heart disease, Hypertension, Obesity",3+,72
+Female,60-69,"CKD, Dyslipidemia, Heart disease, Hypertension, Obesity",3+,71
+Female,60-69,"CKD, Diabetes, Hypertension",3,71
+Female,60-69,"CKD, Dyslipidemia, Hypertension",3,71
+Male,70+,"Dyslipidemia, Obesity",2,71
+Female,50-59,"Nash, Obesity",2,70
+Female,30-39,"Hypertension, Obesity",2,70
+Female,50-59,"CKD, Obesity",2,69
+Male,50-59,"CKD, Diabetes, Heart disease, Hypertension, Obesity",3+,69
+Female,60-69,"Dyslipidemia, Heart disease, Hypertension",3,68
+Male,40-49,"Diabetes, Dyslipidemia, Heart disease",3,68
+Female,50-59,"CKD, Dyslipidemia",2,67
+Male,60-69,"CKD, Diabetes, Heart disease, Obesity",3+,66
+Female,20-29,"Nash, Obesity",2,65
+Female,40-49,"CKD, Nash",2,65
+Male,20-29,Nash,1,64
+Male,70+,"Diabetes, Dyslipidemia, Heart disease, Obesity",3+,63
+Male,30-39,"CKD, Hypertension",2,63
+Male,50-59,"CKD, Dyslipidemia, Hypertension",3,62
+Male,30-39,"CKD, Heart disease",2,61
+Male,50-59,"CKD, Diabetes, Nash",3,61
+Male,60-69,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension, Nash",3+,61
+Male,60-69,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension, Nash, Obesity",3+,60
+Male,40-49,"CKD, Heart disease, Hypertension",3,60
+Male,60-69,"Diabetes, Dyslipidemia, Heart disease, Hypertension",3+,59
+Female,60-69,"CKD, Diabetes, Dyslipidemia, Heart disease",3+,59
+Male,40-49,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension, Obesity",3+,59
+Female,60-69,"CKD, Obesity",2,59
+Female,50-59,"CKD, Heart disease, Hypertension",3,58
+Male,40-49,"Heart disease, Obesity",2,58
+Female,60-69,"CKD, Nash",2,58
+Female,70+,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension, Nash",3+,58
+Male,50-59,"Dyslipidemia, Heart disease, Hypertension",3,58
+Female,70+,"Diabetes, Heart disease, Hypertension",3,57
+Male,40-49,"Diabetes, Dyslipidemia, Obesity",3,57
+Female,10-19,Obesity,1,57
+Female,60-69,"Diabetes, Dyslipidemia, Heart disease, Hypertension",3+,57
+Female,50-59,"Diabetes, Heart disease, Obesity",3,57
+Male,50-59,"CKD, Obesity",2,56
+Male,70+,"CKD, Nash",2,56
+Male,60-69,"Heart disease, Hypertension",2,56
+Female,30-39,"CKD, Hypertension",2,55
+Female,40-49,"CKD, Heart disease",2,55
+Male,50-59,"CKD, Heart disease, Nash",3,55
+Female,50-59,"CKD, Diabetes, Heart disease, Hypertension",3+,55
+Female,50-59,"CKD, Diabetes, Obesity",3,55
+Female,40-49,"CKD, Diabetes",2,55
+Female,20-29,"Hypertension, Obesity",2,55
+Female,70+,"Diabetes, Dyslipidemia, Heart disease, Hypertension, Obesity",3+,55
+Male,50-59,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension, Nash, Obesity",3+,54
+Male,50-59,"Heart disease, Nash",2,53
+Female,40-49,"Heart disease, Obesity",2,53
+Male,50-59,"CKD, Dyslipidemia, Heart disease, Hypertension, Obesity",3+,53
+Female,40-49,"CKD, Hypertension",2,52
+Female,30-39,"Dyslipidemia, Obesity",2,52
+Male,40-49,"Nash, Obesity",2,51
+Male,60-69,"CKD, Heart disease, Nash",3,51
+Male,70+,"CKD, Heart disease, Hypertension, Nash",3+,51
+Male,40-49,"CKD, Dyslipidemia",2,51
+Male,40-49,"CKD, Diabetes, Heart disease, Hypertension",3+,50
+Female,70+,"CKD, Heart disease, Obesity",3,50
+Male,50-59,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension, Nash",3+,50
+Female,50-59,"CKD, Diabetes, Heart disease",3,50
+Female,70+,"Dyslipidemia, Nash",2,50
+Female,50-59,"CKD, Diabetes, Dyslipidemia",3,50
+Female,30-39,"Diabetes, Hypertension",2,49
+Male,20-29,Diabetes,1,49
+Female,70+,"Heart disease, Nash",2,49
+Male,70+,"CKD, Heart disease, Nash",3,49
+Female,70+,"CKD, Diabetes, Heart disease, Obesity",3+,49
+Female,70+,"CKD, Diabetes, Dyslipidemia, Hypertension, Obesity",3+,49
+Female,60-69,"CKD, Diabetes, Dyslipidemia, Hypertension, Obesity",3+,49
+Female,60-69,"CKD, Diabetes, Heart disease, Obesity",3+,49
+Female,50-59,"CKD, Dyslipidemia, Heart disease, Hypertension",3+,49
+Male,60-69,"CKD, Obesity",2,49
+Female,50-59,"Dyslipidemia, Heart disease, Obesity",3,49
+Female,60-69,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension, Nash, Obesity",3+,48
+Male,70+,"CKD, Diabetes, Heart disease, Obesity",3+,48
+Male,60-69,"Dyslipidemia, Nash",2,48
+Female,60-69,"Dyslipidemia, Nash",2,47
+Male,60-69,"CKD, Diabetes, Dyslipidemia, Heart disease, Obesity",3+,47
+Male,50-59,"Diabetes, Nash",2,47
+Female,70+,"CKD, Heart disease, Hypertension, Nash",3+,47
+Male,70+,"CKD, Diabetes, Heart disease, Hypertension, Nash",3+,47
+Male,60-69,"CKD, Diabetes, Dyslipidemia, Hypertension, Obesity",3+,46
+Male,60-69,"Heart disease, Nash",2,46
+Male,40-49,"CKD, Diabetes, Hypertension",3,46
+Male,50-59,"Dyslipidemia, Nash",2,46
+Male,70+,"CKD, Diabetes, Dyslipidemia, Heart disease, Obesity",3+,46
+Female,20-29,Dyslipidemia,1,46
+Female,40-49,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension, Obesity",3+,45
+Female,60-69,"Diabetes, Dyslipidemia, Heart disease, Hypertension, Obesity",3+,45
+Male,50-59,"CKD, Diabetes, Heart disease, Obesity",3+,45
+Female,40-49,Hypertension,1,45
+Female,70+,"CKD, Diabetes, Dyslipidemia, Heart disease, Obesity",3+,44
+Male,20-29,"CKD, Heart disease",2,44
+Male,60-69,"CKD, Diabetes, Nash",3,43
+Female,70+,"CKD, Dyslipidemia, Heart disease, Hypertension, Nash",3+,43
+Female,70+,"CKD, Obesity",2,43
+Male,60-69,"Diabetes, Dyslipidemia, Heart disease, Hypertension, Obesity",3+,43
+Female,40-49,"CKD, Obesity",2,43
+Male,50-59,"Heart disease, Hypertension",2,43
+Male,30-39,"Nash, Obesity",2,42
+Male,70+,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension, Nash, Obesity",3+,42
+Female,50-59,"Dyslipidemia, Nash",2,42
+Male,40-49,"CKD, Obesity",2,42
+Female,50-59,"CKD, Diabetes, Hypertension",3,42
+Female,60-69,"CKD, Diabetes, Dyslipidemia, Heart disease, Obesity",3+,42
+Male,60-69,"CKD, Diabetes, Heart disease, Hypertension, Nash",3+,42
+Male,70+,"Diabetes, Obesity",2,42
+Female,50-59,"CKD, Diabetes, Heart disease, Hypertension, Obesity",3+,42
+Female,60-69,"CKD, Diabetes, Obesity",3,42
+Male,60-69,"Diabetes, Nash",2,41
+Female,60-69,"CKD, Diabetes, Dyslipidemia, Obesity",3+,41
+Female,30-39,"CKD, Nash",2,41
+Male,70+,"Heart disease, Nash",2,40
+Female,70+,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension, Nash, Obesity",3+,40
+Female,60-69,"Heart disease, Hypertension",2,40
+Female,60-69,"CKD, Diabetes, Hypertension, Obesity",3+,40
+Female,40-49,"Diabetes, Heart disease",2,40
+Male,50-59,"CKD, Diabetes, Dyslipidemia, Heart disease, Obesity",3+,40
+Female,60-69,"CKD, Heart disease, Hypertension, Obesity",3+,40
+Male,40-49,"CKD, Dyslipidemia, Heart disease, Hypertension",3+,39
+Female,70+,"CKD, Diabetes, Heart disease, Hypertension, Nash",3+,39
+Female,70+,"CKD, Nash",2,39
+Female,50-59,"Diabetes, Nash",2,38
+Male,70+,"Diabetes, Dyslipidemia, Heart disease, Hypertension, Obesity",3+,38
+Male,50-59,"Nash, Obesity",2,38
+Male,30-39,"Diabetes, Obesity",2,38
+Female,70+,"Dyslipidemia, Heart disease, Hypertension, Obesity",3+,38
+Male,20-29,Dyslipidemia,1,38
+Male,60-69,"CKD, Dyslipidemia, Heart disease, Obesity",3+,38
+Male,70+,"Dyslipidemia, Heart disease, Hypertension, Obesity",3+,38
+Female,50-59,"CKD, Diabetes, Dyslipidemia, Obesity",3+,38
+Female,60-69,"CKD, Hypertension, Obesity",3,37
+Male,60-69,"CKD, Diabetes, Obesity",3,37
+Male,50-59,"CKD, Heart disease, Obesity",3,37
+Female,50-59,"Heart disease, Nash",2,36
+Male,40-49,"Diabetes, Heart disease, Obesity",3,36
+Male,60-69,"CKD, Heart disease, Hypertension, Nash",3+,36
+Male,50-59,"CKD, Diabetes, Heart disease, Hypertension, Nash",3+,36
+Female,50-59,"CKD, Dyslipidemia, Hypertension",3,36
+Male,30-39,"CKD, Nash",2,36
+Male,50-59,"CKD, Diabetes, Heart disease, Nash",3+,36
+Female,70+,"CKD, Diabetes, Obesity",3,36
+Female,50-59,"Diabetes, Dyslipidemia, Nash, Obesity",3+,36
+Male,40-49,"Diabetes, Dyslipidemia, Heart disease, Obesity",3+,35
+Female,30-39,"Diabetes, Dyslipidemia, Obesity",3,35
+Male,30-39,"Diabetes, Dyslipidemia",2,35
+Female,70+,"CKD, Diabetes, Dyslipidemia, Obesity",3+,35
+Male,70+,"Diabetes, Dyslipidemia, Obesity",3,35
+Female,50-59,"CKD, Diabetes, Dyslipidemia, Heart disease",3+,35
+Male,40-49,"CKD, Diabetes, Heart disease",3,35
+Male,40-49,"CKD, Diabetes, Dyslipidemia",3,34
+Male,60-69,"CKD, Diabetes, Dyslipidemia, Obesity",3+,34
+Female,60-69,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension, Nash",3+,34
+Female,70+,"CKD, Dyslipidemia, Heart disease, Obesity",3+,34
+Female,70+,"Diabetes, Nash",2,34
+Female,20-29,"CKD, Hypertension",2,34
+Female,60-69,"CKD, Heart disease, Nash",3,34
+Male,60-69,"Dyslipidemia, Heart disease, Hypertension, Obesity",3+,34
+Male,30-39,"Dyslipidemia, Heart disease",2,34
+Female,30-39,"CKD, Obesity",2,34
+Male,60-69,"CKD, Heart disease, Hypertension, Obesity",3+,34
+Female,50-59,"CKD, Diabetes, Dyslipidemia, Hypertension, Obesity",3+,34
+Female,70+,"CKD, Dyslipidemia, Hypertension, Obesity",3+,34
+Female,50-59,"Diabetes, Nash, Obesity",3,33
+Male,40-49,"CKD, Heart disease, Nash",3,33
+Male,20-29,"CKD, Hypertension",2,33
+Female,50-59,"CKD, Dyslipidemia, Heart disease, Hypertension, Obesity",3+,33
+Female,60-69,"Dyslipidemia, Heart disease, Hypertension, Obesity",3+,33
+Male,60-69,"CKD, Diabetes, Heart disease, Nash",3+,33
+Male,50-59,"CKD, Diabetes, Dyslipidemia, Hypertension, Obesity",3+,33
+Female,70+,"CKD, Hypertension, Obesity",3,32
+Male,50-59,"CKD, Hypertension, Nash",3,32
+Female,70+,"CKD, Diabetes, Hypertension, Obesity",3+,32
+Male,50-59,"Diabetes, Dyslipidemia, Heart disease, Hypertension",3+,32
+Male,70+,"CKD, Dyslipidemia, Heart disease, Obesity",3+,32
+Male,40-49,"Dyslipidemia, Heart disease, Obesity",3,32
+Female,30-39,"CKD, Diabetes",2,32
+Male,70+,"CKD, Heart disease, Obesity",3,32
+Female,60-69,"CKD, Heart disease, Obesity",3,31
+Male,40-49,"CKD, Diabetes, Dyslipidemia, Hypertension",3+,31
+Male,60-69,"CKD, Heart disease, Obesity",3,31
+Female,60-69,"Heart disease, Nash",2,31
+Female,30-39,"Heart disease, Obesity",2,31
+Male,50-59,"CKD, Diabetes, Obesity",3,31
+Female,50-59,"CKD, Diabetes, Dyslipidemia, Heart disease, Obesity",3+,31
+Male,50-59,"Diabetes, Dyslipidemia, Nash",3,31
+Male,70+,"Dyslipidemia, Nash",2,30
+Female,60-69,"CKD, Dyslipidemia, Obesity",3,30
+Male,30-39,"Dyslipidemia, Obesity",2,30
+Female,30-39,"Diabetes, Dyslipidemia",2,30
+Female,40-49,"CKD, Diabetes, Obesity",3,30
+Male,60-69,"CKD, Hypertension, Obesity",3,30
+Female,50-59,"CKD, Dyslipidemia, Heart disease",3,30
+Male,50-59,"Diabetes, Nash, Obesity",3,30
+Female,40-49,"Diabetes, Dyslipidemia, Heart disease, Obesity",3+,30
+Female,60-69,"Nash, Obesity",2,30
+Male,50-59,"Dyslipidemia, Heart disease, Hypertension, Obesity",3+,29
+Female,20-29,"CKD, Obesity",2,29
+Male,60-69,"CKD, Diabetes, Hypertension, Obesity",3+,29
+Male,60-69,"CKD, Dyslipidemia, Heart disease, Hypertension, Nash",3+,29
+Female,60-69,"CKD, Dyslipidemia, Hypertension, Obesity",3+,29
+Female,60-69,"Diabetes, Dyslipidemia, Nash, Obesity",3+,29
+Female,40-49,"Diabetes, Nash, Obesity",3,29
+Male,50-59,"CKD, Heart disease, Hypertension, Obesity",3+,29
+Male,70+,"Dyslipidemia, Heart disease, Nash",3,29
+Male,30-39,"CKD, Diabetes",2,29
+Male,50-59,"CKD, Diabetes, Dyslipidemia, Obesity",3+,28
+Male,50-59,"CKD, Diabetes, Hypertension, Nash",3+,28
+Male,40-49,"CKD, Dyslipidemia, Hypertension",3,28
+Male,40-49,"CKD, Dyslipidemia, Heart disease",3,28
+Male,40-49,"Dyslipidemia, Nash",2,28
+Male,40-49,"CKD, Diabetes, Nash",3,28
+Male,70+,"CKD, Obesity",2,28
+Male,70+,"Diabetes, Heart disease, Hypertension",3,28
+Female,40-49,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension",3+,28
+Male,70+,"CKD, Diabetes, Heart disease, Nash",3+,28
+Female,40-49,"CKD, Heart disease, Hypertension",3,27
+Male,40-49,"CKD, Diabetes, Dyslipidemia, Heart disease",3+,27
+Female,50-59,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension, Nash, Obesity",3+,27
+Female,50-59,"CKD, Diabetes, Dyslipidemia, Hypertension",3+,27
+Male,50-59,"CKD, Dyslipidemia, Obesity",3,27
+Female,70+,"Dyslipidemia, Heart disease, Nash",3,27
+Female,40-49,"Diabetes, Dyslipidemia, Heart disease",3,27
+Male,50-59,"Diabetes, Dyslipidemia, Heart disease, Hypertension, Obesity",3+,27
+Female,40-49,"Diabetes, Heart disease, Obesity",3,27
+Female,50-59,"CKD, Heart disease, Hypertension, Obesity",3+,26
+Female,20-29,"Dyslipidemia, Obesity",2,26
+Female,40-49,"CKD, Diabetes, Hypertension",3,26
+Male,30-39,"CKD, Heart disease, Hypertension",3,26
+Male,70+,"CKD, Diabetes, Hypertension, Obesity",3+,26
+Female,30-39,"Diabetes, Hypertension, Obesity",3,26
+Male,30-39,"CKD, Obesity",2,26
+Male,40-49,"Diabetes, Nash",2,26
+Male,70+,"Diabetes, Nash",2,26
+Male,30-39,"Heart disease, Obesity",2,26
+Female,50-59,"CKD, Diabetes, Nash",3,26
+Male,10-19,CKD,1,26
+Male,60-69,"CKD, Diabetes, Hypertension, Nash",3+,25
+Female,70+,"CKD, Heart disease, Nash",3,25
+Female,70+,"CKD, Dyslipidemia, Obesity",3,25
+Male,70+,"CKD, Hypertension, Obesity",3,25
+Male,60-69,"CKD, Hypertension, Nash",3,25
+Female,50-59,"CKD, Diabetes, Heart disease, Obesity",3+,25
+Male,70+,"CKD, Diabetes, Dyslipidemia, Hypertension, Obesity",3+,25
+Female,60-69,"Diabetes, Nash",2,25
+Female,30-39,"Dyslipidemia, Heart disease",2,24
+Female,50-59,"Diabetes, Dyslipidemia, Heart disease, Hypertension, Obesity",3+,24
+Female,50-59,"CKD, Diabetes, Hypertension, Obesity",3+,24
+Female,50-59,"Diabetes, Dyslipidemia, Heart disease, Hypertension",3+,24
+Male,60-69,"Diabetes, Dyslipidemia, Nash",3,24
+Female,40-49,"Diabetes, Dyslipidemia, Nash, Obesity",3+,24
+Male,60-69,"Diabetes, Dyslipidemia, Heart disease, Nash",3+,24
+Male,40-49,"CKD, Diabetes, Obesity",3,24
+Male,60-69,"CKD, Dyslipidemia, Nash",3,24
+Female,50-59,"CKD, Heart disease, Nash",3,24
+Female,40-49,"Dyslipidemia, Heart disease, Obesity",3,24
+Male,70+,"CKD, Diabetes, Nash",3,23
+Female,20-29,"Diabetes, Hypertension, Obesity",3,23
+Male,40-49,"CKD, Heart disease, Hypertension, Obesity",3+,23
+Female,60-69,"Dyslipidemia, Nash, Obesity",3,23
+Female,70+,"Diabetes, Dyslipidemia, Nash",3,23
+Male,40-49,"Diabetes, Nash, Obesity",3,23
+Male,50-59,"CKD, Diabetes, Hypertension, Obesity",3+,23
+Male,50-59,"CKD, Nash, Obesity",3,23
+Male,50-59,"CKD, Hypertension, Obesity",3,23
+Male,70+,"CKD, Hypertension, Nash",3,22
+Female,70+,"Heart disease, Hypertension, Obesity",3,22
+Male,20-29,"CKD, Nash",2,22
+Male,50-59,"Diabetes, Dyslipidemia, Nash, Obesity",3+,22
+Female,30-39,"Diabetes, Nash, Obesity",3,22
+Female,60-69,"Diabetes, Dyslipidemia, Nash",3,22
+Male,60-69,"Dyslipidemia, Heart disease, Nash",3,22
+Female,70+,"Dyslipidemia, Hypertension",2,22
+Male,70+,"CKD, Dyslipidemia, Hypertension, Obesity",3+,22
+Male,50-59,"CKD, Heart disease, Hypertension, Nash",3+,22
+Male,60-69,"CKD, Dyslipidemia, Hypertension, Obesity",3+,22
+Female,60-69,"CKD, Dyslipidemia, Heart disease, Obesity",3+,21
+Female,40-49,"CKD, Heart disease, Obesity",3,21
+Female,50-59,"CKD, Heart disease, Obesity",3,21
+Male,50-59,"CKD, Dyslipidemia, Nash",3,21
+Male,60-69,"CKD, Dyslipidemia, Heart disease, Nash",3+,21
+Female,50-59,"Dyslipidemia, Nash, Obesity",3,21
+Male,40-49,"CKD, Diabetes, Heart disease, Hypertension, Obesity",3+,21
+Female,50-59,"CKD, Dyslipidemia, Obesity",3,21
+Female,40-49,"CKD, Diabetes, Dyslipidemia",3,20
+Male,40-49,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension, Nash, Obesity",3+,20
+Female,40-49,"CKD, Diabetes, Heart disease, Hypertension",3+,20
+Female,50-59,"Diabetes, Dyslipidemia, Nash",3,20
+Female,70+,"Diabetes, Heart disease, Nash",3,20
+Female,40-49,"Dyslipidemia, Nash, Obesity",3,20
+Female,50-59,"Heart disease, Hypertension",2,20
+Female,50-59,"CKD, Nash, Obesity",3,20
+Male,70+,"CKD, Diabetes, Obesity",3,20
+Male,50-59,"CKD, Diabetes, Dyslipidemia, Nash, Obesity",3+,20
+Male,20-29,"Diabetes, Obesity",2,20
+Male,60-69,"CKD, Diabetes, Heart disease, Hypertension, Nash, Obesity",3+,20
+Male,40-49,"CKD, Dyslipidemia, Heart disease, Hypertension, Obesity",3+,20
+Male,30-39,"CKD, Dyslipidemia, Hypertension",3,20
+Male,50-59,"CKD, Dyslipidemia, Heart disease, Hypertension, Nash",3+,19
+Female,40-49,"CKD, Diabetes, Dyslipidemia, Obesity",3+,19
+Male,60-69,"Diabetes, Heart disease, Hypertension",3,19
+Female,30-39,"CKD, Heart disease, Hypertension",3,19
+Female,60-69,"CKD, Diabetes, Nash",3,19
+Male,60-69,"Diabetes, Heart disease, Nash",3,19
+Female,40-49,"Dyslipidemia, Nash",2,19
+Female,40-49,"CKD, Dyslipidemia",2,19
+Male,40-49,"Heart disease, Nash",2,19
+Female,30-39,"CKD, Heart disease",2,19
+Female,10-19,CKD,1,18
+Female,70+,Hypertension,1,18
+Male,60-69,"CKD, Dyslipidemia, Obesity",3,18
+Female,50-59,"Dyslipidemia, Heart disease, Hypertension",3,18
+Female,30-39,"Dyslipidemia, Nash, Obesity",3,18
+Male,70+,"Diabetes, Dyslipidemia, Nash",3,18
+Male,40-49,"CKD, Diabetes, Heart disease, Obesity",3+,18
+Male,40-49,"Heart disease, Hypertension",2,18
+Male,40-49,"CKD, Diabetes, Dyslipidemia, Heart disease, Obesity",3+,18
+Male,60-69,"CKD, Diabetes, Dyslipidemia, Heart disease, Nash",3+,18
+Female,40-49,"CKD, Dyslipidemia, Heart disease, Hypertension",3+,18
+Male,60-69,"CKD, Diabetes, Dyslipidemia, Nash",3+,18
+Female,50-59,"CKD, Heart disease, Hypertension, Nash",3+,18
+Female,40-49,"CKD, Diabetes, Heart disease",3,18
+Male,60-69,"Nash, Obesity",2,18
+Male,50-59,"CKD, Dyslipidemia, Heart disease, Obesity",3+,17
+Female,30-39,"CKD, Diabetes, Hypertension",3,17
+Female,70+,"CKD, Diabetes, Dyslipidemia, Nash",3+,17
+Female,70+,"CKD, Diabetes, Heart disease, Nash",3+,17
+Female,60-69,"CKD, Dyslipidemia, Nash",3,17
+Male,20-29,"Nash, Obesity",2,17
+Female,40-49,"Diabetes, Nash",2,17
+Male,30-39,"CKD, Heart disease, Nash",3,17
+Male,30-39,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension, Obesity",3+,17
+Male,40-49,"CKD, Diabetes, Dyslipidemia, Obesity",3+,16
+Male,40-49,"CKD, Diabetes, Dyslipidemia, Hypertension, Obesity",3+,16
+Male,60-69,"CKD, Dyslipidemia, Heart disease, Hypertension, Nash, Obesity",3+,16
+Male,70+,"Diabetes, Dyslipidemia, Heart disease, Nash",3+,16
+Female,20-29,"CKD, Heart disease",2,16
+Male,50-59,"Diabetes, Heart disease, Nash",3,16
+Female,70+,"Diabetes, Dyslipidemia, Heart disease, Nash",3+,16
+Female,70+,"CKD, Diabetes, Heart disease, Hypertension, Nash, Obesity",3+,16
+Female,40-49,"CKD, Diabetes, Dyslipidemia, Hypertension, Obesity",3+,16
+Male,40-49,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension, Nash",3+,16
+Male,60-69,"Heart disease, Hypertension, Obesity",3,16
+Male,50-59,"CKD, Diabetes, Dyslipidemia, Heart disease, Nash",3+,16
+Female,40-49,"CKD, Heart disease, Nash",3,16
+Female,70+,"CKD, Dyslipidemia, Heart disease, Hypertension, Nash, Obesity",3+,16
+Male,40-49,"Diabetes, Dyslipidemia, Nash, Obesity",3+,16
+Male,50-59,"CKD, Diabetes, Dyslipidemia, Nash",3+,16
+Female,60-69,"Heart disease, Hypertension, Obesity",3,16
+Male,40-49,"CKD, Heart disease, Obesity",3,16
+Female,10-19,Diabetes,1,16
+Female,20-29,"Diabetes, Hypertension",2,15
+Female,40-49,"Heart disease, Nash",2,15
+Female,60-69,"CKD, Heart disease, Hypertension, Nash",3+,15
+Male,70+,"CKD, Diabetes, Dyslipidemia, Heart disease, Nash",3+,15
+Male,70+,"CKD, Dyslipidemia, Obesity",3,15
+Female,60-69,"Dyslipidemia, Heart disease, Nash",3,15
+Male,50-59,"CKD, Diabetes, Nash, Obesity",3+,15
+Male,50-59,"Diabetes, Dyslipidemia, Heart disease, Nash",3+,15
+Male,50-59,"Heart disease, Hypertension, Obesity",3,15
+Male,40-49,"Dyslipidemia, Heart disease, Hypertension",3,15
+Male,60-69,"Diabetes, Dyslipidemia, Nash, Obesity",3+,15
+Female,30-39,"CKD, Diabetes, Obesity",3,15
+Female,50-59,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension, Nash",3+,15
+Female,50-59,"CKD, Hypertension, Nash",3,15
+Female,70+,"Diabetes, Heart disease, Hypertension, Obesity",3+,15
+Female,60-69,"CKD, Diabetes, Heart disease, Nash",3+,15
+Male,50-59,"CKD, Heart disease, Nash, Obesity",3+,15
+Female,60-69,"CKD, Diabetes, Hypertension, Nash",3+,15
+Female,40-49,"CKD, Dyslipidemia, Hypertension",3,15
+Male,30-39,"CKD, Dyslipidemia, Heart disease, Hypertension",3+,15
+Male,60-69,"CKD, Nash, Obesity",3,15
+Male,60-69,"Diabetes, Nash, Obesity",3,15
+Male,30-39,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension",3+,14
+Male,50-59,"Dyslipidemia, Nash, Obesity",3,14
+Male,70+,"CKD, Dyslipidemia, Nash",3,14
+Female,50-59,"Dyslipidemia, Heart disease, Hypertension, Obesity",3+,14
+Male,40-49,"CKD, Dyslipidemia, Nash",3,14
+Female,40-49,"Diabetes, Hypertension",2,14
+Female,40-49,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension, Nash, Obesity",3+,14
+Female,50-59,"CKD, Dyslipidemia, Heart disease, Obesity",3+,14
+Female,20-29,"Diabetes, Dyslipidemia, Obesity",3,14
+Female,50-59,"CKD, Heart disease, Nash, Obesity",3+,14
+Male,20-29,"Dyslipidemia, Obesity",2,14
+Male,70+,"CKD, Diabetes, Dyslipidemia, Obesity",3+,14
+Female,50-59,"CKD, Hypertension, Obesity",3,14
+Male,70+,"CKD, Dyslipidemia, Heart disease, Hypertension, Nash, Obesity",3+,14
+Male,60-69,"CKD, Diabetes, Dyslipidemia, Heart disease, Nash, Obesity",3+,14
+Female,60-69,"Diabetes, Heart disease, Hypertension",3,14
+Female,60-69,"CKD, Hypertension, Nash",3,14
+Male,40-49,"Dyslipidemia, Nash, Obesity",3,14
+Female,70+,"Dyslipidemia, Heart disease, Hypertension, Nash",3+,14
+Male,40-49,"CKD, Diabetes, Hypertension, Obesity",3+,14
+Female,50-59,"CKD, Dyslipidemia, Hypertension, Obesity",3+,14
+Male,30-39,"CKD, Dyslipidemia",2,13
+Male,30-39,"CKD, Diabetes, Hypertension",3,13
+Male,40-49,"CKD, Hypertension, Obesity",3,13
+Female,50-59,"CKD, Diabetes, Heart disease, Nash",3+,13
+Female,50-59,"Diabetes, Dyslipidemia, Heart disease, Nash",3+,13
+Male,60-69,"CKD, Diabetes, Heart disease, Nash, Obesity",3+,13
+Male,60-69,"CKD, Diabetes, Nash, Obesity",3+,13
+Male,30-39,"CKD, Heart disease, Obesity",3,13
+Female,50-59,"CKD, Diabetes, Heart disease, Hypertension, Nash",3+,13
+Male,30-39,"CKD, Diabetes, Heart disease, Hypertension",3+,13
+Female,60-69,"CKD, Diabetes, Heart disease, Hypertension, Nash",3+,13
+Male,50-59,"CKD, Dyslipidemia, Hypertension, Obesity",3+,13
+Female,40-49,"CKD, Diabetes, Heart disease, Hypertension, Obesity",3+,13
+Male,50-59,"Dyslipidemia, Heart disease, Nash, Obesity",3+,13
+Female,40-49,"CKD, Diabetes, Dyslipidemia, Heart disease, Obesity",3+,13
+Male,60-69,"Dyslipidemia, Nash, Obesity",3,13
+Female,20-29,"Diabetes, Nash, Obesity",3,13
+Female,70+,"CKD, Diabetes, Hypertension, Nash",3+,13
+Female,30-39,"Diabetes, Dyslipidemia, Nash, Obesity",3+,13
+Male,70+,"CKD, Diabetes, Hypertension, Nash",3+,13
+Female,40-49,"CKD, Hypertension, Obesity",3,13
+Female,40-49,"CKD, Nash, Obesity",3,12
+Male,50-59,"Heart disease, Nash, Obesity",3,12
+Female,10-19,Heart disease,1,12
+Female,60-69,"CKD, Diabetes, Nash, Obesity",3+,12
+Male,70+,"CKD, Diabetes, Heart disease, Hypertension, Nash, Obesity",3+,12
+Male,70+,"CKD, Diabetes, Dyslipidemia, Nash",3+,12
+Male,50-59,"CKD, Diabetes, Dyslipidemia, Hypertension, Nash",3+,12
+Male,70+,"CKD, Diabetes, Dyslipidemia, Hypertension, Nash",3+,12
+Male,30-39,"Diabetes, Dyslipidemia, Obesity",3,12
+Male,50-59,"CKD, Diabetes, Heart disease, Hypertension, Nash, Obesity",3+,12
+Female,40-49,"CKD, Diabetes, Dyslipidemia, Hypertension",3+,12
+Female,60-69,"Diabetes, Dyslipidemia, Heart disease, Nash",3+,12
+Male,70+,"CKD, Dyslipidemia, Heart disease, Nash",3+,12
+Male,40-49,"CKD, Hypertension, Nash",3,12
+Male,50-59,"Dyslipidemia, Heart disease, Nash",3,12
+Male,40-49,"Diabetes, Dyslipidemia, Heart disease, Hypertension",3+,12
+Male,30-39,"CKD, Diabetes, Heart disease",3,12
+Female,40-49,"Heart disease, Hypertension",2,11
+Female,40-49,"CKD, Diabetes, Nash",3,11
+Female,40-49,"CKD, Heart disease, Hypertension, Obesity",3+,11
+Female,60-69,Hypertension,1,11
+Male,30-39,"Diabetes, Dyslipidemia, Nash, Obesity",3+,11
+Female,70+,"Nash, Obesity",2,11
+Male,50-59,"CKD, Diabetes, Dyslipidemia, Heart disease, Nash, Obesity",3+,11
+Male,70+,"Diabetes, Heart disease, Nash",3,11
+Female,30-39,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension, Obesity",3+,11
+Female,70+,"CKD, Hypertension, Nash",3,11
+Male,30-39,"Diabetes, Nash, Obesity",3,11
+Female,60-69,"CKD, Dyslipidemia, Heart disease, Hypertension, Nash, Obesity",3+,11
+Male,40-49,"CKD, Diabetes, Dyslipidemia, Nash, Obesity",3+,11
+Female,30-39,"Diabetes, Nash",2,11
+Male,50-59,"Diabetes, Heart disease, Nash, Obesity",3+,11
+Female,20-29,"CKD, Nash",2,11
+Female,30-39,"Diabetes, Heart disease",2,11
+Male,30-39,"CKD, Hypertension, Obesity",3,10
+Female,50-59,"Heart disease, Hypertension, Obesity",3,10
+Male,40-49,"CKD, Dyslipidemia, Obesity",3,10
+Female,50-59,"CKD, Diabetes, Nash, Obesity",3+,10
+Female,60-69,"Diabetes, Nash, Obesity",3,10
+Male,40-49,"CKD, Heart disease, Hypertension, Nash",3+,10
+Male,60-69,"CKD, Diabetes, Dyslipidemia, Hypertension, Nash",3+,10
+Male,50-59,"CKD, Diabetes, Hypertension, Nash, Obesity",3+,10
+Female,50-59,"CKD, Dyslipidemia, Nash",3,10
+Male,40-49,"Diabetes, Dyslipidemia, Nash",3,10
+Female,40-49,"CKD, Diabetes, Dyslipidemia, Heart disease",3+,10
+Female,30-39,"CKD, Hypertension, Obesity",3,10
+Male,30-39,"Diabetes, Nash",2,10
+Female,20-29,"Diabetes, Dyslipidemia",2,10
+Female,70+,"CKD, Diabetes, Nash",3,10
+Female,40-49,"CKD, Dyslipidemia, Obesity",3,10
+Female,60-69,"CKD, Diabetes, Dyslipidemia, Nash, Obesity",3+,10
+Male,20-29,"CKD, Dyslipidemia",2,10
+Female,60-69,"CKD, Diabetes, Heart disease, Hypertension, Nash, Obesity",3+,10
+Female,60-69,"CKD, Diabetes, Dyslipidemia, Nash",3+,10
+Female,60-69,"CKD, Diabetes, Dyslipidemia, Hypertension, Nash, Obesity",3+,10
+Female,50-59,"Diabetes, Heart disease, Nash, Obesity",3+,10
+Female,70+,"Diabetes, Dyslipidemia, Nash, Obesity",3+,10
+Male,30-39,"CKD, Diabetes, Heart disease, Hypertension, Obesity",3+,10
+Male,50-59,"CKD, Dyslipidemia, Heart disease, Hypertension, Nash, Obesity",3+,10
+Female,50-59,"CKD, Diabetes, Dyslipidemia, Heart disease, Nash, Obesity",3+,10
+Male,60-69,"CKD, Dyslipidemia, Heart disease, Nash, Obesity",3+,10
+Female,50-59,"CKD, Diabetes, Dyslipidemia, Nash",3+,10
+Female,20-29,"Heart disease, Obesity",2,10
+Female,70+,"CKD, Dyslipidemia, Heart disease, Nash",3+,10
+Male,50-59,"CKD, Dyslipidemia, Nash, Obesity",3+,10
+Male,30-39,"CKD, Diabetes, Obesity",3,9
+Male,60-69,"Heart disease, Nash, Obesity",3,9
+Male,70+,Hypertension,1,9
+Male,60-69,"CKD, Dyslipidemia, Hypertension, Nash",3+,9
+Male,40-49,"CKD, Diabetes, Hypertension, Nash",3+,9
+Male,50-59,"CKD, Diabetes, Dyslipidemia, Hypertension, Nash, Obesity",3+,9
+Male,30-39,"Heart disease, Hypertension",2,9
+Male,30-39,"Heart disease, Nash",2,9
+Male,60-69,"CKD, Dyslipidemia, Nash, Obesity",3+,9
+Male,40-49,"CKD, Dyslipidemia, Heart disease, Hypertension, Nash",3+,9
+Male,50-59,"Diabetes, Heart disease, Hypertension",3,9
+Male,70+,"CKD, Dyslipidemia, Hypertension, Nash",3+,9
+Male,40-49,"CKD, Nash, Obesity",3,9
+Male,20-29,"CKD, Heart disease, Hypertension",3,9
+Male,30-39,"CKD, Diabetes, Dyslipidemia, Obesity",3+,9
+Female,40-49,"CKD, Diabetes, Hypertension, Obesity",3+,9
+Male,10-19,Heart disease,1,9
+Female,70+,"Heart disease, Hypertension, Nash",3,9
+Female,70+,"CKD, Dyslipidemia, Hypertension, Nash",3+,9
+Male,20-29,"Diabetes, Dyslipidemia, Obesity",3,9
+Female,70+,"CKD, Diabetes, Dyslipidemia, Heart disease, Nash",3+,9
+Female,60-69,"CKD, Dyslipidemia, Heart disease, Hypertension, Nash",3+,9
+Female,60-69,"CKD, Diabetes, Heart disease, Nash, Obesity",3+,9
+Female,50-59,"CKD, Dyslipidemia, Nash, Obesity",3+,9
+Female,40-49,"Heart disease, Hypertension, Obesity",3,9
+Female,30-39,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension",3+,9
+Female,40-49,"Diabetes, Dyslipidemia, Heart disease, Hypertension, Obesity",3+,9
+Female,40-49,"CKD, Diabetes, Nash, Obesity",3+,9
+Female,50-59,"Diabetes, Dyslipidemia, Heart disease, Nash, Obesity",3+,9
+Female,30-39,"CKD, Dyslipidemia, Hypertension",3,9
+Female,30-39,"Dyslipidemia, Heart disease, Obesity",3,9
+Male,50-59,"CKD, Dyslipidemia, Heart disease, Nash",3+,8
+Male,30-39,"Diabetes, Dyslipidemia, Heart disease, Obesity",3+,8
+Female,50-59,"Dyslipidemia, Heart disease, Nash",3,8
+Female,50-59,Hypertension,1,8
+Female,60-69,"CKD, Diabetes, Dyslipidemia, Heart disease, Nash, Obesity",3+,8
+Male,70+,"Diabetes, Heart disease, Hypertension, Obesity",3+,8
+Female,60-69,"CKD, Dyslipidemia, Hypertension, Nash",3+,8
+Male,50-59,"Diabetes, Dyslipidemia, Heart disease, Nash, Obesity",3+,8
+Female,60-69,"Diabetes, Heart disease, Nash",3,8
+Male,20-29,"Diabetes, Nash, Obesity",3,8
+Female,60-69,"Diabetes, Heart disease, Nash, Obesity",3+,8
+Female,60-69,"Dyslipidemia, Heart disease, Nash, Obesity",3+,8
+Female,70+,"CKD, Diabetes, Dyslipidemia, Hypertension, Nash",3+,8
+Male,20-29,"CKD, Heart disease, Nash",3,8
+Male,30-39,"Dyslipidemia, Nash",2,8
+Female,70+,"CKD, Diabetes, Dyslipidemia, Hypertension, Nash, Obesity",3+,8
+Female,70+,"CKD, Diabetes, Heart disease, Nash, Obesity",3+,8
+Female,70+,"CKD, Dyslipidemia, Nash",3,8
+Female,70+,"Diabetes, Dyslipidemia, Hypertension",3,8
+Male,40-49,"Heart disease, Hypertension, Obesity",3,8
+Female,20-29,"CKD, Heart disease, Hypertension",3,8
+Male,40-49,"Dyslipidemia, Heart disease, Nash",3,8
+Male,20-29,"CKD, Obesity",2,8
+Male,10-19,Obesity,1,8
+Male,40-49,"CKD, Dyslipidemia, Nash, Obesity",3+,8
+Female,50-59,"Diabetes, Heart disease, Hypertension, Obesity",3+,8
+Female,30-39,"Heart disease, Hypertension",2,8
+Female,30-39,"CKD, Diabetes, Dyslipidemia, Hypertension",3+,8
+Female,50-59,"CKD, Diabetes, Dyslipidemia, Nash, Obesity",3+,8
+Female,20-29,"CKD, Diabetes",2,8
+Female,40-49,"CKD, Diabetes, Heart disease, Nash, Obesity",3+,8
+Female,40-49,"CKD, Dyslipidemia, Heart disease, Hypertension, Obesity",3+,8
+Male,60-69,"Diabetes, Heart disease, Hypertension, Obesity",3+,8
+Male,60-69,"CKD, Hypertension, Nash, Obesity",3+,8
+Female,30-39,"Diabetes, Dyslipidemia, Heart disease",3,8
+Male,40-49,"CKD, Diabetes, Dyslipidemia, Nash",3+,8
+Female,50-59,"CKD, Diabetes, Hypertension, Nash",3+,8
+Female,50-59,"CKD, Diabetes, Heart disease, Nash, Obesity",3+,8
+Male,60-69,"CKD, Diabetes, Hypertension, Nash, Obesity",3+,7
+Male,40-49,"Diabetes, Heart disease, Nash",3,7
+Male,60-69,"Dyslipidemia, Heart disease, Nash, Obesity",3+,7
+Male,70+,"CKD, Diabetes, Nash, Obesity",3+,7
+Female,40-49,"CKD, Diabetes, Heart disease, Obesity",3+,7
+Female,50-59,"CKD, Dyslipidemia, Heart disease, Hypertension, Nash",3+,7
+Male,70+,"Dyslipidemia, Hypertension",2,7
+Female,20-29,"CKD, Heart disease, Nash",3,7
+Male,70+,"Dyslipidemia, Heart disease, Hypertension, Nash",3+,7
+Male,60-69,"CKD, Diabetes, Dyslipidemia, Nash, Obesity",3+,7
+Female,30-39,"CKD, Diabetes, Heart disease, Hypertension, Obesity",3+,7
+Female,40-49,"CKD, Diabetes, Dyslipidemia, Nash, Obesity",3+,7
+Female,40-49,"CKD, Diabetes, Dyslipidemia, Nash",3+,7
+Male,40-49,"CKD, Dyslipidemia, Hypertension, Obesity",3+,7
+Male,40-49,"CKD, Diabetes, Heart disease, Hypertension, Nash",3+,7
+Female,50-59,"Heart disease, Nash, Obesity",3,7
+Female,30-39,"CKD, Diabetes, Hypertension, Obesity",3+,7
+Female,40-49,"CKD, Diabetes, Dyslipidemia, Heart disease, Nash",3+,7
+Female,40-49,"CKD, Dyslipidemia, Hypertension, Obesity",3+,7
+Female,40-49,"CKD, Dyslipidemia, Nash",3,7
+Female,40-49,"CKD, Heart disease, Hypertension, Nash",3+,7
+Female,50-59,"Diabetes, Heart disease, Nash",3,7
+Female,20-29,"Dyslipidemia, Nash, Obesity",3,7
+Female,40-49,"CKD, Hypertension, Nash, Obesity",3+,7
+Female,60-69,"Dyslipidemia, Hypertension",2,7
+Female,30-39,"Diabetes, Dyslipidemia, Hypertension, Obesity",3+,7
+Female,40-49,"Diabetes, Dyslipidemia, Nash",3,7
+Female,30-39,"Diabetes, Dyslipidemia, Heart disease, Obesity",3+,7
+Male,50-59,"CKD, Heart disease, Hypertension, Nash, Obesity",3+,7
+Female,60-69,"Diabetes, Dyslipidemia, Heart disease, Nash, Obesity",3+,7
+Female,60-69,"CKD, Heart disease, Hypertension, Nash, Obesity",3+,7
+Female,30-39,"CKD, Dyslipidemia",2,7
+Female,60-69,"CKD, Dyslipidemia, Heart disease, Nash",3+,7
+Male,30-39,"Dyslipidemia, Heart disease, Obesity",3,7
+Male,30-39,"CKD, Dyslipidemia, Heart disease, Hypertension, Obesity",3+,7
+Male,30-39,"CKD, Diabetes, Nash",3,7
+Male,20-29,"Heart disease, Nash",2,7
+Male,30-39,"CKD, Heart disease, Hypertension, Obesity",3+,7
+Male,20-29,"CKD, Heart disease, Obesity",3,7
+Male,30-39,"Diabetes, Dyslipidemia, Heart disease",3,7
+Male,30-39,"Diabetes, Heart disease",2,7
+Male,30-39,"CKD, Diabetes, Dyslipidemia, Hypertension, Obesity",3+,7
+Male,30-39,"Dyslipidemia, Nash, Obesity",3,7
+Male,30-39,"CKD, Dyslipidemia, Obesity",3,6
+Male,60-69,"Heart disease, Hypertension, Nash",3,6
+Male,50-59,"CKD, Dyslipidemia, Hypertension, Nash, Obesity",3+,6
+Female,40-49,"CKD, Diabetes, Heart disease, Nash",3+,6
+Female,70+,"Diabetes, Dyslipidemia, Heart disease, Hypertension, Nash",3+,6
+Female,40-49,"CKD, Dyslipidemia, Heart disease, Nash",3+,6
+Female,30-39,"Dyslipidemia, Nash",2,6
+Male,40-49,"Heart disease, Nash, Obesity",3,6
+Female,70+,"Diabetes, Nash, Obesity",3,6
+Female,70+,"Dyslipidemia, Nash, Obesity",3,6
+Male,30-39,Hypertension,1,6
+Female,60-69,"Diabetes, Dyslipidemia, Heart disease, Hypertension, Nash, Obesity",3+,6
+Male,50-59,"Diabetes, Dyslipidemia, Heart disease, Hypertension, Nash",3+,6
+Female,60-69,"CKD, Nash, Obesity",3,6
+Female,40-49,"CKD, Dyslipidemia, Heart disease, Obesity",3+,6
+Male,40-49,"Diabetes, Dyslipidemia, Heart disease, Nash, Obesity",3+,6
+Male,30-39,"CKD, Diabetes, Dyslipidemia",3,6
+Male,30-39,"Diabetes, Heart disease, Obesity",3,6
+Female,60-69,"CKD, Diabetes, Dyslipidemia, Hypertension, Nash",3+,6
+Female,60-69,"CKD, Diabetes, Dyslipidemia, Heart disease, Nash",3+,6
+Female,40-49,"CKD, Hypertension, Nash",3,6
+Male,50-59,"Dyslipidemia, Heart disease, Hypertension, Nash",3+,6
+Female,40-49,"Diabetes, Heart disease, Nash, Obesity",3+,6
+Female,40-49,"Dyslipidemia, Heart disease, Hypertension",3,6
+Male,30-39,"CKD, Nash, Obesity",3,6
+Female,50-59,"CKD, Diabetes, Dyslipidemia, Heart disease, Nash",3+,6
+Female,30-39,"CKD, Diabetes, Dyslipidemia",3,6
+Female,40-49,"Hypertension, Obesity",2,6
+Female,30-39,"CKD, Heart disease, Nash",3,6
+Male,30-39,"CKD, Hypertension, Nash",3,6
+Male,70+,"Dyslipidemia, Heart disease, Nash, Obesity",3+,6
+Male,20-29,"CKD, Diabetes, Obesity",3,6
+Male,70+,"Heart disease, Hypertension, Obesity",3,6
+Female,30-39,"CKD, Diabetes, Dyslipidemia, Hypertension, Obesity",3+,6
+Male,40-49,"CKD, Dyslipidemia, Heart disease, Nash",3+,6
+Female,30-39,"CKD, Diabetes, Heart disease",3,6
+Female,30-39,"CKD, Nash, Obesity",3,5
+Male,70+,"CKD, Heart disease, Hypertension, Nash, Obesity",3+,5
+Female,40-49,"CKD, Dyslipidemia, Heart disease, Hypertension, Nash",3+,5
+Female,30-39,"Heart disease, Hypertension, Obesity",3,5
+Female,30-39,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension, Nash, Obesity",3+,5
+Male,40-49,"Dyslipidemia, Heart disease, Hypertension, Obesity",3+,5
+Female,60-69,"Diabetes, Heart disease, Hypertension, Obesity",3+,5
+Male,50-59,"Heart disease, Hypertension, Nash",3,5
+Female,30-39,"Diabetes, Dyslipidemia, Heart disease, Hypertension, Obesity",3+,5
+Female,10-19,"Nash, Obesity",2,5
+Female,70+,"Dyslipidemia, Heart disease, Nash, Obesity",3+,5
+Male,60-69,"Diabetes, Dyslipidemia, Heart disease, Nash, Obesity",3+,5
+Male,40-49,"Diabetes, Heart disease, Nash, Obesity",3+,5
+Female,40-49,"CKD, Heart disease, Nash, Obesity",3+,5
+Male,40-49,"CKD, Diabetes, Nash, Obesity",3+,5
+Female,20-29,"Hypertension, Nash, Obesity",3,5
+Male,20-29,"Dyslipidemia, Nash",2,5
+Female,70+,"CKD, Heart disease, Hypertension, Nash, Obesity",3+,5
+Male,50-59,"Diabetes, Heart disease, Hypertension, Obesity",3+,5
+Male,30-39,"CKD, Diabetes, Dyslipidemia, Heart disease",3+,5
+Male,30-39,"Heart disease, Hypertension, Obesity",3,5
+Female,60-69,"CKD, Dyslipidemia, Nash, Obesity",3+,5
+Male,40-49,"CKD, Diabetes, Heart disease, Nash, Obesity",3+,5
+Male,50-59,"Diabetes, Dyslipidemia, Heart disease, Hypertension, Nash, Obesity",3+,5
+Female,20-29,"CKD, Diabetes, Dyslipidemia, Hypertension",3+,5
+Male,40-49,"CKD, Dyslipidemia, Heart disease, Hypertension, Nash, Obesity",3+,5
+Male,40-49,"Diabetes, Heart disease, Hypertension",3,5
+Female,30-39,"CKD, Diabetes, Heart disease, Obesity",3+,5
+Female,40-49,"Heart disease, Nash, Obesity",3,5
+Female,40-49,"Dyslipidemia, Heart disease, Hypertension, Obesity",3+,5
+Female,30-39,"CKD, Dyslipidemia, Heart disease, Hypertension",3+,5
+Male,70+,"Diabetes, Dyslipidemia, Nash, Obesity",3+,5
+Male,20-29,"CKD, Diabetes",2,5
+Male,40-49,"CKD, Diabetes, Dyslipidemia, Heart disease, Nash",3+,5
+Male,20-29,"Heart disease, Obesity",2,5
+Female,50-59,"CKD, Diabetes, Heart disease, Hypertension, Nash, Obesity",3+,5
+Male,70+,"Diabetes, Dyslipidemia, Heart disease, Nash, Obesity",3+,5
+Male,50-59,"CKD, Diabetes, Heart disease, Nash, Obesity",3+,5
+Male,40-49,"CKD, Diabetes, Dyslipidemia, Hypertension, Nash",3+,5
+Female,30-39,"CKD, Dyslipidemia, Obesity",3,5
+Female,70+,"CKD, Diabetes, Dyslipidemia, Nash, Obesity",3+,5
+Female,30-39,"CKD, Diabetes, Heart disease, Hypertension",3+,5
+Male,50-59,"CKD, Dyslipidemia, Hypertension, Nash",3+,5
+Female,50-59,"Diabetes, Dyslipidemia, Heart disease, Hypertension, Nash, Obesity",3+,5
+Female,40-49,"Diabetes, Heart disease, Nash",3,5
+Male,60-69,"CKD, Heart disease, Hypertension, Nash, Obesity",3+,5
+Male,50-59,"CKD, Dyslipidemia, Heart disease, Nash, Obesity",3+,5
+Male,60-69,"CKD, Heart disease, Nash, Obesity",3+,5
+Male,70+,"CKD, Nash, Obesity",3,5
+Female,50-59,"Diabetes, Heart disease, Hypertension",3,5
+Female,20-29,"Diabetes, Nash",2,5
+Female,60-69,"Diabetes, Dyslipidemia, Heart disease, Hypertension, Nash",3+,4
+Female,60-69,"CKD, Heart disease, Nash, Obesity",3+,4
+Female,20-29,"Heart disease, Nash",2,4
+Female,40-49,"CKD, Dyslipidemia, Heart disease",3,4
+Female,20-29,"Dyslipidemia, Nash",2,4
+Male,50-59,"CKD, Hypertension, Nash, Obesity",3+,4
+Female,40-49,"CKD, Diabetes, Heart disease, Hypertension, Nash",3+,4
+Male,60-69,"Dyslipidemia, Hypertension",2,4
+Male,20-29,"Dyslipidemia, Heart disease",2,4
+Male,20-29,"CKD, Diabetes, Heart disease, Hypertension, Obesity",3+,4
+Female,60-69,"Dyslipidemia, Heart disease, Hypertension, Nash",3+,4
+Male,30-39,"Diabetes, Dyslipidemia, Nash",3,4
+Female,40-49,"CKD, Dyslipidemia, Nash, Obesity",3+,4
+Female,20-29,"CKD, Diabetes, Obesity",3,4
+Female,50-59,"CKD, Diabetes, Dyslipidemia, Hypertension, Nash",3+,4
+Female,50-59,"CKD, Diabetes, Dyslipidemia, Hypertension, Nash, Obesity",3+,4
+Female,30-39,"CKD, Diabetes, Dyslipidemia, Obesity",3+,4
+Female,20-29,"CKD, Diabetes, Heart disease, Hypertension, Obesity",3+,4
+Male,60-69,"CKD, Diabetes, Dyslipidemia, Hypertension, Nash, Obesity",3+,4
+Male,20-29,Hypertension,1,4
+Female,20-29,"CKD, Diabetes, Hypertension, Obesity",3+,4
+Female,40-49,"Diabetes, Dyslipidemia, Hypertension, Obesity",3+,4
+Male,30-39,"Diabetes, Dyslipidemia, Heart disease, Hypertension, Obesity",3+,4
+Male,50-59,Hypertension,1,4
+Male,60-69,"Diabetes, Heart disease, Nash, Obesity",3+,4
+Male,60-69,"Diabetes, Dyslipidemia, Heart disease, Hypertension, Nash, Obesity",3+,4
+Female,20-29,"CKD, Dyslipidemia",2,4
+Female,50-59,"Dyslipidemia, Heart disease, Nash, Obesity",3+,4
+Female,50-59,"Dyslipidemia, Hypertension",2,4
+Male,20-29,"Dyslipidemia, Nash, Obesity",3,4
+Male,20-29,"CKD, Dyslipidemia, Hypertension",3,4
+Female,60-69,"CKD, Diabetes, Hypertension, Nash, Obesity",3+,4
+Male,30-39,"CKD, Heart disease, Hypertension, Nash, Obesity",3+,4
+Female,60-69,"CKD, Dyslipidemia, Heart disease, Nash, Obesity",3+,4
+Male,30-39,"CKD, Dyslipidemia, Heart disease, Hypertension, Nash",3+,4
+Female,20-29,"CKD, Diabetes, Hypertension",3,4
+Male,40-49,"CKD, Dyslipidemia, Heart disease, Obesity",3+,4
+Male,70+,"CKD, Heart disease, Nash, Obesity",3+,4
+Female,10-19,Nash,1,4
+Female,20-29,"CKD, Nash, Obesity",3,4
+Female,10-19,"Hypertension, Obesity",2,4
+Female,70+,"Heart disease, Nash, Obesity",3,4
+Male,30-39,"CKD, Dyslipidemia, Heart disease",3,4
+Female,10-19,"Diabetes, Obesity",2,4
+Female,20-29,"Diabetes, Dyslipidemia, Nash, Obesity",3+,4
+Male,20-29,"Diabetes, Dyslipidemia, Nash, Obesity",3+,4
+Female,70+,"Diabetes, Dyslipidemia, Heart disease, Hypertension, Nash, Obesity",3+,4
+Female,30-39,"CKD, Diabetes, Nash",3,4
+Female,10-19,Dyslipidemia,1,4
+Male,40-49,"Dyslipidemia, Heart disease, Nash, Obesity",3+,4
+Male,40-49,Hypertension,1,4
+Female,30-39,"Diabetes, Heart disease, Obesity",3,4
+Male,40-49,"Diabetes, Dyslipidemia, Heart disease, Nash",3+,4
+Male,20-29,"CKD, Hypertension, Obesity",3,4
+Male,30-39,"CKD, Diabetes, Nash, Obesity",3+,4
+Male,70+,"Diabetes, Dyslipidemia, Heart disease, Hypertension, Nash",3+,4
+Female,20-29,"CKD, Hypertension, Obesity",3,4
+Female,20-29,"CKD, Heart disease, Obesity",3,4
+Male,70+,"Diabetes, Dyslipidemia, Hypertension",3,4
+Male,40-49,"CKD, Hypertension, Nash, Obesity",3+,4
+Male,40-49,"CKD, Heart disease, Nash, Obesity",3+,4
+Male,70+,"Diabetes, Heart disease, Hypertension, Nash",3+,4
+Male,60-69,"Diabetes, Dyslipidemia, Hypertension",3,3
+Male,50-59,"Dyslipidemia, Heart disease, Hypertension, Nash, Obesity",3+,3
+Female,10-19,"Dyslipidemia, Obesity",2,3
+Male,70+,"Nash, Obesity",2,3
+Female,50-59,"Heart disease, Hypertension, Nash",3,3
+Female,40-49,"Diabetes, Dyslipidemia, Heart disease, Hypertension",3+,3
+Male,20-29,"CKD, Heart disease, Hypertension, Nash",3+,3
+Male,70+,"Heart disease, Nash, Obesity",3,3
+Female,30-39,"CKD, Hypertension, Nash, Obesity",3+,3
+Male,70+,"CKD, Dyslipidemia, Heart disease, Nash, Obesity",3+,3
+Female,20-29,"CKD, Diabetes, Heart disease, Hypertension",3+,3
+Female,30-39,"CKD, Hypertension, Nash",3,3
+Female,30-39,"CKD, Dyslipidemia, Heart disease",3,3
+Female,50-59,"CKD, Dyslipidemia, Hypertension, Nash",3+,3
+Female,40-49,"Diabetes, Dyslipidemia, Heart disease, Hypertension, Nash, Obesity",3+,3
+Male,20-29,"Diabetes, Dyslipidemia",2,3
+Male,30-39,"CKD, Heart disease, Nash, Obesity",3+,3
+Female,40-49,"Diabetes, Dyslipidemia, Heart disease, Nash",3+,3
+Male,20-29,"CKD, Nash, Obesity",3,3
+Female,50-59,"CKD, Diabetes, Hypertension, Nash, Obesity",3+,3
+Female,50-59,"CKD, Dyslipidemia, Heart disease, Hypertension, Nash, Obesity",3+,3
+Male,70+,"Heart disease, Hypertension, Nash",3,3
+Female,40-49,"Diabetes, Heart disease, Hypertension, Obesity",3+,3
+Female,50-59,"CKD, Dyslipidemia, Heart disease, Nash",3+,3
+Male,40-49,"Diabetes, Dyslipidemia, Heart disease, Hypertension, Obesity",3+,3
+Female,50-59,"CKD, Heart disease, Hypertension, Nash, Obesity",3+,3
+Female,10-19,"Diabetes, Hypertension, Obesity",3,3
+Female,40-49,"Diabetes, Hypertension, Obesity",3,3
+Female,30-39,"CKD, Heart disease, Hypertension, Nash",3+,3
+Female,20-29,"CKD, Diabetes, Dyslipidemia, Hypertension, Obesity",3+,3
+Female,40-49,"CKD, Diabetes, Dyslipidemia, Hypertension, Nash",3+,3
+Male,20-29,"Dyslipidemia, Heart disease, Obesity",3,3
+Female,70+,"CKD, Diabetes, Nash, Obesity",3+,3
+Male,40-49,"CKD, Diabetes, Hypertension, Nash, Obesity",3+,3
+Female,70+,"CKD, Nash, Obesity",3,3
+Male,20-29,"CKD, Diabetes, Hypertension",3,3
+Female,70+,"CKD, Heart disease, Nash, Obesity",3+,3
+Female,30-39,"Heart disease, Nash, Obesity",3,3
+Female,70+,"CKD, Dyslipidemia, Heart disease, Nash, Obesity",3+,3
+Male,30-39,"Dyslipidemia, Heart disease, Hypertension",3,3
+Female,40-49,"CKD, Dyslipidemia, Hypertension, Nash, Obesity",3+,3
+Male,20-29,"Diabetes, Heart disease",2,3
+Female,40-49,"CKD, Diabetes, Heart disease, Hypertension, Nash, Obesity",3+,3
+Male,20-29,"CKD, Diabetes, Heart disease",3,3
+Female,60-69,"Heart disease, Nash, Obesity",3,3
+Female,20-29,"CKD, Diabetes, Dyslipidemia",3,3
+Male,20-29,"CKD, Diabetes, Heart disease, Hypertension",3+,3
+Male,60-69,"Dyslipidemia, Heart disease, Hypertension, Nash",3+,3
+Male,30-39,"CKD, Diabetes, Heart disease, Obesity",3+,3
+Male,30-39,"Diabetes, Heart disease, Hypertension, Obesity",3+,3
+Male,40-49,"CKD, Diabetes, Heart disease, Nash",3+,3
+Male,30-39,"CKD, Diabetes, Dyslipidemia, Nash, Obesity",3+,3
+Male,30-39,"CKD, Heart disease, Hypertension, Nash",3+,3
+Male,70+,"CKD, Diabetes, Heart disease, Nash, Obesity",3+,3
+Female,20-29,"CKD, Dyslipidemia, Hypertension",3,3
+Male,30-39,"CKD, Diabetes, Dyslipidemia, Heart disease, Nash, Obesity",3+,3
+Male,70+,"CKD, Diabetes, Hypertension, Nash, Obesity",3+,3
+Male,70+,"Diabetes, Nash, Obesity",3,2
+Female,30-39,"CKD, Dyslipidemia, Heart disease, Hypertension, Nash, Obesity",3+,2
+Female,30-39,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension, Nash",3+,2
+Male,30-39,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension, Nash",3+,2
+Female,30-39,"Hypertension, Nash, Obesity",3,2
+Male,30-39,"CKD, Diabetes, Hypertension, Nash",3+,2
+Male,60-69,Hypertension,1,2
+Female,30-39,"CKD, Diabetes, Dyslipidemia, Heart disease, Obesity",3+,2
+Male,60-69,"Hypertension, Obesity",2,2
+Male,60-69,"CKD, Dyslipidemia, Hypertension, Nash, Obesity",3+,2
+Male,30-39,"CKD, Dyslipidemia, Hypertension, Obesity",3+,2
+Female,40-49,"CKD, Diabetes, Dyslipidemia, Hypertension, Nash, Obesity",3+,2
+Female,30-39,"Diabetes, Hypertension, Nash",3,2
+Male,70+,"Dyslipidemia, Nash, Obesity",3,2
+Female,30-39,"Diabetes, Dyslipidemia, Nash",3,2
+Female,40-49,"Heart disease, Hypertension, Nash",3,2
+Male,30-39,"CKD, Diabetes, Dyslipidemia, Heart disease, Obesity",3+,2
+Male,70+,"CKD, Diabetes, Dyslipidemia, Heart disease, Nash, Obesity",3+,2
+Female,40-49,"Dyslipidemia, Hypertension",2,2
+Male,30-39,"CKD, Diabetes, Dyslipidemia, Hypertension",3+,2
+Male,30-39,"CKD, Dyslipidemia, Nash",3,2
+Female,10-19,Hypertension,1,2
+Male,70+,"CKD, Hypertension, Nash, Obesity",3+,2
+Female,10-19,"CKD, Heart disease",2,2
+Male,60-69,"Diabetes, Dyslipidemia, Heart disease, Hypertension, Nash",3+,2
+Female,30-39,"CKD, Diabetes, Heart disease, Nash",3+,2
+Female,20-29,"CKD, Diabetes, Dyslipidemia, Nash, Obesity",3+,2
+Male,30-39,"CKD, Diabetes, Heart disease, Hypertension, Nash, Obesity",3+,2
+Female,30-39,"CKD, Diabetes, Heart disease, Nash, Obesity",3+,2
+Male,70+,"CKD, Dyslipidemia, Nash, Obesity",3+,2
+Female,40-49,"Diabetes, Dyslipidemia, Heart disease, Nash, Obesity",3+,2
+Female,30-39,"CKD, Heart disease, Nash, Obesity",3+,2
+Male,70+,"CKD, Dyslipidemia, Hypertension, Nash, Obesity",3+,2
+Female,30-39,"Hypertension, Nash",2,2
+Female,40-49,"Diabetes, Heart disease, Hypertension",3,2
+Male,30-39,"CKD, Diabetes, Heart disease, Nash, Obesity",3+,2
+Female,30-39,"CKD, Heart disease, Hypertension, Obesity",3+,2
+Female,30-39,"CKD, Diabetes, Nash, Obesity",3+,2
+Male,70+,"CKD, Diabetes, Dyslipidemia, Nash, Obesity",3+,2
+Female,30-39,"Heart disease, Nash",2,2
+Female,20-29,"CKD, Diabetes, Dyslipidemia, Obesity",3+,2
+Female,20-29,"CKD, Diabetes, Heart disease",3,2
+Female,30-39,"Dyslipidemia, Hypertension, Obesity",3,2
+Female,40-49,"CKD, Heart disease, Hypertension, Nash, Obesity",3+,2
+Female,30-39,"CKD, Diabetes, Dyslipidemia, Hypertension, Nash, Obesity",3+,2
+Female,70+,"CKD, Dyslipidemia, Nash, Obesity",3+,2
+Male,40-49,"Diabetes, Heart disease, Hypertension, Obesity",3+,2
+Male,20-29,"CKD, Diabetes, Dyslipidemia, Hypertension",3+,2
+Male,30-39,"Diabetes, Heart disease, Hypertension, Nash, Obesity",3+,2
+Male,20-29,"CKD, Diabetes, Dyslipidemia",3,2
+Male,40-49,"CKD, Heart disease, Hypertension, Nash, Obesity",3+,2
+Female,60-69,"CKD, Hypertension, Nash, Obesity",3+,2
+Female,20-29,"CKD, Dyslipidemia, Hypertension, Obesity",3+,2
+Male,20-29,"Diabetes, Dyslipidemia, Heart disease, Obesity",3+,2
+Female,20-29,"Heart disease, Nash, Obesity",3,2
+Male,10-19,Dyslipidemia,1,2
+Male,10-19,Diabetes,1,2
+Female,60-69,"Diabetes, Heart disease, Hypertension, Nash",3+,2
+Male,40-49,"Diabetes, Dyslipidemia, Heart disease, Hypertension, Nash",3+,2
+Male,10-19,"CKD, Hypertension",2,2
+Male,20-29,"Diabetes, Nash",2,2
+Female,20-29,"Heart disease, Hypertension",2,2
+Male,50-59,"Dyslipidemia, Hypertension",2,2
+Female,60-69,"Dyslipidemia, Heart disease, Hypertension, Nash, Obesity",3+,2
+Female,60-69,"Dyslipidemia, Hypertension, Obesity",3,2
+Female,20-29,"Dyslipidemia, Heart disease, Obesity",3,2
+Male,40-49,"Dyslipidemia, Heart disease, Hypertension, Nash",3+,2
+Male,40-49,"Dyslipidemia, Heart disease, Hypertension, Nash, Obesity",3+,2
+Female,70+,"CKD, Diabetes, Hypertension, Nash, Obesity",3+,2
+Female,70+,"Dyslipidemia, Heart disease, Hypertension, Nash, Obesity",3+,2
+Female,70+,"CKD, Dyslipidemia, Hypertension, Nash, Obesity",3+,2
+Male,30-39,"Heart disease, Hypertension, Nash, Obesity",3+,2
+Female,20-29,"Diabetes, Heart disease, Hypertension",3,2
+Female,20-29,"CKD, Dyslipidemia, Nash, Obesity",3+,2
+Female,20-29,"CKD, Dyslipidemia, Obesity",3,2
+Female,20-29,"Diabetes, Dyslipidemia, Hypertension, Obesity",3+,2
+Female,70+,"Diabetes, Heart disease, Hypertension, Nash",3+,2
+Female,50-59,"Hypertension, Nash",2,2
+Male,30-39,"Heart disease, Nash, Obesity",3,2
+Male,50-59,"Dyslipidemia, Hypertension, Nash",3,2
+Male,20-29,"Heart disease, Hypertension, Obesity",3,2
+Male,40-49,"CKD, Diabetes, Heart disease, Hypertension, Nash, Obesity",3+,2
+Female,50-59,"Diabetes, Heart disease, Hypertension, Nash, Obesity",3+,2
+Male,20-29,"CKD, Diabetes, Nash, Obesity",3+,2
+Female,50-59,"CKD, Hypertension, Nash, Obesity",3+,2
+Female,50-59,"CKD, Dyslipidemia, Heart disease, Nash, Obesity",3+,2
+Male,20-29,"CKD, Diabetes, Dyslipidemia, Nash, Obesity",3+,2
+Male,50-59,"Heart disease, Hypertension, Nash, Obesity",3+,2
+Female,50-59,"Diabetes, Dyslipidemia, Hypertension, Obesity",3+,2
+Male,20-29,"CKD, Dyslipidemia, Nash, Obesity",3+,2
+Female,40-49,"Hypertension, Nash, Obesity",3,2
+Male,40-49,"CKD, Diabetes, Dyslipidemia, Heart disease, Nash, Obesity",3+,2
+Male,20-29,"CKD, Dyslipidemia, Obesity",3,2
+Female,20-29,"Diabetes, Dyslipidemia, Hypertension",3,1
+Male,20-29,"CKD, Dyslipidemia, Heart disease, Nash",3+,1
+Female,70+,"Heart disease, Hypertension, Nash, Obesity",3+,1
+Female,70+,"Dyslipidemia, Hypertension, Obesity",3,1
+Female,20-29,"CKD, Heart disease, Hypertension, Obesity",3+,1
+Female,70+,"Dyslipidemia, Hypertension, Nash, Obesity",3+,1
+Female,30-39,"Diabetes, Heart disease, Nash",3,1
+Female,70+,"Dyslipidemia, Hypertension, Nash",3,1
+Female,10-19,"Heart disease, Nash",2,1
+Female,10-19,"Dyslipidemia, Hypertension",2,1
+Male,30-39,"CKD, Diabetes, Hypertension, Nash, Obesity",3+,1
+Male,20-29,"CKD, Hypertension, Nash",3,1
+Female,30-39,"Diabetes, Dyslipidemia, Heart disease, Hypertension",3+,1
+Male,30-39,"CKD, Diabetes, Hypertension, Obesity",3+,1
+Female,30-39,"Diabetes, Heart disease, Hypertension, Obesity",3+,1
+Female,30-39,"CKD, Diabetes, Heart disease, Hypertension, Nash",3+,1
+Male,20-29,"Diabetes, Dyslipidemia, Heart disease, Nash, Obesity",3+,1
+Male,40-49,"Dyslipidemia, Hypertension",2,1
+Male,30-39,"Hypertension, Obesity",2,1
+Male,20-29,"CKD, Dyslipidemia, Hypertension, Obesity",3+,1
+Male,20-29,"CKD, Dyslipidemia, Nash",3,1
+Female,10-19,"Heart disease, Hypertension, Obesity",3,1
+Female,30-39,"Diabetes, Dyslipidemia, Hypertension",3,1
+Female,30-39,"Diabetes, Dyslipidemia, Hypertension, Nash, Obesity",3+,1
+Female,20-29,"Diabetes, Dyslipidemia, Heart disease, Obesity",3+,1
+Male,40-49,"Dyslipidemia, Hypertension, Nash",3,1
+Female,10-19,"CKD, Diabetes",2,1
+Female,30-39,"CKD, Heart disease, Obesity",3,1
+Male,20-29,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension, Nash, Obesity",3+,1
+Male,10-19,Nash,1,1
+Female,30-39,"CKD, Dyslipidemia, Heart disease, Hypertension, Nash",3+,1
+Female,30-39,"CKD, Diabetes, Hypertension, Nash, Obesity",3+,1
+Female,10-19,"CKD, Hypertension",2,1
+Male,20-29,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension",3+,1
+Female,10-19,"CKD, Dyslipidemia, Heart disease, Nash",3+,1
+Male,20-29,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension, Obesity",3+,1
+Male,10-19,"Heart disease, Nash",2,1
+Female,20-29,"CKD, Heart disease, Nash, Obesity",3+,1
+Male,70+,"Diabetes, Heart disease, Nash, Obesity",3+,1
+Male,20-29,"CKD, Diabetes, Dyslipidemia, Hypertension, Obesity",3+,1
+Male,70+,"Diabetes, Hypertension",2,1
+Male,40-49,"CKD, Dyslipidemia, Hypertension, Nash",3+,1
+Male,20-29,"CKD, Diabetes, Dyslipidemia, Hypertension, Nash, Obesity",3+,1
+Male,10-19,"Heart disease, Obesity",2,1
+Male,70+,"Dyslipidemia, Heart disease, Hypertension, Nash, Obesity",3+,1
+Female,30-39,"CKD, Diabetes, Heart disease, Hypertension, Nash, Obesity",3+,1
+Male,20-29,"CKD, Diabetes, Hypertension, Nash, Obesity",3+,1
+Male,40-49,"CKD, Dyslipidemia, Heart disease, Nash, Obesity",3+,1
+Male,30-39,"CKD, Diabetes, Heart disease, Hypertension, Nash",3+,1
+Female,70+,"Hypertension, Nash",2,1
+Female,70+,"Hypertension, Obesity",2,1
+Male,40-49,"Diabetes, Dyslipidemia, Hypertension",3,1
+Female,30-39,"CKD, Heart disease, Hypertension, Nash, Obesity",3+,1
+Male,20-29,"CKD, Diabetes, Hypertension, Nash",3+,1
+Female,30-39,"CKD, Diabetes, Hypertension, Nash",3+,1
+Female,10-19,"Diabetes, Dyslipidemia",2,1
+Male,10-19,"Diabetes, Dyslipidemia",2,1
+Male,10-19,"Diabetes, Nash, Obesity",3,1
+Male,10-19,"Diabetes, Obesity",2,1
+Male,20-29,"CKD, Diabetes, Heart disease, Hypertension, Nash, Obesity",3+,1
+Male,20-29,"CKD, Diabetes, Heart disease, Hypertension, Nash",3+,1
+Female,30-39,"CKD, Dyslipidemia, Heart disease, Hypertension, Obesity",3+,1
+Female,40-49,"Heart disease, Hypertension, Nash, Obesity",3+,1
+Female,70+,"Diabetes, Hypertension",2,1
+Female,20-29,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension, Nash",3+,1
+Female,50-59,"Dyslipidemia, Heart disease, Hypertension, Nash, Obesity",3+,1
+Male,30-39,"Diabetes, Dyslipidemia, Hypertension, Nash, Obesity",3+,1
+Female,40-49,"Diabetes, Dyslipidemia, Heart disease, Hypertension, Nash",3+,1
+Female,50-59,"Dyslipidemia, Hypertension, Obesity",3,1
+Female,20-29,"CKD, Hypertension, Nash, Obesity",3+,1
+Female,50-59,"Hypertension, Obesity",2,1
+Female,20-29,"CKD, Dyslipidemia, Heart disease",3,1
+Female,20-29,"CKD, Dyslipidemia, Heart disease, Hypertension",3+,1
+Male,50-59,"Diabetes, Hypertension",2,1
+Male,60-69,"Diabetes, Heart disease, Hypertension, Nash",3+,1
+Male,60-69,"Diabetes, Heart disease, Hypertension, Nash, Obesity",3+,1
+Male,50-59,"Diabetes, Heart disease, Hypertension, Nash, Obesity",3+,1
+Male,50-59,"Diabetes, Dyslipidemia, Hypertension, Nash, Obesity",3+,1
+Male,50-59,"Diabetes, Dyslipidemia, Hypertension",3,1
+Male,60-69,"Diabetes, Hypertension",2,1
+Female,60-69,"CKD, Dyslipidemia, Hypertension, Nash, Obesity",3+,1
+Male,30-39,"Diabetes, Hypertension, Obesity",3,1
+Female,20-29,"CKD, Diabetes, Dyslipidemia, Hypertension, Nash",3+,1
+Female,50-59,"Diabetes, Hypertension, Nash",3,1
+Female,50-59,"Diabetes, Hypertension",2,1
+Male,30-39,"Diabetes, Dyslipidemia, Heart disease, Hypertension, Nash, Obesity",3+,1
+Female,40-49,"Dyslipidemia, Heart disease, Nash, Obesity",3+,1
+Female,40-49,"Dyslipidemia, Heart disease, Nash",3,1
+Male,20-29,"Heart disease, Nash, Obesity",3,1
+Male,20-29,"Heart disease, Hypertension",2,1
+Female,50-59,"CKD, Dyslipidemia, Hypertension, Nash, Obesity",3+,1
+Female,50-59,"Diabetes, Dyslipidemia, Heart disease, Hypertension, Nash",3+,1
+Female,20-29,"CKD, Diabetes, Heart disease, Nash, Obesity",3+,1
+Female,40-49,"Diabetes, Heart disease, Hypertension, Nash, Obesity",3+,1
+Male,30-39,"Diabetes, Dyslipidemia, Heart disease, Nash",3+,1
+Male,20-29,"CKD, Heart disease, Hypertension, Nash, Obesity",3+,1
+Female,40-49,"Diabetes, Heart disease, Hypertension, Nash",3+,1
+Female,50-59,"Diabetes, Heart disease, Hypertension, Nash",3+,1
+Male,20-29,"Hypertension, Nash",2,1
+Female,20-29,"CKD, Diabetes, Nash",3,1
+Female,20-29,"CKD, Diabetes, Nash, Obesity",3+,1
+Male,50-59,"Hypertension, Nash",2,1
+Female,20-29,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension, Nash, Obesity",3+,1
+Female,20-29,"CKD, Dyslipidemia, Hypertension, Nash, Obesity",3+,1
+Female,70+,"Diabetes, Heart disease, Nash, Obesity",3+,1
+Male,60-69,"Dyslipidemia, Heart disease, Hypertension, Nash, Obesity",3+,1
+Female,20-29,"Dyslipidemia, Hypertension, Nash, Obesity",3+,1
+Female,20-29,"Dyslipidemia, Hypertension",2,1
+Female,40-49,"CKD, Diabetes, Dyslipidemia, Heart disease, Nash, Obesity",3+,1
+Male,30-39,"CKD, Diabetes, Dyslipidemia, Heart disease, Nash",3+,1
+Male,30-39,"Dyslipidemia, Heart disease, Nash",3,1
+Female,30-39,"CKD, Diabetes, Dyslipidemia, Heart disease, Nash, Obesity",3+,1
+Female,70+,"CKD, Diabetes, Dyslipidemia, Heart disease, Nash, Obesity",3+,1
+Female,20-29,"Diabetes, Hypertension, Nash, Obesity",3+,1
+Female,20-29,"Diabetes, Heart disease, Nash, Obesity",3+,1
+Male,70+,"CKD, Diabetes, Dyslipidemia, Hypertension, Nash, Obesity",3+,1
+Male,30-39,"CKD, Hypertension, Nash, Obesity",3+,1
+Female,20-29,"Diabetes, Heart disease, Hypertension, Obesity",3+,1
+Female,20-29,"Diabetes, Heart disease, Hypertension, Nash, Obesity",3+,1
+Female,20-29,"Diabetes, Heart disease",2,1
+Female,70+,"Diabetes, Dyslipidemia, Heart disease, Nash, Obesity",3+,1
+Female,30-39,"Dyslipidemia, Hypertension",2,1
+Female,30-39,"Diabetes, Hypertension, Nash, Obesity",3+,1
+Female,20-29,"Dyslipidemia, Hypertension, Obesity",3,1
+Male,30-39,"CKD, Dyslipidemia, Heart disease, Nash",3+,1
+Female,60-69,"Hypertension, Obesity",2,1
+Male,30-39,"CKD, Dyslipidemia, Nash, Obesity",3+,1
+Female,60-69,"Diabetes, Dyslipidemia, Hypertension",3,1
+Female,60-69,"Diabetes, Dyslipidemia, Hypertension, Obesity",3+,1
+Female,40-49,"CKD, Dyslipidemia, Heart disease, Hypertension, Nash, Obesity",3+,1
+Female,20-29,"Heart disease, Hypertension, Obesity",3,1
+Male,60-69,"Dyslipidemia, Hypertension, Nash",3,1
+Male,60-69,"Dyslipidemia, Hypertension, Obesity",3,1
+Male,20-29,"Dyslipidemia, Heart disease, Hypertension, Obesity",3+,1
+Female,20-29,"CKD, Diabetes, Dyslipidemia, Heart disease, Hypertension",3+,1
+Female,60-69,"Heart disease, Hypertension, Nash, Obesity",3+,1
+Female,60-69,"Diabetes, Heart disease, Hypertension, Nash, Obesity",3+,1
+Male,60-69,"Heart disease, Hypertension, Nash, Obesity",3+,1
+Female,40-49,"CKD, Diabetes, Hypertension, Nash, Obesity",3+,1
+Female,40-49,"CKD, Diabetes, Hypertension, Nash",3+,1
+Male,30-39,"Dyslipidemia, Heart disease, Hypertension, Nash",3+,1
+Male,30-39,"Dyslipidemia, Heart disease, Hypertension, Nash, Obesity",3+,1
+Male,30-39,"Dyslipidemia, Heart disease, Hypertension, Obesity",3+,1
+Male,20-29,"CKD, Heart disease, Nash, Obesity",3+,1

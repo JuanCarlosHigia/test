@@ -1,0 +1,6 @@
+matplotlib
+pydeck
+plotly
+geopandas
+streamlit_authenticator
+st-pages

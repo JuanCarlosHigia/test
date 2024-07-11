@@ -1,0 +1,869 @@
+,Diseases,Nationality,Categories,Counts
+0,Nash,Israeli,Diagnosed,7050.0
+1,Dyslipidemia,Israeli,Diagnosed,32424.0
+2,Heart disease,Israeli,Diagnosed,56334.0
+3,Heart disease,Iraqui,Diagnosed,745.0
+4,Diabetes,Iraqui,Diagnosed,406.0
+5,Hypertension,Iraqui,Diagnosed,960.0
+6,CKD,Iraqui,Diagnosed,442.0
+7,Dyslipidemia,Iraqui,Diagnosed,433.0
+8,Obesity,Israeli,Diagnosed,16304.0
+9,CKD,Moroccan,Diagnosed,1069.0
+10,Heart disease,Moroccan,Diagnosed,1872.0
+11,Diabetes,Moroccan,Diagnosed,980.0
+12,Obesity,Moroccan,Diagnosed,548.0
+13,Hypertension,Moroccan,Diagnosed,2411.0
+14,Dyslipidemia,Moroccan,Diagnosed,1092.0
+15,Heart disease,Iranian,Diagnosed,608.0
+16,Diabetes,Iranian,Diagnosed,304.0
+17,Hypertension,Iranian,Diagnosed,763.0
+18,Hypertension,Israeli,Diagnosed,69997.0
+19,CKD,Israeli,Diagnosed,32439.0
+20,Heart disease,Ucranian,Diagnosed,1540.0
+21,Diabetes,Israeli,Diagnosed,28493.0
+22,Nash,Bulgarian,Diagnosed,23.0
+23,Obesity,Bulgarian,Diagnosed,48.0
+24,Hypertension,Russian,Diagnosed,1631.0
+25,CKD,English,Diagnosed,122.0
+26,Heart disease,English,Diagnosed,228.0
+27,Hypertension,English,Diagnosed,285.0
+28,Dyslipidemia,English,Diagnosed,136.0
+29,Dyslipidemia,Uzbek,Diagnosed,147.0
+30,Heart disease,United States,Diagnosed,866.0
+31,Hypertension,United States,Diagnosed,1075.0
+32,Obesity,Iraqui,Diagnosed,217.0
+33,CKD,Rumanian,Diagnosed,672.0
+34,Heart disease,Rumanian,Diagnosed,1185.0
+35,Diabetes,Rumanian,Diagnosed,597.0
+36,Hypertension,Rumanian,Diagnosed,1433.0
+37,Dyslipidemia,Rumanian,Diagnosed,682.0
+38,CKD,United States,Diagnosed,498.0
+39,Hypertension,Ethiopian,Diagnosed,1158.0
+40,Diabetes,Uzbek,Diagnosed,122.0
+41,CKD,Iranian,Diagnosed,365.0
+42,Obesity,Iranian,Diagnosed,195.0
+43,CKD,Russian,Diagnosed,743.0
+44,Diabetes,Russian,Diagnosed,671.0
+45,Dyslipidemia,Russian,Diagnosed,774.0
+46,Heart disease,French,Diagnosed,510.0
+47,Hypertension,French,Diagnosed,641.0
+48,Nash,Rumanian,Diagnosed,152.0
+49,CKD,Bulgarian,Diagnosed,101.0
+50,Hypertension,Bulgarian,Diagnosed,214.0
+51,CKD,Ucranian,Diagnosed,893.0
+52,Obesity,Ucranian,Diagnosed,455.0
+53,Hypertension,Ucranian,Diagnosed,1925.0
+54,Dyslipidemia,Ucranian,Diagnosed,854.0
+55,Hypertension,Egyptian,Diagnosed,323.0
+56,Diabetes,Egyptian,Diagnosed,129.0
+57,Diabetes,Ethiopian,Diagnosed,491.0
+58,Heart disease,Moldavian,Diagnosed,124.0
+59,Hypertension,Algerian,Diagnosed,637.0
+60,Heart disease,Yemeni,Diagnosed,340.0
+61,CKD,Algerian,Diagnosed,265.0
+62,Heart disease,Algerian,Diagnosed,501.0
+63,Dyslipidemia,Algerian,Diagnosed,277.0
+64,Dyslipidemia,United States,Diagnosed,509.0
+65,Heart disease,Polonian,Diagnosed,659.0
+66,Obesity,Polonian,Diagnosed,218.0
+67,Dyslipidemia,French,Diagnosed,301.0
+68,CKD,South African,Diagnosed,72.0
+69,Heart disease,South African,Diagnosed,135.0
+70,Hypertension,South African,Diagnosed,156.0
+71,Dyslipidemia,South African,Diagnosed,85.0
+72,Hypertension,Moldavian,Diagnosed,161.0
+73,Heart disease,Ethiopian,Diagnosed,939.0
+74,Diabetes,Ucranian,Diagnosed,775.0
+75,CKD,Kazakh,Diagnosed,73.0
+76,Heart disease,Kazakh,Diagnosed,169.0
+77,Hypertension,Kazakh,Diagnosed,211.0
+78,Dyslipidemia,Kazakh,Diagnosed,97.0
+79,Hypertension,Uzbek,Diagnosed,331.0
+80,Obesity,Ethiopian,Diagnosed,285.0
+81,Dyslipidemia,Iranian,Diagnosed,326.0
+82,CKD,German,Diagnosed,151.0
+83,Heart disease,German,Diagnosed,270.0
+84,Diabetes,German,Diagnosed,125.0
+85,Hypertension,German,Diagnosed,311.0
+86,CKD,Egyptian,Diagnosed,134.0
+87,Hypertension,Azerbaijani,Diagnosed,189.0
+88,Heart disease,Azerbaijani,Diagnosed,155.0
+89,Dyslipidemia,Azerbaijani,Diagnosed,88.0
+90,Diabetes,Polonian,Diagnosed,321.0
+91,Heart disease,Argentinian,Diagnosed,449.0
+92,Hypertension,Argentinian,Diagnosed,581.0
+93,Nash,Iranian,Diagnosed,79.0
+94,Hypertension,Polonian,Diagnosed,805.0
+95,Dyslipidemia,Polonian,Diagnosed,360.0
+96,Dyslipidemia,Ethiopian,Diagnosed,542.0
+97,Heart disease,Russian,Diagnosed,1277.0
+98,Obesity,Russian,Diagnosed,427.0
+99,Nash,Moroccan,Diagnosed,222.0
+100,CKD,Moldavian,Diagnosed,73.0
+101,Diabetes,Moldavian,Diagnosed,62.0
+102,CKD,French,Diagnosed,293.0
+103,Heart disease,Georgian,Diagnosed,92.0
+104,Hypertension,Georgian,Diagnosed,113.0
+105,Nash,Georgian,Diagnosed,14.0
+106,Dyslipidemia,Georgian,Diagnosed,48.0
+107,Heart disease,Bilorussian,Diagnosed,269.0
+108,Hypertension,Bilorussian,Diagnosed,305.0
+109,Dyslipidemia,Argentinian,Diagnosed,277.0
+110,CKD,Turkish,Diagnosed,199.0
+111,Heart disease,Turkish,Diagnosed,342.0
+112,Hypertension,Turkish,Diagnosed,397.0
+113,CKD,Yemeni,Diagnosed,185.0
+114,Diabetes,Yemeni,Diagnosed,169.0
+115,Hypertension,Yemeni,Diagnosed,438.0
+116,Heart disease,Bulgarian,Diagnosed,166.0
+117,Diabetes,Bulgarian,Diagnosed,77.0
+118,Dyslipidemia,Bulgarian,Diagnosed,103.0
+119,Nash,Iraqui,Diagnosed,77.0
+120,Diabetes,Argentinian,Diagnosed,213.0
+121,Diabetes,Turkish,Diagnosed,172.0
+122,Dyslipidemia,Turkish,Diagnosed,198.0
+123,Heart disease,Tunisian,Diagnosed,275.0
+124,Diabetes,Tunisian,Diagnosed,122.0
+125,Obesity,Tunisian,Diagnosed,67.0
+126,Diabetes,French,Diagnosed,260.0
+127,Obesity,Rumanian,Diagnosed,337.0
+128,Nash,Algerian,Diagnosed,61.0
+129,Diabetes,Libyan,Diagnosed,91.0
+130,CKD,Polonian,Diagnosed,376.0
+131,Diabetes,Kazakh,Diagnosed,80.0
+132,Heart disease,Libyan,Diagnosed,196.0
+133,Hypertension,Libyan,Diagnosed,242.0
+134,Dyslipidemia,Libyan,Diagnosed,113.0
+135,CKD,Sirian,Diagnosed,57.0
+136,Heart disease,Sirian,Diagnosed,109.0
+137,Diabetes,Sirian,Diagnosed,45.0
+138,Obesity,Sirian,Diagnosed,35.0
+139,Hypertension,Sirian,Diagnosed,131.0
+140,Dyslipidemia,Sirian,Diagnosed,59.0
+141,Heart disease,Indu,Diagnosed,209.0
+142,Hypertension,Indu,Diagnosed,272.0
+143,CKD,Georgian,Diagnosed,59.0
+144,Nash,Kazakh,Diagnosed,22.0
+145,Nash,Ucranian,Diagnosed,209.0
+146,Diabetes,English,Diagnosed,98.0
+147,CKD,Argentinian,Diagnosed,269.0
+148,CKD,Libyan,Diagnosed,104.0
+149,Diabetes,Indu,Diagnosed,103.0
+150,Dyslipidemia,Indu,Diagnosed,120.0
+151,CKD,Azerbaijani,Diagnosed,82.0
+152,Diabetes,Azerbaijani,Diagnosed,75.0
+153,Dyslipidemia,German,Diagnosed,146.0
+154,Nash,English,Diagnosed,30.0
+155,Obesity,Libyan,Diagnosed,62.0
+156,Hypertension,Tunisian,Diagnosed,315.0
+157,Obesity,Moldavian,Diagnosed,38.0
+158,Dyslipidemia,Moldavian,Diagnosed,79.0
+159,CKD,Uzbek,Diagnosed,151.0
+160,Heart disease,Uzbek,Diagnosed,267.0
+161,Obesity,Uzbek,Diagnosed,76.0
+162,Obesity,Algerian,Diagnosed,144.0
+163,CKD,Ethiopian,Diagnosed,562.0
+164,Diabetes,United States,Diagnosed,465.0
+165,Obesity,Georgian,Diagnosed,27.0
+166,Nash,Turkish,Diagnosed,42.0
+167,Obesity,United States,Diagnosed,243.0
+168,Obesity,Turkish,Diagnosed,94.0
+169,CKD,Tunisian,Diagnosed,156.0
+170,Dyslipidemia,Tunisian,Diagnosed,134.0
+171,Heart disease,Egyptian,Diagnosed,237.0
+172,Dyslipidemia,Egyptian,Diagnosed,157.0
+173,Diabetes,Algerian,Diagnosed,233.0
+174,Obesity,Azerbaijani,Diagnosed,50.0
+175,CKD,Bilorussian,Diagnosed,142.0
+176,Diabetes,Bilorussian,Diagnosed,132.0
+177,Obesity,Bilorussian,Diagnosed,84.0
+178,Dyslipidemia,Bilorussian,Diagnosed,143.0
+179,Nash,Russian,Diagnosed,149.0
+180,Hypertension,Hungarian,Diagnosed,184.0
+181,Nash,Argentinian,Diagnosed,63.0
+182,Diabetes,South African,Diagnosed,68.0
+183,Nash,Polonian,Diagnosed,93.0
+184,Nash,Ethiopian,Diagnosed,120.0
+185,CKD,Hungarian,Diagnosed,83.0
+186,Heart disease,Hungarian,Diagnosed,130.0
+187,Nash,Indu,Diagnosed,24.0
+188,Dyslipidemia,Yemeni,Diagnosed,212.0
+189,Obesity,French,Diagnosed,152.0
+190,Obesity,German,Diagnosed,70.0
+191,CKD,Indu,Diagnosed,122.0
+192,Nash,French,Diagnosed,52.0
+193,Obesity,Argentinian,Diagnosed,143.0
+194,Nash,Uzbek,Diagnosed,32.0
+195,Nash,Libyan,Diagnosed,23.0
+196,Nash,Moldavian,Diagnosed,18.0
+197,Nash,Bilorussian,Diagnosed,39.0
+198,Diabetes,Hungarian,Diagnosed,70.0
+199,Obesity,Egyptian,Diagnosed,70.0
+200,Nash,German,Diagnosed,25.0
+201,Obesity,English,Diagnosed,56.0
+202,Nash,Hungarian,Diagnosed,15.0
+203,Obesity,Hungarian,Diagnosed,34.0
+204,Nash,United States,Diagnosed,103.0
+205,Obesity,South African,Diagnosed,39.0
+206,Nash,Sirian,Diagnosed,15.0
+207,Dyslipidemia,Hungarian,Diagnosed,88.0
+208,Nash,Yemeni,Diagnosed,50.0
+209,Nash,Egyptian,Diagnosed,30.0
+210,Nash,Tunisian,Diagnosed,30.0
+211,Obesity,Kazakh,Diagnosed,53.0
+212,Diabetes,Georgian,Diagnosed,52.0
+213,Nash,Azerbaijani,Diagnosed,17.0
+214,Obesity,Yemeni,Diagnosed,107.0
+215,Obesity,Indu,Diagnosed,53.0
+216,Nash,South African,Diagnosed,15.0
+217,Nash,Israeli,At Risk (AI),41858.0
+218,Dyslipidemia,Israeli,At Risk (AI),65014.0
+219,Heart disease,Israeli,At Risk (AI),56425.0
+220,Heart disease,Iraqui,At Risk (AI),750.0
+221,Diabetes,Iraqui,At Risk (AI),304.0
+222,Hypertension,Iraqui,At Risk (AI),730.0
+223,CKD,Iraqui,At Risk (AI),1150.0
+224,Dyslipidemia,Iraqui,At Risk (AI),882.0
+225,Obesity,Israeli,At Risk (AI),67412.0
+226,CKD,Moroccan,At Risk (AI),2864.0
+227,Heart disease,Moroccan,At Risk (AI),1910.0
+228,Diabetes,Moroccan,At Risk (AI),820.0
+229,Obesity,Moroccan,At Risk (AI),2254.0
+230,Hypertension,Moroccan,At Risk (AI),1796.0
+231,Dyslipidemia,Moroccan,At Risk (AI),2192.0
+232,Heart disease,Iranian,At Risk (AI),625.0
+233,Diabetes,Iranian,At Risk (AI),250.0
+234,Hypertension,Iranian,At Risk (AI),601.0
+235,Hypertension,Israeli,At Risk (AI),53985.0
+236,CKD,Israeli,At Risk (AI),84421.0
+237,Heart disease,Ucranian,At Risk (AI),1525.0
+238,Diabetes,Israeli,At Risk (AI),23127.0
+239,Nash,Bulgarian,At Risk (AI),142.0
+240,Obesity,Bulgarian,At Risk (AI),230.0
+241,Hypertension,Russian,At Risk (AI),1248.0
+242,CKD,English,At Risk (AI),347.0
+243,Heart disease,English,At Risk (AI),241.0
+244,Hypertension,English,At Risk (AI),226.0
+245,Dyslipidemia,English,At Risk (AI),266.0
+246,Dyslipidemia,Uzbek,At Risk (AI),311.0
+247,Heart disease,United States,At Risk (AI),897.0
+248,Hypertension,United States,At Risk (AI),836.0
+249,Obesity,Iraqui,At Risk (AI),908.0
+250,CKD,Rumanian,At Risk (AI),1744.0
+251,Heart disease,Rumanian,At Risk (AI),1146.0
+252,Diabetes,Rumanian,At Risk (AI),468.0
+253,Hypertension,Rumanian,At Risk (AI),1124.0
+254,Dyslipidemia,Rumanian,At Risk (AI),1354.0
+255,CKD,United States,At Risk (AI),1280.0
+256,Hypertension,Ethiopian,At Risk (AI),915.0
+257,Diabetes,Uzbek,At Risk (AI),108.0
+258,CKD,Iranian,At Risk (AI),957.0
+259,Obesity,Iranian,At Risk (AI),779.0
+260,CKD,Russian,At Risk (AI),1915.0
+261,Diabetes,Russian,At Risk (AI),550.0
+262,Dyslipidemia,Russian,At Risk (AI),1478.0
+263,Heart disease,French,At Risk (AI),543.0
+264,Hypertension,French,At Risk (AI),489.0
+265,Nash,Rumanian,At Risk (AI),858.0
+266,CKD,Bulgarian,At Risk (AI),284.0
+267,Hypertension,Bulgarian,At Risk (AI),187.0
+268,CKD,Ucranian,At Risk (AI),2232.0
+269,Obesity,Ucranian,At Risk (AI),1740.0
+270,Hypertension,Ucranian,At Risk (AI),1400.0
+271,Dyslipidemia,Ucranian,At Risk (AI),1710.0
+272,Hypertension,Egyptian,At Risk (AI),230.0
+273,Diabetes,Egyptian,At Risk (AI),96.0
+274,Diabetes,Ethiopian,At Risk (AI),380.0
+275,Heart disease,Moldavian,At Risk (AI),127.0
+276,Hypertension,Algerian,At Risk (AI),486.0
+277,Heart disease,Yemeni,At Risk (AI),373.0
+278,CKD,Algerian,At Risk (AI),793.0
+279,Heart disease,Algerian,At Risk (AI),519.0
+280,Dyslipidemia,Algerian,At Risk (AI),613.0
+281,Dyslipidemia,United States,At Risk (AI),1009.0
+282,Heart disease,Polonian,At Risk (AI),699.0
+283,Obesity,Polonian,At Risk (AI),822.0
+284,Dyslipidemia,French,At Risk (AI),593.0
+285,CKD,South African,At Risk (AI),221.0
+286,Heart disease,South African,At Risk (AI),149.0
+287,Hypertension,South African,At Risk (AI),146.0
+288,Dyslipidemia,South African,At Risk (AI),163.0
+289,Hypertension,Moldavian,At Risk (AI),124.0
+290,Heart disease,Ethiopian,At Risk (AI),949.0
+291,Diabetes,Ucranian,At Risk (AI),672.0
+292,CKD,Kazakh,At Risk (AI),253.0
+293,Heart disease,Kazakh,At Risk (AI),163.0
+294,Hypertension,Kazakh,At Risk (AI),152.0
+295,Dyslipidemia,Kazakh,At Risk (AI),175.0
+296,Hypertension,Uzbek,At Risk (AI),249.0
+297,Obesity,Ethiopian,At Risk (AI),1138.0
+298,Dyslipidemia,Iranian,At Risk (AI),755.0
+299,CKD,German,At Risk (AI),393.0
+300,Heart disease,German,At Risk (AI),249.0
+301,Diabetes,German,At Risk (AI),100.0
+302,Hypertension,German,At Risk (AI),250.0
+303,CKD,Egyptian,At Risk (AI),380.0
+304,Hypertension,Azerbaijani,At Risk (AI),136.0
+305,Heart disease,Azerbaijani,At Risk (AI),143.0
+306,Dyslipidemia,Azerbaijani,At Risk (AI),180.0
+307,Diabetes,Polonian,At Risk (AI),265.0
+308,Heart disease,Argentinian,At Risk (AI),492.0
+309,Hypertension,Argentinian,At Risk (AI),452.0
+310,Nash,Iranian,At Risk (AI),465.0
+311,Hypertension,Polonian,At Risk (AI),699.0
+312,Dyslipidemia,Polonian,At Risk (AI),811.0
+313,Dyslipidemia,Ethiopian,At Risk (AI),1105.0
+314,Heart disease,Russian,At Risk (AI),1303.0
+315,Obesity,Russian,At Risk (AI),1527.0
+316,Nash,Moroccan,At Risk (AI),1347.0
+317,CKD,Moldavian,At Risk (AI),201.0
+318,Diabetes,Moldavian,At Risk (AI),54.0
+319,CKD,French,At Risk (AI),783.0
+320,Heart disease,Georgian,At Risk (AI),112.0
+321,Hypertension,Georgian,At Risk (AI),108.0
+322,Nash,Georgian,At Risk (AI),85.0
+323,Dyslipidemia,Georgian,At Risk (AI),129.0
+324,Heart disease,Bilorussian,At Risk (AI),269.0
+325,Hypertension,Bilorussian,At Risk (AI),263.0
+326,Dyslipidemia,Argentinian,At Risk (AI),524.0
+327,CKD,Turkish,At Risk (AI),457.0
+328,Heart disease,Turkish,At Risk (AI),286.0
+329,Hypertension,Turkish,At Risk (AI),286.0
+330,CKD,Yemeni,At Risk (AI),544.0
+331,Diabetes,Yemeni,At Risk (AI),142.0
+332,Hypertension,Yemeni,At Risk (AI),342.0
+333,Heart disease,Bulgarian,At Risk (AI),190.0
+334,Diabetes,Bulgarian,At Risk (AI),82.0
+335,Dyslipidemia,Bulgarian,At Risk (AI),226.0
+336,Nash,Iraqui,At Risk (AI),573.0
+337,Diabetes,Argentinian,At Risk (AI),208.0
+338,Diabetes,Turkish,At Risk (AI),134.0
+339,Dyslipidemia,Turkish,At Risk (AI),351.0
+340,Heart disease,Tunisian,At Risk (AI),264.0
+341,Diabetes,Tunisian,At Risk (AI),111.0
+342,Obesity,Tunisian,At Risk (AI),322.0
+343,Diabetes,French,At Risk (AI),213.0
+344,Obesity,Rumanian,At Risk (AI),1431.0
+345,Nash,Algerian,At Risk (AI),392.0
+346,Diabetes,Libyan,At Risk (AI),83.0
+347,CKD,Polonian,At Risk (AI),1064.0
+348,Diabetes,Kazakh,At Risk (AI),73.0
+349,Heart disease,Libyan,At Risk (AI),174.0
+350,Hypertension,Libyan,At Risk (AI),188.0
+351,Dyslipidemia,Libyan,At Risk (AI),218.0
+352,CKD,Sirian,At Risk (AI),151.0
+353,Heart disease,Sirian,At Risk (AI),97.0
+354,Diabetes,Sirian,At Risk (AI),40.0
+355,Obesity,Sirian,At Risk (AI),118.0
+356,Hypertension,Sirian,At Risk (AI),97.0
+357,Dyslipidemia,Sirian,At Risk (AI),112.0
+358,Heart disease,Indu,At Risk (AI),210.0
+359,Hypertension,Indu,At Risk (AI),194.0
+360,CKD,Georgian,At Risk (AI),155.0
+361,Nash,Kazakh,At Risk (AI),120.0
+362,Nash,Ucranian,At Risk (AI),1052.0
+363,Diabetes,English,At Risk (AI),96.0
+364,CKD,Argentinian,At Risk (AI),700.0
+365,CKD,Libyan,At Risk (AI),284.0
+366,Diabetes,Indu,At Risk (AI),93.0
+367,Dyslipidemia,Indu,At Risk (AI),223.0
+368,CKD,Azerbaijani,At Risk (AI),212.0
+369,Diabetes,Azerbaijani,At Risk (AI),58.0
+370,Dyslipidemia,German,At Risk (AI),325.0
+371,Nash,English,At Risk (AI),176.0
+372,Obesity,Libyan,At Risk (AI),234.0
+373,Hypertension,Tunisian,At Risk (AI),263.0
+374,Obesity,Moldavian,At Risk (AI),148.0
+375,Dyslipidemia,Moldavian,At Risk (AI),147.0
+376,CKD,Uzbek,At Risk (AI),391.0
+377,Heart disease,Uzbek,At Risk (AI),236.0
+378,Obesity,Uzbek,At Risk (AI),320.0
+379,Obesity,Algerian,At Risk (AI),642.0
+380,CKD,Ethiopian,At Risk (AI),1381.0
+381,Diabetes,United States,At Risk (AI),346.0
+382,Obesity,Georgian,At Risk (AI),139.0
+383,Nash,Turkish,At Risk (AI),231.0
+384,Obesity,United States,At Risk (AI),1061.0
+385,Obesity,Turkish,At Risk (AI),365.0
+386,CKD,Tunisian,At Risk (AI),394.0
+387,Dyslipidemia,Tunisian,At Risk (AI),313.0
+388,Heart disease,Egyptian,At Risk (AI),235.0
+389,Dyslipidemia,Egyptian,At Risk (AI),274.0
+390,Diabetes,Algerian,At Risk (AI),214.0
+391,Obesity,Azerbaijani,At Risk (AI),175.0
+392,CKD,Bilorussian,At Risk (AI),409.0
+393,Diabetes,Bilorussian,At Risk (AI),117.0
+394,Obesity,Bilorussian,At Risk (AI),338.0
+395,Dyslipidemia,Bilorussian,At Risk (AI),322.0
+396,Nash,Russian,At Risk (AI),907.0
+397,Hypertension,Hungarian,At Risk (AI),130.0
+398,Nash,Argentinian,At Risk (AI),356.0
+399,Diabetes,South African,At Risk (AI),45.0
+400,Nash,Polonian,At Risk (AI),533.0
+401,Nash,Ethiopian,At Risk (AI),708.0
+402,CKD,Hungarian,At Risk (AI),217.0
+403,Heart disease,Hungarian,At Risk (AI),154.0
+404,Nash,Indu,At Risk (AI),154.0
+405,Dyslipidemia,Yemeni,At Risk (AI),398.0
+406,Obesity,French,At Risk (AI),615.0
+407,Obesity,German,At Risk (AI),322.0
+408,CKD,Indu,At Risk (AI),301.0
+409,Nash,French,At Risk (AI),379.0
+410,Obesity,Argentinian,At Risk (AI),551.0
+411,Nash,Uzbek,At Risk (AI),209.0
+412,Nash,Libyan,At Risk (AI),147.0
+413,Nash,Moldavian,At Risk (AI),88.0
+414,Nash,Bilorussian,At Risk (AI),206.0
+415,Diabetes,Hungarian,At Risk (AI),55.0
+416,Obesity,Egyptian,At Risk (AI),296.0
+417,Nash,German,At Risk (AI),191.0
+418,Obesity,English,At Risk (AI),282.0
+419,Nash,Hungarian,At Risk (AI),106.0
+420,Obesity,Hungarian,At Risk (AI),165.0
+421,Nash,United States,At Risk (AI),675.0
+422,Obesity,South African,At Risk (AI),163.0
+423,Nash,Sirian,At Risk (AI),67.0
+424,Dyslipidemia,Hungarian,At Risk (AI),163.0
+425,Nash,Yemeni,At Risk (AI),282.0
+426,Nash,Egyptian,At Risk (AI),169.0
+427,Nash,Tunisian,At Risk (AI),195.0
+428,Obesity,Kazakh,At Risk (AI),195.0
+429,Diabetes,Georgian,At Risk (AI),44.0
+430,Nash,Azerbaijani,At Risk (AI),113.0
+431,Obesity,Yemeni,At Risk (AI),434.0
+432,Obesity,Indu,At Risk (AI),243.0
+433,Nash,South African,At Risk (AI),99.0
+434,Nash,Israeli,Immediate Risk,
+435,Dyslipidemia,Israeli,Immediate Risk,13415.0
+436,Heart disease,Israeli,Immediate Risk,
+437,Heart disease,Iraqui,Immediate Risk,
+438,Diabetes,Iraqui,Immediate Risk,
+439,Hypertension,Iraqui,Immediate Risk,191.0
+440,CKD,Iraqui,Immediate Risk,82.0
+441,Dyslipidemia,Iraqui,Immediate Risk,193.0
+442,Obesity,Israeli,Immediate Risk,33356.0
+443,CKD,Moroccan,Immediate Risk,168.0
+444,Heart disease,Moroccan,Immediate Risk,
+445,Diabetes,Moroccan,Immediate Risk,
+446,Obesity,Moroccan,Immediate Risk,1120.0
+447,Hypertension,Moroccan,Immediate Risk,507.0
+448,Dyslipidemia,Moroccan,Immediate Risk,442.0
+449,Heart disease,Iranian,Immediate Risk,
+450,Diabetes,Iranian,Immediate Risk,
+451,Hypertension,Iranian,Immediate Risk,141.0
+452,Hypertension,Israeli,Immediate Risk,15410.0
+453,CKD,Israeli,Immediate Risk,5740.0
+454,Heart disease,Ucranian,Immediate Risk,
+455,Diabetes,Israeli,Immediate Risk,
+456,Nash,Bulgarian,Immediate Risk,
+457,Obesity,Bulgarian,Immediate Risk,87.0
+458,Hypertension,Russian,Immediate Risk,381.0
+459,CKD,English,Immediate Risk,31.0
+460,Heart disease,English,Immediate Risk,
+461,Hypertension,English,Immediate Risk,70.0
+462,Dyslipidemia,English,Immediate Risk,63.0
+463,Dyslipidemia,Uzbek,Immediate Risk,71.0
+464,Heart disease,United States,Immediate Risk,
+465,Hypertension,United States,Immediate Risk,269.0
+466,Obesity,Iraqui,Immediate Risk,480.0
+467,CKD,Rumanian,Immediate Risk,135.0
+468,Heart disease,Rumanian,Immediate Risk,
+469,Diabetes,Rumanian,Immediate Risk,
+470,Hypertension,Rumanian,Immediate Risk,319.0
+471,Dyslipidemia,Rumanian,Immediate Risk,263.0
+472,CKD,United States,Immediate Risk,95.0
+473,Hypertension,Ethiopian,Immediate Risk,255.0
+474,Diabetes,Uzbek,Immediate Risk,
+475,CKD,Iranian,Immediate Risk,58.0
+476,Obesity,Iranian,Immediate Risk,333.0
+477,CKD,Russian,Immediate Risk,158.0
+478,Diabetes,Russian,Immediate Risk,
+479,Dyslipidemia,Russian,Immediate Risk,323.0
+480,Heart disease,French,Immediate Risk,
+481,Hypertension,French,Immediate Risk,137.0
+482,Nash,Rumanian,Immediate Risk,
+483,CKD,Bulgarian,Immediate Risk,18.0
+484,Hypertension,Bulgarian,Immediate Risk,47.0
+485,CKD,Ucranian,Immediate Risk,166.0
+486,Obesity,Ucranian,Immediate Risk,927.0
+487,Hypertension,Ucranian,Immediate Risk,411.0
+488,Dyslipidemia,Ucranian,Immediate Risk,383.0
+489,Hypertension,Egyptian,Immediate Risk,55.0
+490,Diabetes,Egyptian,Immediate Risk,
+491,Diabetes,Ethiopian,Immediate Risk,
+492,Heart disease,Moldavian,Immediate Risk,
+493,Hypertension,Algerian,Immediate Risk,141.0
+494,Heart disease,Yemeni,Immediate Risk,
+495,CKD,Algerian,Immediate Risk,56.0
+496,Heart disease,Algerian,Immediate Risk,
+497,Dyslipidemia,Algerian,Immediate Risk,128.0
+498,Dyslipidemia,United States,Immediate Risk,211.0
+499,Heart disease,Polonian,Immediate Risk,
+500,Obesity,Polonian,Immediate Risk,353.0
+501,Dyslipidemia,French,Immediate Risk,112.0
+502,CKD,South African,Immediate Risk,19.0
+503,Heart disease,South African,Immediate Risk,
+504,Hypertension,South African,Immediate Risk,39.0
+505,Dyslipidemia,South African,Immediate Risk,29.0
+506,Hypertension,Moldavian,Immediate Risk,38.0
+507,Heart disease,Ethiopian,Immediate Risk,
+508,Diabetes,Ucranian,Immediate Risk,
+509,CKD,Kazakh,Immediate Risk,22.0
+510,Heart disease,Kazakh,Immediate Risk,
+511,Hypertension,Kazakh,Immediate Risk,45.0
+512,Dyslipidemia,Kazakh,Immediate Risk,39.0
+513,Hypertension,Uzbek,Immediate Risk,79.0
+514,Obesity,Ethiopian,Immediate Risk,528.0
+515,Dyslipidemia,Iranian,Immediate Risk,144.0
+516,CKD,German,Immediate Risk,28.0
+517,Heart disease,German,Immediate Risk,
+518,Diabetes,German,Immediate Risk,
+519,Hypertension,German,Immediate Risk,86.0
+520,CKD,Egyptian,Immediate Risk,27.0
+521,Hypertension,Azerbaijani,Immediate Risk,40.0
+522,Heart disease,Azerbaijani,Immediate Risk,
+523,Dyslipidemia,Azerbaijani,Immediate Risk,42.0
+524,Diabetes,Polonian,Immediate Risk,
+525,Heart disease,Argentinian,Immediate Risk,
+526,Hypertension,Argentinian,Immediate Risk,108.0
+527,Nash,Iranian,Immediate Risk,
+528,Hypertension,Polonian,Immediate Risk,193.0
+529,Dyslipidemia,Polonian,Immediate Risk,162.0
+530,Dyslipidemia,Ethiopian,Immediate Risk,218.0
+531,Heart disease,Russian,Immediate Risk,
+532,Obesity,Russian,Immediate Risk,740.0
+533,Nash,Moroccan,Immediate Risk,
+534,CKD,Moldavian,Immediate Risk,11.0
+535,Diabetes,Moldavian,Immediate Risk,
+536,CKD,French,Immediate Risk,54.0
+537,Heart disease,Georgian,Immediate Risk,
+538,Hypertension,Georgian,Immediate Risk,37.0
+539,Nash,Georgian,Immediate Risk,
+540,Dyslipidemia,Georgian,Immediate Risk,29.0
+541,Heart disease,Bilorussian,Immediate Risk,
+542,Hypertension,Bilorussian,Immediate Risk,71.0
+543,Dyslipidemia,Argentinian,Immediate Risk,105.0
+544,CKD,Turkish,Immediate Risk,38.0
+545,Heart disease,Turkish,Immediate Risk,
+546,Hypertension,Turkish,Immediate Risk,83.0
+547,CKD,Yemeni,Immediate Risk,33.0
+548,Diabetes,Yemeni,Immediate Risk,
+549,Hypertension,Yemeni,Immediate Risk,88.0
+550,Heart disease,Bulgarian,Immediate Risk,
+551,Diabetes,Bulgarian,Immediate Risk,
+552,Dyslipidemia,Bulgarian,Immediate Risk,46.0
+553,Nash,Iraqui,Immediate Risk,
+554,Diabetes,Argentinian,Immediate Risk,
+555,Diabetes,Turkish,Immediate Risk,
+556,Dyslipidemia,Turkish,Immediate Risk,70.0
+557,Heart disease,Tunisian,Immediate Risk,
+558,Diabetes,Tunisian,Immediate Risk,
+559,Obesity,Tunisian,Immediate Risk,149.0
+560,Diabetes,French,Immediate Risk,
+561,Obesity,Rumanian,Immediate Risk,658.0
+562,Nash,Algerian,Immediate Risk,
+563,Diabetes,Libyan,Immediate Risk,
+564,CKD,Polonian,Immediate Risk,73.0
+565,Diabetes,Kazakh,Immediate Risk,
+566,Heart disease,Libyan,Immediate Risk,
+567,Hypertension,Libyan,Immediate Risk,64.0
+568,Dyslipidemia,Libyan,Immediate Risk,51.0
+569,CKD,Sirian,Immediate Risk,11.0
+570,Heart disease,Sirian,Immediate Risk,
+571,Diabetes,Sirian,Immediate Risk,
+572,Obesity,Sirian,Immediate Risk,56.0
+573,Hypertension,Sirian,Immediate Risk,32.0
+574,Dyslipidemia,Sirian,Immediate Risk,21.0
+575,Heart disease,Indu,Immediate Risk,
+576,Hypertension,Indu,Immediate Risk,61.0
+577,CKD,Georgian,Immediate Risk,10.0
+578,Nash,Kazakh,Immediate Risk,
+579,Nash,Ucranian,Immediate Risk,
+580,Diabetes,English,Immediate Risk,
+581,CKD,Argentinian,Immediate Risk,52.0
+582,CKD,Libyan,Immediate Risk,19.0
+583,Diabetes,Indu,Immediate Risk,
+584,Dyslipidemia,Indu,Immediate Risk,53.0
+585,CKD,Azerbaijani,Immediate Risk,16.0
+586,Diabetes,Azerbaijani,Immediate Risk,
+587,Dyslipidemia,German,Immediate Risk,49.0
+588,Nash,English,Immediate Risk,
+589,Obesity,Libyan,Immediate Risk,127.0
+590,Hypertension,Tunisian,Immediate Risk,72.0
+591,Obesity,Moldavian,Immediate Risk,75.0
+592,Dyslipidemia,Moldavian,Immediate Risk,30.0
+593,CKD,Uzbek,Immediate Risk,22.0
+594,Heart disease,Uzbek,Immediate Risk,
+595,Obesity,Uzbek,Immediate Risk,149.0
+596,Obesity,Algerian,Immediate Risk,283.0
+597,CKD,Ethiopian,Immediate Risk,104.0
+598,Diabetes,United States,Immediate Risk,
+599,Obesity,Georgian,Immediate Risk,55.0
+600,Nash,Turkish,Immediate Risk,
+601,Obesity,United States,Immediate Risk,536.0
+602,Obesity,Turkish,Immediate Risk,189.0
+603,CKD,Tunisian,Immediate Risk,25.0
+604,Dyslipidemia,Tunisian,Immediate Risk,51.0
+605,Heart disease,Egyptian,Immediate Risk,
+606,Dyslipidemia,Egyptian,Immediate Risk,60.0
+607,Diabetes,Algerian,Immediate Risk,
+608,Obesity,Azerbaijani,Immediate Risk,93.0
+609,CKD,Bilorussian,Immediate Risk,28.0
+610,Diabetes,Bilorussian,Immediate Risk,
+611,Obesity,Bilorussian,Immediate Risk,157.0
+612,Dyslipidemia,Bilorussian,Immediate Risk,63.0
+613,Nash,Russian,Immediate Risk,
+614,Hypertension,Hungarian,Immediate Risk,38.0
+615,Nash,Argentinian,Immediate Risk,
+616,Diabetes,South African,Immediate Risk,
+617,Nash,Polonian,Immediate Risk,
+618,Nash,Ethiopian,Immediate Risk,
+619,CKD,Hungarian,Immediate Risk,17.0
+620,Heart disease,Hungarian,Immediate Risk,
+621,Nash,Indu,Immediate Risk,
+622,Dyslipidemia,Yemeni,Immediate Risk,74.0
+623,Obesity,French,Immediate Risk,285.0
+624,Obesity,German,Immediate Risk,178.0
+625,CKD,Indu,Immediate Risk,34.0
+626,Nash,French,Immediate Risk,
+627,Obesity,Argentinian,Immediate Risk,267.0
+628,Nash,Uzbek,Immediate Risk,
+629,Nash,Libyan,Immediate Risk,
+630,Nash,Moldavian,Immediate Risk,
+631,Nash,Bilorussian,Immediate Risk,
+632,Diabetes,Hungarian,Immediate Risk,
+633,Obesity,Egyptian,Immediate Risk,168.0
+634,Nash,German,Immediate Risk,
+635,Obesity,English,Immediate Risk,141.0
+636,Nash,Hungarian,Immediate Risk,
+637,Obesity,Hungarian,Immediate Risk,101.0
+638,Nash,United States,Immediate Risk,
+639,Obesity,South African,Immediate Risk,77.0
+640,Nash,Sirian,Immediate Risk,
+641,Dyslipidemia,Hungarian,Immediate Risk,33.0
+642,Nash,Yemeni,Immediate Risk,
+643,Nash,Egyptian,Immediate Risk,
+644,Nash,Tunisian,Immediate Risk,
+645,Obesity,Kazakh,Immediate Risk,79.0
+646,Diabetes,Georgian,Immediate Risk,
+647,Nash,Azerbaijani,Immediate Risk,
+648,Obesity,Yemeni,Immediate Risk,210.0
+649,Obesity,Indu,Immediate Risk,129.0
+650,Nash,South African,Immediate Risk,
+651,Nash,Israeli,At Risk,41858.0
+652,Dyslipidemia,Israeli,At Risk,78429.0
+653,Heart disease,Israeli,At Risk,56425.0
+654,Heart disease,Iraqui,At Risk,750.0
+655,Diabetes,Iraqui,At Risk,304.0
+656,Hypertension,Iraqui,At Risk,921.0
+657,CKD,Iraqui,At Risk,1232.0
+658,Dyslipidemia,Iraqui,At Risk,1075.0
+659,Obesity,Israeli,At Risk,100768.0
+660,CKD,Moroccan,At Risk,3032.0
+661,Heart disease,Moroccan,At Risk,1910.0
+662,Diabetes,Moroccan,At Risk,820.0
+663,Obesity,Moroccan,At Risk,3374.0
+664,Hypertension,Moroccan,At Risk,2303.0
+665,Dyslipidemia,Moroccan,At Risk,2634.0
+666,Heart disease,Iranian,At Risk,625.0
+667,Diabetes,Iranian,At Risk,250.0
+668,Hypertension,Iranian,At Risk,742.0
+669,Hypertension,Israeli,At Risk,69395.0
+670,CKD,Israeli,At Risk,90161.0
+671,Heart disease,Ucranian,At Risk,1525.0
+672,Diabetes,Israeli,At Risk,23127.0
+673,Nash,Bulgarian,At Risk,142.0
+674,Obesity,Bulgarian,At Risk,317.0
+675,Hypertension,Russian,At Risk,1629.0
+676,CKD,English,At Risk,378.0
+677,Heart disease,English,At Risk,241.0
+678,Hypertension,English,At Risk,296.0
+679,Dyslipidemia,English,At Risk,329.0
+680,Dyslipidemia,Uzbek,At Risk,382.0
+681,Heart disease,United States,At Risk,897.0
+682,Hypertension,United States,At Risk,1105.0
+683,Obesity,Iraqui,At Risk,1388.0
+684,CKD,Rumanian,At Risk,1879.0
+685,Heart disease,Rumanian,At Risk,1146.0
+686,Diabetes,Rumanian,At Risk,468.0
+687,Hypertension,Rumanian,At Risk,1443.0
+688,Dyslipidemia,Rumanian,At Risk,1617.0
+689,CKD,United States,At Risk,1375.0
+690,Hypertension,Ethiopian,At Risk,1170.0
+691,Diabetes,Uzbek,At Risk,108.0
+692,CKD,Iranian,At Risk,1015.0
+693,Obesity,Iranian,At Risk,1112.0
+694,CKD,Russian,At Risk,2073.0
+695,Diabetes,Russian,At Risk,550.0
+696,Dyslipidemia,Russian,At Risk,1801.0
+697,Heart disease,French,At Risk,543.0
+698,Hypertension,French,At Risk,626.0
+699,Nash,Rumanian,At Risk,858.0
+700,CKD,Bulgarian,At Risk,302.0
+701,Hypertension,Bulgarian,At Risk,234.0
+702,CKD,Ucranian,At Risk,2398.0
+703,Obesity,Ucranian,At Risk,2667.0
+704,Hypertension,Ucranian,At Risk,1811.0
+705,Dyslipidemia,Ucranian,At Risk,2093.0
+706,Hypertension,Egyptian,At Risk,285.0
+707,Diabetes,Egyptian,At Risk,96.0
+708,Diabetes,Ethiopian,At Risk,380.0
+709,Heart disease,Moldavian,At Risk,127.0
+710,Hypertension,Algerian,At Risk,627.0
+711,Heart disease,Yemeni,At Risk,373.0
+712,CKD,Algerian,At Risk,849.0
+713,Heart disease,Algerian,At Risk,519.0
+714,Dyslipidemia,Algerian,At Risk,741.0
+715,Dyslipidemia,United States,At Risk,1220.0
+716,Heart disease,Polonian,At Risk,699.0
+717,Obesity,Polonian,At Risk,1175.0
+718,Dyslipidemia,French,At Risk,705.0
+719,CKD,South African,At Risk,240.0
+720,Heart disease,South African,At Risk,149.0
+721,Hypertension,South African,At Risk,185.0
+722,Dyslipidemia,South African,At Risk,192.0
+723,Hypertension,Moldavian,At Risk,162.0
+724,Heart disease,Ethiopian,At Risk,949.0
+725,Diabetes,Ucranian,At Risk,672.0
+726,CKD,Kazakh,At Risk,275.0
+727,Heart disease,Kazakh,At Risk,163.0
+728,Hypertension,Kazakh,At Risk,197.0
+729,Dyslipidemia,Kazakh,At Risk,214.0
+730,Hypertension,Uzbek,At Risk,328.0
+731,Obesity,Ethiopian,At Risk,1666.0
+732,Dyslipidemia,Iranian,At Risk,899.0
+733,CKD,German,At Risk,421.0
+734,Heart disease,German,At Risk,249.0
+735,Diabetes,German,At Risk,100.0
+736,Hypertension,German,At Risk,336.0
+737,CKD,Egyptian,At Risk,407.0
+738,Hypertension,Azerbaijani,At Risk,176.0
+739,Heart disease,Azerbaijani,At Risk,143.0
+740,Dyslipidemia,Azerbaijani,At Risk,222.0
+741,Diabetes,Polonian,At Risk,265.0
+742,Heart disease,Argentinian,At Risk,492.0
+743,Hypertension,Argentinian,At Risk,560.0
+744,Nash,Iranian,At Risk,465.0
+745,Hypertension,Polonian,At Risk,892.0
+746,Dyslipidemia,Polonian,At Risk,973.0
+747,Dyslipidemia,Ethiopian,At Risk,1323.0
+748,Heart disease,Russian,At Risk,1303.0
+749,Obesity,Russian,At Risk,2267.0
+750,Nash,Moroccan,At Risk,1347.0
+751,CKD,Moldavian,At Risk,212.0
+752,Diabetes,Moldavian,At Risk,54.0
+753,CKD,French,At Risk,837.0
+754,Heart disease,Georgian,At Risk,112.0
+755,Hypertension,Georgian,At Risk,145.0
+756,Nash,Georgian,At Risk,85.0
+757,Dyslipidemia,Georgian,At Risk,158.0
+758,Heart disease,Bilorussian,At Risk,269.0
+759,Hypertension,Bilorussian,At Risk,334.0
+760,Dyslipidemia,Argentinian,At Risk,629.0
+761,CKD,Turkish,At Risk,495.0
+762,Heart disease,Turkish,At Risk,286.0
+763,Hypertension,Turkish,At Risk,369.0
+764,CKD,Yemeni,At Risk,577.0
+765,Diabetes,Yemeni,At Risk,142.0
+766,Hypertension,Yemeni,At Risk,430.0
+767,Heart disease,Bulgarian,At Risk,190.0
+768,Diabetes,Bulgarian,At Risk,82.0
+769,Dyslipidemia,Bulgarian,At Risk,272.0
+770,Nash,Iraqui,At Risk,573.0
+771,Diabetes,Argentinian,At Risk,208.0
+772,Diabetes,Turkish,At Risk,134.0
+773,Dyslipidemia,Turkish,At Risk,421.0
+774,Heart disease,Tunisian,At Risk,264.0
+775,Diabetes,Tunisian,At Risk,111.0
+776,Obesity,Tunisian,At Risk,471.0
+777,Diabetes,French,At Risk,213.0
+778,Obesity,Rumanian,At Risk,2089.0
+779,Nash,Algerian,At Risk,392.0
+780,Diabetes,Libyan,At Risk,83.0
+781,CKD,Polonian,At Risk,1137.0
+782,Diabetes,Kazakh,At Risk,73.0
+783,Heart disease,Libyan,At Risk,174.0
+784,Hypertension,Libyan,At Risk,252.0
+785,Dyslipidemia,Libyan,At Risk,269.0
+786,CKD,Sirian,At Risk,162.0
+787,Heart disease,Sirian,At Risk,97.0
+788,Diabetes,Sirian,At Risk,40.0
+789,Obesity,Sirian,At Risk,174.0
+790,Hypertension,Sirian,At Risk,129.0
+791,Dyslipidemia,Sirian,At Risk,133.0
+792,Heart disease,Indu,At Risk,210.0
+793,Hypertension,Indu,At Risk,255.0
+794,CKD,Georgian,At Risk,165.0
+795,Nash,Kazakh,At Risk,120.0
+796,Nash,Ucranian,At Risk,1052.0
+797,Diabetes,English,At Risk,96.0
+798,CKD,Argentinian,At Risk,752.0
+799,CKD,Libyan,At Risk,303.0
+800,Diabetes,Indu,At Risk,93.0
+801,Dyslipidemia,Indu,At Risk,276.0
+802,CKD,Azerbaijani,At Risk,228.0
+803,Diabetes,Azerbaijani,At Risk,58.0
+804,Dyslipidemia,German,At Risk,374.0
+805,Nash,English,At Risk,176.0
+806,Obesity,Libyan,At Risk,361.0
+807,Hypertension,Tunisian,At Risk,335.0
+808,Obesity,Moldavian,At Risk,223.0
+809,Dyslipidemia,Moldavian,At Risk,177.0
+810,CKD,Uzbek,At Risk,413.0
+811,Heart disease,Uzbek,At Risk,236.0
+812,Obesity,Uzbek,At Risk,469.0
+813,Obesity,Algerian,At Risk,925.0
+814,CKD,Ethiopian,At Risk,1485.0
+815,Diabetes,United States,At Risk,346.0
+816,Obesity,Georgian,At Risk,194.0
+817,Nash,Turkish,At Risk,231.0
+818,Obesity,United States,At Risk,1597.0
+819,Obesity,Turkish,At Risk,554.0
+820,CKD,Tunisian,At Risk,419.0
+821,Dyslipidemia,Tunisian,At Risk,364.0
+822,Heart disease,Egyptian,At Risk,235.0
+823,Dyslipidemia,Egyptian,At Risk,334.0
+824,Diabetes,Algerian,At Risk,214.0
+825,Obesity,Azerbaijani,At Risk,268.0
+826,CKD,Bilorussian,At Risk,437.0
+827,Diabetes,Bilorussian,At Risk,117.0
+828,Obesity,Bilorussian,At Risk,495.0
+829,Dyslipidemia,Bilorussian,At Risk,385.0
+830,Nash,Russian,At Risk,907.0
+831,Hypertension,Hungarian,At Risk,168.0
+832,Nash,Argentinian,At Risk,356.0
+833,Diabetes,South African,At Risk,45.0
+834,Nash,Polonian,At Risk,533.0
+835,Nash,Ethiopian,At Risk,708.0
+836,CKD,Hungarian,At Risk,234.0
+837,Heart disease,Hungarian,At Risk,154.0
+838,Nash,Indu,At Risk,154.0
+839,Dyslipidemia,Yemeni,At Risk,472.0
+840,Obesity,French,At Risk,900.0
+841,Obesity,German,At Risk,500.0
+842,CKD,Indu,At Risk,335.0
+843,Nash,French,At Risk,379.0
+844,Obesity,Argentinian,At Risk,818.0
+845,Nash,Uzbek,At Risk,209.0
+846,Nash,Libyan,At Risk,147.0
+847,Nash,Moldavian,At Risk,88.0
+848,Nash,Bilorussian,At Risk,206.0
+849,Diabetes,Hungarian,At Risk,55.0
+850,Obesity,Egyptian,At Risk,464.0
+851,Nash,German,At Risk,191.0
+852,Obesity,English,At Risk,423.0
+853,Nash,Hungarian,At Risk,106.0
+854,Obesity,Hungarian,At Risk,266.0
+855,Nash,United States,At Risk,675.0
+856,Obesity,South African,At Risk,240.0
+857,Nash,Sirian,At Risk,67.0
+858,Dyslipidemia,Hungarian,At Risk,196.0
+859,Nash,Yemeni,At Risk,282.0
+860,Nash,Egyptian,At Risk,169.0
+861,Nash,Tunisian,At Risk,195.0
+862,Obesity,Kazakh,At Risk,274.0
+863,Diabetes,Georgian,At Risk,44.0
+864,Nash,Azerbaijani,At Risk,113.0
+865,Obesity,Yemeni,At Risk,644.0
+866,Obesity,Indu,At Risk,372.0
+867,Nash,South African,At Risk,99.0

@@ -1,0 +1,2420 @@
+DISEASE,NATIONALITY,GENDER,AGE_GROUP,COUNTS
+Nash,Israeli,Female,50-59,765
+Dyslipidemia,Israeli,Male,70+,7068
+Dyslipidemia,Israeli,Female,40-49,931
+Diabetes,Israeli,Female,70+,5775
+CKD,Israeli,Male,70+,8575
+Heart disease,Israeli,Male,70+,11321
+Nash,Israeli,Female,30-39,318
+Obesity,Israeli,Female,50-59,2002
+Heart disease,Israeli,Female,70+,10605
+Obesity,Israeli,Female,70+,1943
+Dyslipidemia,Israeli,Female,70+,7714
+Hypertension,Israeli,Female,70+,5570
+CKD,Israeli,Female,70+,7703
+Heart disease,Israeli,Female,60-69,3471
+Diabetes,Israeli,Female,60-69,3059
+Obesity,Ethiopian,Female,40-49,16
+CKD,Israeli,Female,40-49,914
+Obesity,Israeli,Male,70+,1406
+Hypertension,Israeli,Male,70+,6167
+Diabetes,Israeli,Male,70+,5879
+CKD,Israeli,Female,60-69,2662
+Dyslipidemia,Israeli,Female,60-69,3857
+Heart disease,Israeli,Female,50-59,2047
+Dyslipidemia,Israeli,Female,50-59,2361
+Hypertension,Israeli,Female,50-59,823
+Diabetes,Israeli,Female,50-59,2170
+CKD,Israeli,Female,50-59,1745
+Obesity,Israeli,Female,30-39,1164
+Nash,Israeli,Female,60-69,711
+Obesity,Israeli,Female,60-69,2172
+Nash,Israeli,Female,70+,704
+Diabetes,Israeli,Male,50-59,3074
+Dyslipidemia,Israeli,Male,50-59,3391
+Heart disease,Israeli,Male,50-59,4032
+CKD,Israeli,Male,60-69,4392
+Heart disease,Israeli,Male,60-69,6185
+Dyslipidemia,Israeli,Male,60-69,4943
+Obesity,Israeli,Male,30-39,462
+CKD,Turkish,Female,70+,49
+Heart disease,Turkish,Female,70+,72
+Hypertension,Turkish,Female,70+,41
+Dyslipidemia,Turkish,Female,70+,45
+CKD,Yemeni,Male,50-59,22
+Heart disease,Yemeni,Male,50-59,25
+Hypertension,Yemeni,Male,50-59,13
+Dyslipidemia,Yemeni,Male,50-59,20
+Hypertension,Israeli,Female,60-69,1615
+Heart disease,Israeli,Male,30-39,474
+CKD,Israeli,Male,40-49,1523
+Heart disease,Israeli,Male,40-49,1584
+Hypertension,Israeli,Male,40-49,641
+Obesity,Israeli,Male,40-49,975
+Diabetes,Israeli,Male,60-69,4199
+Hypertension,Israeli,Male,60-69,2687
+CKD,Israeli,Male,50-59,3054
+Hypertension,Israeli,Male,50-59,1572
+Obesity,Israeli,Female,40-49,1467
+Nash,Israeli,Male,50-59,1141
+Heart disease,Ethiopian,Male,70+,193
+Diabetes,Israeli,Male,20-29,106
+CKD,Israeli,Male,30-39,667
+Diabetes,Russian,Female,30-39,25
+Obesity,Israeli,Male,60-69,1905
+Nash,Moroccan,Male,50-59,48
+CKD,Sirian,Male,50-59,6
+Heart disease,Sirian,Male,50-59,5
+Dyslipidemia,Bilorussian,Female,60-69,15
+Diabetes,Israeli,Male,40-49,1339
+Diabetes,Israeli,Female,30-39,920
+Nash,Israeli,Male,60-69,995
+CKD,Rumanian,Male,50-59,75
+Obesity,Rumanian,Male,50-59,40
+Obesity,Turkish,Female,40-49,9
+Heart disease,Ucranian,Female,70+,276
+Obesity,Israeli,Female,20-29,848
+CKD,Polonian,Female,40-49,10
+Nash,Polonian,Female,40-49,9
+CKD,Ethiopian,Male,50-59,56
+CKD,Iranian,Male,70+,92
+Heart disease,Iranian,Male,70+,116
+Hypertension,Iranian,Male,70+,61
+Dyslipidemia,Iranian,Male,70+,68
+Diabetes,Iranian,Male,70+,61
+CKD,Rumanian,Female,70+,168
+Hypertension,Rumanian,Female,70+,126
+Dyslipidemia,Israeli,Male,40-49,1377
+Obesity,Rumanian,Female,20-29,16
+Heart disease,Israeli,Female,40-49,866
+Heart disease,Polonian,Male,60-69,81
+Diabetes,Polonian,Male,60-69,51
+Obesity,Israeli,Male,50-59,1806
+CKD,Rumanian,Male,60-69,85
+Nash,Rumanian,Male,60-69,18
+Hypertension,Rumanian,Male,60-69,52
+Dyslipidemia,Rumanian,Male,60-69,92
+CKD,Russian,Male,60-69,101
+Hypertension,Russian,Male,60-69,61
+Heart disease,Russian,Male,60-69,134
+Dyslipidemia,Russian,Male,60-69,108
+Heart disease,Moroccan,Female,70+,359
+Nash,Israeli,Male,40-49,610
+Obesity,Polonian,Male,50-59,23
+Dyslipidemia,Polonian,Male,50-59,37
+Hypertension,Polonian,Male,50-59,21
+Diabetes,Polonian,Male,50-59,38
+CKD,Polonian,Male,50-59,41
+Dyslipidemia,Ucranian,Female,70+,183
+CKD,Polonian,Male,60-69,56
+Hypertension,Polonian,Male,60-69,27
+CKD,French,Female,50-59,17
+Heart disease,French,Female,50-59,17
+Diabetes,French,Female,50-59,19
+CKD,Rumanian,Female,30-39,12
+Nash,Rumanian,Female,30-39,12
+Hypertension,Rumanian,Female,30-39,8
+Obesity,Rumanian,Female,30-39,30
+Heart disease,Tunisian,Female,60-69,16
+CKD,Russian,Male,70+,183
+Heart disease,Russian,Male,70+,270
+CKD,Iraqui,Male,70+,122
+Heart disease,Iraqui,Male,70+,157
+Dyslipidemia,Israeli,Male,30-39,365
+Diabetes,Israeli,Male,30-39,366
+Heart disease,Polonian,Male,40-49,19
+Diabetes,Polonian,Male,40-49,16
+Obesity,Polonian,Male,40-49,12
+CKD,Turkish,Male,70+,49
+Heart disease,Turkish,Male,70+,61
+Hypertension,Turkish,Male,70+,31
+Nash,Iranian,Female,50-59,10
+Heart disease,Iranian,Female,50-59,19
+Diabetes,Iranian,Female,50-59,24
+Dyslipidemia,Iranian,Female,50-59,27
+CKD,Israeli,Female,30-39,450
+Obesity,Rumanian,Male,40-49,15
+Heart disease,Rumanian,Male,40-49,32
+Dyslipidemia,Rumanian,Male,40-49,22
+Heart disease,Argentinian,Male,70+,96
+Dyslipidemia,Argentinian,Male,70+,52
+Obesity,French,Female,60-69,21
+Obesity,Polonian,Female,60-69,29
+Heart disease,Polonian,Female,60-69,51
+Dyslipidemia,Polonian,Female,60-69,53
+Heart disease,Tunisian,Female,70+,54
+Diabetes,Tunisian,Female,70+,31
+CKD,Ethiopian,Male,70+,142
+Dyslipidemia,Ethiopian,Male,70+,120
+Dyslipidemia,Russian,Male,70+,172
+Diabetes,Turkish,Male,70+,33
+Dyslipidemia,Turkish,Male,70+,31
+Hypertension,Israeli,Male,30-39,231
+CKD,Libyan,Female,20-29,2
+Diabetes,Libyan,Female,20-29,3
+Dyslipidemia,Libyan,Female,20-29,1
+Heart disease,Argentinian,Male,60-69,40
+Dyslipidemia,Argentinian,Male,60-69,36
+Obesity,Russian,Male,60-69,46
+Diabetes,Russian,Male,60-69,98
+Diabetes,Israeli,Female,40-49,1149
+CKD,Ucranian,Female,70+,206
+Obesity,Libyan,Female,50-59,9
+CKD,Kazakh,Male,70+,14
+Heart disease,Kazakh,Male,70+,26
+Nash,Israeli,Female,40-49,498
+Diabetes,Israeli,Female,20-29,443
+Diabetes,Russian,Male,50-59,63
+CKD,United States,Male,70+,147
+Dyslipidemia,Moroccan,Female,70+,276
+Diabetes,Iraqui,Male,70+,76
+Dyslipidemia,Iraqui,Male,70+,104
+Heart disease,Moroccan,Female,40-49,38
+Obesity,Moroccan,Female,40-49,53
+Dyslipidemia,Moroccan,Female,40-49,39
+Hypertension,Moroccan,Female,40-49,22
+Diabetes,Moroccan,Female,40-49,41
+CKD,Moroccan,Female,40-49,34
+CKD,Israeli,Female,20-29,292
+Hypertension,Israeli,Female,20-29,264
+Heart disease,Moroccan,Male,50-59,127
+Obesity,Moroccan,Male,50-59,65
+Dyslipidemia,Moroccan,Male,50-59,121
+Hypertension,Moroccan,Male,50-59,47
+Diabetes,Moroccan,Male,50-59,106
+CKD,Moroccan,Male,50-59,111
+Heart disease,Argentinian,Female,30-39,2
+Obesity,Argentinian,Female,30-39,7
+Dyslipidemia,Argentinian,Female,30-39,5
+Hypertension,Argentinian,Female,30-39,4
+Diabetes,Argentinian,Female,30-39,10
+CKD,Argentinian,Female,30-39,3
+Heart disease,Yemeni,Male,70+,73
+Dyslipidemia,Yemeni,Male,70+,52
+Hypertension,Yemeni,Male,70+,33
+Diabetes,Yemeni,Male,70+,30
+CKD,Yemeni,Male,70+,49
+Heart disease,Israeli,Female,30-39,347
+Dyslipidemia,Israeli,Female,30-39,325
+CKD,Ucranian,Male,70+,223
+Heart disease,Ucranian,Male,70+,291
+Diabetes,Ucranian,Male,70+,145
+Dyslipidemia,Polonian,Female,70+,86
+Heart disease,United States,Female,70+,158
+Dyslipidemia,United States,Female,70+,134
+Hypertension,United States,Female,70+,83
+Diabetes,United States,Female,70+,85
+CKD,United States,Female,70+,114
+Heart disease,Rumanian,Female,70+,220
+Diabetes,Rumanian,Female,70+,111
+Dyslipidemia,Rumanian,Female,70+,142
+CKD,Russian,Female,70+,187
+Heart disease,Russian,Female,70+,257
+Hypertension,Russian,Female,70+,135
+Diabetes,Russian,Female,70+,143
+CKD,French,Female,70+,71
+Heart disease,Ethiopian,Female,40-49,18
+Diabetes,Moroccan,Male,30-39,13
+Hypertension,Israeli,Female,40-49,396
+Heart disease,Polonian,Female,40-49,14
+Hypertension,Polonian,Female,40-49,7
+Heart disease,Azerbaijani,Female,60-69,6
+Obesity,Azerbaijani,Female,60-69,7
+Dyslipidemia,Azerbaijani,Female,60-69,8
+Hypertension,Azerbaijani,Female,60-69,3
+CKD,Azerbaijani,Female,60-69,5
+Heart disease,Iraqui,Female,60-69,50
+Obesity,Iraqui,Female,60-69,24
+Dyslipidemia,Iraqui,Female,60-69,52
+Hypertension,Iraqui,Female,60-69,16
+Diabetes,Iraqui,Female,60-69,47
+CKD,Iraqui,Female,60-69,32
+Nash,Israeli,Male,30-39,265
+Obesity,Uzbek,Female,60-69,12
+Dyslipidemia,Uzbek,Female,60-69,19
+Nash,Israeli,Male,70+,746
+Nash,Yemeni,Female,50-59,7
+Nash,Ucranian,Female,40-49,6
+Heart disease,Ucranian,Female,40-49,20
+Heart disease,United States,Male,50-59,63
+Dyslipidemia,United States,Male,50-59,50
+CKD,Sirian,Male,70+,19
+Heart disease,Sirian,Male,70+,29
+Hypertension,Sirian,Male,70+,10
+Dyslipidemia,Sirian,Male,70+,15
+Diabetes,United States,Male,30-39,10
+Obesity,United States,Male,30-39,7
+Obesity,Russian,Female,30-39,26
+Heart disease,English,Male,70+,48
+Obesity,Iranian,Male,50-59,19
+Dyslipidemia,Iranian,Male,50-59,42
+CKD,Iranian,Male,50-59,27
+Nash,Iranian,Male,50-59,15
+Diabetes,Iranian,Male,50-59,33
+Diabetes,Uzbek,Male,60-69,23
+Dyslipidemia,Uzbek,Male,60-69,29
+CKD,Egyptian,Male,70+,49
+Heart disease,Egyptian,Male,70+,57
+Hypertension,Egyptian,Male,70+,36
+Diabetes,Egyptian,Male,70+,31
+CKD,Argentinian,Male,60-69,25
+Nash,Argentinian,Male,60-69,10
+CKD,Sirian,Female,70+,14
+Heart disease,Sirian,Female,70+,16
+Hypertension,Sirian,Female,70+,8
+Heart disease,Polonian,Female,70+,131
+Obesity,Moroccan,Male,60-69,60
+Hypertension,Israeli,Female,30-39,466
+Heart disease,Israeli,Male,20-29,192
+CKD,Egyptian,Female,60-69,11
+Heart disease,Egyptian,Female,60-69,13
+Hypertension,Egyptian,Female,60-69,7
+CKD,Azerbaijani,Female,70+,22
+Hypertension,Azerbaijani,Female,70+,19
+CKD,Azerbaijani,Male,70+,23
+Heart disease,Azerbaijani,Male,70+,27
+Hypertension,Azerbaijani,Male,70+,13
+Diabetes,Azerbaijani,Male,70+,16
+Nash,Iraqui,Male,50-59,12
+Heart disease,Iraqui,Male,50-59,68
+Diabetes,Iraqui,Male,50-59,56
+Obesity,Iraqui,Male,50-59,29
+Heart disease,Ethiopian,Male,40-49,22
+Diabetes,Ethiopian,Male,40-49,25
+Heart disease,United States,Male,70+,187
+CKD,South African,Female,70+,16
+Heart disease,South African,Female,70+,22
+Hypertension,South African,Female,70+,11
+CKD,Iraqui,Male,40-49,17
+Dyslipidemia,United States,Male,60-69,58
+Diabetes,Egyptian,Female,30-39,7
+Diabetes,Algerian,Female,50-59,24
+Obesity,Algerian,Male,40-49,10
+CKD,Yemeni,Female,70+,40
+Heart disease,Moroccan,Male,70+,376
+Diabetes,Moroccan,Male,70+,206
+Dyslipidemia,Moroccan,Male,70+,232
+CKD,Russian,Male,20-29,6
+Diabetes,Russian,Male,20-29,1
+CKD,Algerian,Male,70+,93
+Heart disease,Algerian,Male,70+,115
+Hypertension,Algerian,Male,70+,61
+CKD,Kazakh,Male,50-59,8
+Heart disease,Algerian,Male,40-49,20
+Diabetes,Algerian,Male,40-49,12
+Nash,Moroccan,Female,40-49,17
+Diabetes,Rumanian,Female,40-49,25
+Obesity,Rumanian,Female,40-49,31
+CKD,Moroccan,Male,70+,304
+Hypertension,Moroccan,Male,70+,212
+Diabetes,Polonian,Female,60-69,40
+CKD,German,Female,70+,38
+Heart disease,German,Female,70+,46
+CKD,Iraqui,Female,70+,121
+Hypertension,Iraqui,Female,70+,75
+Diabetes,Iraqui,Female,70+,84
+Heart disease,Bilorussian,Male,70+,69
+Diabetes,Bilorussian,Male,70+,38
+Heart disease,French,Female,70+,90
+Dyslipidemia,French,Female,70+,67
+Diabetes,Kazakh,Male,70+,13
+Dyslipidemia,Kazakh,Male,70+,14
+Nash,Azerbaijani,Female,70+,2
+Heart disease,Azerbaijani,Female,70+,43
+Obesity,Azerbaijani,Female,70+,9
+Obesity,English,Female,60-69,12
+Dyslipidemia,English,Female,60-69,16
+Diabetes,Moroccan,Female,20-29,10
+CKD,Moroccan,Female,70+,250
+Hypertension,Moroccan,Female,70+,177
+Nash,Moroccan,Male,70+,26
+Obesity,Moroccan,Male,70+,44
+Heart disease,Moroccan,Male,60-69,188
+Hypertension,Moroccan,Male,60-69,85
+Diabetes,Moroccan,Male,60-69,125
+Dyslipidemia,Moroccan,Male,60-69,167
+Obesity,Iraqui,Female,70+,23
+Obesity,Argentinian,Male,70+,12
+CKD,Moroccan,Female,60-69,105
+Heart disease,Moroccan,Female,60-69,111
+Hypertension,Moroccan,Female,60-69,60
+Heart disease,Polonian,Male,70+,135
+Dyslipidemia,Polonian,Male,70+,89
+Diabetes,Rumanian,Female,50-59,49
+Heart disease,Polonian,Female,50-59,28
+Nash,Ucranian,Female,20-29,5
+Diabetes,Ucranian,Female,70+,154
+CKD,Iranian,Female,70+,83
+Heart disease,Yemeni,Female,70+,65
+Hypertension,Yemeni,Female,70+,36
+CKD,Ethiopian,Male,60-69,63
+Hypertension,Ethiopian,Male,60-69,39
+Dyslipidemia,Indu,Female,60-69,24
+CKD,Ucranian,Female,40-49,17
+Hypertension,Ucranian,Female,40-49,9
+Hypertension,Russian,Female,20-29,8
+Dyslipidemia,United States,Male,70+,122
+Obesity,Ucranian,Male,70+,39
+Obesity,Rumanian,Female,70+,45
+Heart disease,Iraqui,Female,70+,147
+Obesity,Yemeni,Male,50-59,15
+Diabetes,Yemeni,Male,50-59,18
+Heart disease,Rumanian,Female,60-69,77
+Dyslipidemia,Ucranian,Male,50-59,89
+Hypertension,Iraqui,Male,70+,89
+CKD,French,Male,70+,57
+Heart disease,French,Male,70+,105
+Hypertension,French,Male,70+,43
+Dyslipidemia,French,Male,70+,54
+Nash,Moldavian,Male,50-59,5
+Obesity,Tunisian,Female,40-49,5
+Heart disease,United States,Male,60-69,85
+Obesity,United States,Male,60-69,31
+Hypertension,United States,Male,60-69,35
+Diabetes,United States,Male,60-69,49
+CKD,United States,Male,60-69,55
+Dyslipidemia,French,Female,60-69,25
+Nash,Israeli,Female,20-29,172
+CKD,Hungarian,Female,50-59,4
+Heart disease,Hungarian,Female,50-59,4
+Hypertension,Hungarian,Female,50-59,1
+Obesity,Hungarian,Female,50-59,4
+Dyslipidemia,Polonian,Female,50-59,27
+Diabetes,Yemeni,Female,20-29,7
+Dyslipidemia,Ucranian,Male,70+,180
+CKD,Moroccan,Male,60-69,138
+Heart disease,Rumanian,Female,50-59,41
+Dyslipidemia,Russian,Male,30-39,9
+Obesity,Ucranian,Female,70+,49
+CKD,Libyan,Male,60-69,13
+Diabetes,Libyan,Male,60-69,13
+Diabetes,Uzbek,Male,40-49,7
+CKD,Ethiopian,Female,70+,135
+Heart disease,Ethiopian,Female,70+,161
+Hypertension,Ethiopian,Female,70+,99
+Obesity,Israeli,Male,20-29,227
+Dyslipidemia,Algerian,Male,20-29,3
+Heart disease,English,Female,70+,42
+CKD,Bulgarian,Male,50-59,5
+Nash,Bulgarian,Male,50-59,2
+CKD,Egyptian,Male,50-59,19
+Heart disease,Egyptian,Male,50-59,19
+Hypertension,Egyptian,Male,50-59,7
+Dyslipidemia,Egyptian,Male,50-59,20
+Diabetes,Ethiopian,Female,70+,102
+Heart disease,English,Male,50-59,20
+Obesity,English,Male,50-59,10
+Dyslipidemia,English,Male,50-59,16
+Hypertension,English,Male,50-59,13
+Diabetes,English,Male,50-59,17
+CKD,English,Male,50-59,18
+Obesity,Moldavian,Female,40-49,5
+Dyslipidemia,Moldavian,Female,40-49,4
+Hypertension,Russian,Male,70+,129
+Diabetes,Russian,Male,70+,131
+Heart disease,Iranian,Female,70+,116
+CKD,Egyptian,Female,70+,32
+Heart disease,Egyptian,Female,70+,43
+Hypertension,Egyptian,Female,70+,26
+Diabetes,Egyptian,Female,70+,24
+Dyslipidemia,Iraqui,Female,40-49,12
+Diabetes,Moroccan,Female,60-69,99
+CKD,German,Female,40-49,5
+Dyslipidemia,German,Female,40-49,3
+CKD,Israeli,Male,20-29,389
+Heart disease,Rumanian,Male,50-59,86
+Hypertension,Rumanian,Male,50-59,34
+Heart disease,Bilorussian,Male,50-59,25
+Dyslipidemia,Bilorussian,Male,50-59,20
+CKD,Tunisian,Male,60-69,18
+Heart disease,Tunisian,Male,60-69,27
+Diabetes,Tunisian,Male,60-69,16
+Dyslipidemia,Tunisian,Male,60-69,20
+Dyslipidemia,Iraqui,Female,70+,105
+Dyslipidemia,Rumanian,Female,60-69,83
+Hypertension,Rumanian,Female,60-69,36
+Diabetes,Rumanian,Female,60-69,64
+CKD,Rumanian,Female,60-69,55
+Dyslipidemia,German,Female,60-69,23
+Heart disease,Algerian,Male,60-69,40
+Dyslipidemia,Algerian,Male,60-69,35
+Hypertension,Algerian,Male,60-69,23
+Diabetes,Algerian,Male,60-69,31
+CKD,Algerian,Male,60-69,36
+CKD,United States,Female,40-49,14
+Heart disease,United States,Female,40-49,15
+Diabetes,United States,Female,40-49,31
+Dyslipidemia,United States,Female,40-49,9
+Obesity,Rumanian,Female,50-59,40
+CKD,English,Male,70+,33
+Hypertension,English,Male,70+,19
+Heart disease,Iranian,Male,50-59,35
+Hypertension,United States,Male,50-59,27
+Diabetes,United States,Male,50-59,46
+CKD,United States,Male,50-59,48
+CKD,Libyan,Male,30-39,4
+Dyslipidemia,Libyan,Male,30-39,3
+Diabetes,Iranian,Female,70+,66
+Dyslipidemia,Iranian,Female,70+,83
+Heart disease,Bulgarian,Female,60-69,9
+Obesity,Bulgarian,Female,60-69,6
+Hypertension,Bulgarian,Female,60-69,4
+Diabetes,Bulgarian,Female,60-69,13
+CKD,Bulgarian,Female,60-69,8
+Diabetes,Iraqui,Male,40-49,15
+Diabetes,German,Female,70+,33
+Heart disease,Israeli,Female,20-29,138
+Hypertension,Iranian,Female,20-29,3
+Diabetes,Iranian,Female,20-29,4
+CKD,Iraqui,Male,50-59,44
+Dyslipidemia,Iraqui,Male,50-59,51
+Obesity,United States,Female,40-49,24
+Diabetes,Rumanian,Male,50-59,68
+Obesity,Rumanian,Male,60-69,39
+Heart disease,Ucranian,Male,50-59,104
+Diabetes,Ucranian,Male,50-59,72
+Obesity,Ucranian,Male,50-59,60
+Nash,Polonian,Female,70+,9
+Nash,United States,Male,50-59,12
+Hypertension,Iranian,Female,70+,53
+Obesity,United States,Female,50-59,39
+Dyslipidemia,Rumanian,Male,50-59,67
+Obesity,Iraqui,Male,40-49,13
+Obesity,Argentinian,Male,50-59,14
+Diabetes,Ucranian,Male,40-49,35
+Dyslipidemia,Israeli,Male,20-29,96
+Dyslipidemia,English,Male,40-49,6
+CKD,French,Female,40-49,6
+Hypertension,French,Female,40-49,4
+Diabetes,French,Female,40-49,4
+Obesity,United States,Female,70+,31
+Hypertension,French,Female,70+,51
+Nash,Russian,Male,60-69,29
+Nash,Israeli,Male,20-29,132
+Dyslipidemia,Israeli,Female,20-29,124
+Nash,Ethiopian,Female,50-59,14
+Obesity,Ethiopian,Female,50-59,33
+Dyslipidemia,Azerbaijani,Female,70+,32
+Diabetes,Bulgarian,Male,60-69,14
+Hypertension,Iranian,Female,10-19,1
+Dyslipidemia,Iranian,Female,10-19,1
+Nash,Russian,Male,70+,14
+Nash,Rumanian,Male,50-59,37
+CKD,Argentinian,Female,70+,55
+Heart disease,Argentinian,Female,70+,94
+Dyslipidemia,Argentinian,Female,70+,61
+Heart disease,South African,Male,60-69,14
+Diabetes,South African,Male,60-69,6
+Heart disease,Bulgarian,Male,70+,38
+Dyslipidemia,Bulgarian,Male,70+,18
+Hypertension,Bulgarian,Male,70+,18
+Diabetes,Bulgarian,Male,70+,24
+CKD,Bulgarian,Male,70+,25
+CKD,Hungarian,Male,60-69,7
+Nash,Ethiopian,Male,60-69,14
+Heart disease,Ethiopian,Male,60-69,100
+Diabetes,Ethiopian,Male,60-69,63
+Dyslipidemia,Ethiopian,Male,60-69,70
+Hypertension,United States,Male,70+,104
+Hypertension,Israeli,Male,20-29,68
+Heart disease,United States,Male,40-49,17
+Diabetes,United States,Male,40-49,20
+Dyslipidemia,Ethiopian,Female,70+,134
+Heart disease,Bulgarian,Female,50-59,10
+Heart disease,United States,Female,60-69,47
+Dyslipidemia,United States,Female,60-69,58
+Hypertension,United States,Female,60-69,23
+Diabetes,United States,Female,60-69,44
+CKD,United States,Female,60-69,31
+CKD,Russian,Male,40-49,32
+Heart disease,Russian,Male,40-49,34
+Diabetes,Ucranian,Female,40-49,30
+CKD,Ucranian,Male,40-49,44
+Obesity,United States,Male,50-59,25
+Obesity,Bulgarian,Male,40-49,5
+CKD,Algerian,Male,30-39,5
+Diabetes,Moroccan,Male,20-29,2
+Obesity,Moroccan,Male,20-29,4
+Heart disease,Argentinian,Male,40-49,15
+Heart disease,Moroccan,Male,40-49,40
+CKD,French,Female,30-39,5
+Diabetes,French,Male,70+,47
+Dyslipidemia,French,Female,30-39,3
+Dyslipidemia,Ucranian,Female,60-69,97
+Diabetes,Moroccan,Male,40-49,32
+Dyslipidemia,Moroccan,Male,40-49,46
+Heart disease,Ethiopian,Male,50-59,71
+Obesity,Ethiopian,Male,50-59,25
+Dyslipidemia,Ethiopian,Male,50-59,58
+Hypertension,Ethiopian,Male,50-59,29
+Diabetes,Ethiopian,Male,50-59,45
+CKD,Libyan,Female,70+,36
+Heart disease,Libyan,Female,70+,39
+Dyslipidemia,Libyan,Female,70+,33
+Hypertension,German,Female,70+,21
+Obesity,Moroccan,Female,60-69,65
+Dyslipidemia,Moroccan,Female,60-69,144
+Heart disease,Rumanian,Male,70+,217
+Diabetes,Georgian,Male,30-39,1
+Heart disease,Indu,Male,60-69,25
+Obesity,Indu,Male,60-69,8
+Dyslipidemia,Indu,Male,60-69,14
+Hypertension,Indu,Male,60-69,13
+Diabetes,Indu,Male,60-69,14
+CKD,Israeli,Male,10-19,18
+Diabetes,South African,Female,70+,13
+CKD,Indu,Male,50-59,16
+Hypertension,Indu,Male,50-59,9
+Dyslipidemia,Indu,Male,50-59,10
+Diabetes,Ethiopian,Female,50-59,36
+Dyslipidemia,Russian,Female,70+,168
+Diabetes,Ucranian,Female,30-39,29
+Heart disease,Algerian,Female,70+,105
+Diabetes,Azerbaijani,Female,70+,25
+Heart disease,Moroccan,Male,20-29,4
+CKD,Uzbek,Male,70+,48
+Hypertension,Uzbek,Male,70+,33
+Heart disease,Hungarian,Female,40-49,2
+Obesity,Hungarian,Female,40-49,7
+Dyslipidemia,Hungarian,Female,40-49,3
+Diabetes,Hungarian,Female,40-49,2
+CKD,Hungarian,Female,40-49,3
+CKD,Turkish,Female,60-69,17
+Obesity,Libyan,Female,70+,10
+Hypertension,Libyan,Female,70+,20
+Diabetes,Libyan,Female,70+,30
+Heart disease,Indu,Male,70+,45
+Dyslipidemia,Ethiopian,Female,50-59,39
+Dyslipidemia,Ethiopian,Female,60-69,62
+Diabetes,French,Female,60-69,22
+CKD,South African,Male,70+,24
+Heart disease,South African,Male,70+,24
+Hypertension,South African,Male,70+,18
+Diabetes,South African,Male,70+,18
+Diabetes,Ucranian,Female,20-29,15
+Dyslipidemia,Ucranian,Female,20-29,4
+CKD,Yemeni,Male,60-69,30
+Heart disease,Yemeni,Male,60-69,37
+Hypertension,Yemeni,Male,60-69,19
+Dyslipidemia,Yemeni,Male,60-69,29
+Heart disease,German,Male,40-49,9
+Hypertension,German,Male,40-49,6
+Diabetes,Algerian,Female,70+,60
+Heart disease,French,Female,60-69,25
+CKD,Argentinian,Male,70+,67
+Diabetes,Argentinian,Male,70+,52
+Nash,United States,Male,60-69,15
+Heart disease,Ucranian,Male,60-69,182
+Diabetes,Ucranian,Male,60-69,116
+Dyslipidemia,Ucranian,Male,60-69,147
+Obesity,Russian,Female,40-49,27
+Obesity,Ethiopian,Male,60-69,34
+Hypertension,Ucranian,Male,70+,149
+Hypertension,Ucranian,Female,70+,123
+Obesity,Iranian,Male,70+,17
+CKD,Indu,Male,70+,34
+Diabetes,Russian,Female,50-59,63
+CKD,French,Male,50-59,31
+Obesity,Iranian,Female,40-49,10
+Heart disease,Turkish,Male,50-59,17
+Heart disease,Iraqui,Male,60-69,75
+Heart disease,Uzbek,Male,70+,58
+Diabetes,Uzbek,Male,70+,25
+Dyslipidemia,Rumanian,Male,70+,134
+CKD,Turkish,Male,50-59,13
+Diabetes,Turkish,Male,50-59,17
+Obesity,Algerian,Male,60-69,14
+CKD,Algerian,Female,60-69,25
+Heart disease,Algerian,Female,60-69,33
+Hypertension,Algerian,Female,60-69,20
+Diabetes,Algerian,Female,60-69,31
+Dyslipidemia,Iraqui,Male,60-69,65
+Diabetes,United States,Male,70+,101
+Nash,Rumanian,Female,70+,13
+Diabetes,Rumanian,Male,40-49,29
+Diabetes,French,Female,70+,58
+Obesity,Polonian,Male,70+,13
+Obesity,French,Male,70+,12
+Nash,French,Male,70+,7
+Dyslipidemia,Iraqui,Female,50-59,32
+Heart disease,Bilorussian,Male,60-69,27
+Hypertension,Bilorussian,Male,60-69,13
+Diabetes,Bilorussian,Male,60-69,19
+Dyslipidemia,Bilorussian,Male,60-69,22
+CKD,Moroccan,Female,30-39,12
+CKD,Iraqui,Male,60-69,55
+Diabetes,Iraqui,Male,60-69,62
+CKD,Kazakh,Female,70+,15
+Heart disease,Kazakh,Female,70+,21
+Diabetes,Kazakh,Female,70+,15
+Obesity,Kazakh,Female,70+,8
+CKD,Argentinian,Female,60-69,24
+Heart disease,Argentinian,Female,60-69,33
+Diabetes,Argentinian,Female,60-69,34
+Obesity,Argentinian,Female,60-69,14
+Heart disease,Azerbaijani,Female,40-49,4
+Dyslipidemia,Azerbaijani,Female,40-49,7
+Hypertension,Azerbaijani,Female,40-49,2
+Diabetes,Azerbaijani,Female,40-49,2
+CKD,Azerbaijani,Female,40-49,1
+CKD,Ethiopian,Female,60-69,35
+Obesity,Ethiopian,Female,60-69,41
+Heart disease,Ethiopian,Female,60-69,55
+Obesity,Iranian,Female,50-59,19
+CKD,Iranian,Female,50-59,24
+Diabetes,Indu,Male,40-49,9
+Dyslipidemia,Polonian,Male,40-49,12
+Obesity,Uzbek,Female,20-29,4
+Heart disease,Iranian,Male,60-69,66
+Dyslipidemia,German,Female,70+,34
+Obesity,Tunisian,Female,70+,14
+Dyslipidemia,Tunisian,Female,70+,39
+Hypertension,Tunisian,Female,70+,31
+CKD,Tunisian,Female,70+,46
+CKD,Yemeni,Female,60-69,15
+Dyslipidemia,Yemeni,Female,60-69,23
+CKD,German,Male,70+,49
+Heart disease,Argentinian,Female,50-59,17
+Obesity,Polonian,Female,50-59,20
+Heart disease,Argentinian,Male,50-59,29
+Heart disease,Ucranian,Female,60-69,90
+Diabetes,Ucranian,Female,60-69,71
+Diabetes,Moroccan,Female,50-59,65
+Diabetes,Algerian,Male,70+,62
+Obesity,Algerian,Male,70+,15
+CKD,Moroccan,Female,50-59,54
+Nash,Moroccan,Female,50-59,21
+Obesity,Moroccan,Female,50-59,64
+Obesity,Argentinian,Female,20-29,7
+CKD,Moldavian,Male,70+,19
+Heart disease,Moldavian,Male,70+,28
+Heart disease,Rumanian,Male,60-69,120
+Diabetes,Rumanian,Male,60-69,76
+Heart disease,Russian,Male,50-59,75
+Dyslipidemia,Russian,Male,50-59,78
+Diabetes,Argentinian,Male,60-69,32
+Heart disease,Georgian,Female,40-49,1
+Obesity,Georgian,Female,40-49,4
+Diabetes,Indu,Male,70+,19
+Obesity,Ethiopian,Male,40-49,22
+CKD,Ucranian,Male,50-59,82
+CKD,Rumanian,Male,70+,167
+Hypertension,Rumanian,Male,70+,98
+Obesity,Rumanian,Male,70+,25
+Nash,Polonian,Male,50-59,23
+Dyslipidemia,Bilorussian,Male,70+,31
+CKD,Israeli,Female,10-19,18
+Dyslipidemia,Egyptian,Female,70+,29
+CKD,Azerbaijani,Male,60-69,12
+Dyslipidemia,Azerbaijani,Male,60-69,14
+Diabetes,Argentinian,Male,40-49,15
+Obesity,Argentinian,Male,40-49,11
+Nash,Rumanian,Female,50-59,18
+Heart disease,Bilorussian,Male,40-49,7
+Dyslipidemia,Bilorussian,Male,40-49,2
+Diabetes,Bilorussian,Male,40-49,9
+CKD,Bilorussian,Male,40-49,5
+Nash,Bilorussian,Male,40-49,4
+Heart disease,Rumanian,Female,30-39,5
+Dyslipidemia,Rumanian,Female,30-39,8
+Diabetes,Rumanian,Female,30-39,22
+CKD,Algerian,Male,50-59,31
+Hypertension,Algerian,Male,50-59,14
+Diabetes,Algerian,Male,50-59,26
+CKD,Iranian,Male,60-69,49
+Dyslipidemia,Polonian,Male,60-69,53
+Obesity,Polonian,Male,60-69,20
+CKD,Indu,Male,30-39,4
+Heart disease,Indu,Male,30-39,5
+CKD,Uzbek,Male,50-59,22
+Nash,Uzbek,Male,50-59,6
+Dyslipidemia,Uzbek,Male,50-59,13
+Obesity,United States,Female,60-69,35
+CKD,Ucranian,Female,60-69,66
+Nash,Ucranian,Female,60-69,25
+Heart disease,Polonian,Male,50-59,49
+Dyslipidemia,Yemeni,Female,40-49,6
+CKD,Ucranian,Female,50-59,49
+Heart disease,Ucranian,Female,50-59,51
+Obesity,Ucranian,Female,50-59,55
+Dyslipidemia,Argentinian,Female,50-59,19
+Dyslipidemia,Moroccan,Male,30-39,11
+Diabetes,Polonian,Female,50-59,23
+CKD,Moroccan,Male,40-49,54
+Hypertension,Moroccan,Male,40-49,22
+Heart disease,Bilorussian,Female,40-49,4
+Obesity,Turkish,Female,70+,9
+Diabetes,Turkish,Female,70+,27
+Heart disease,Ethiopian,Female,50-59,33
+Obesity,Moroccan,Female,30-39,34
+Diabetes,Yemeni,Female,70+,37
+Dyslipidemia,Yemeni,Female,70+,43
+Obesity,Ethiopian,Female,70+,36
+Heart disease,Ucranian,Male,40-49,41
+Obesity,Ucranian,Male,40-49,24
+Dyslipidemia,Ucranian,Male,40-49,36
+Hypertension,Ucranian,Male,40-49,19
+Obesity,French,Female,40-49,19
+Hypertension,Hungarian,Female,40-49,2
+Diabetes,Polonian,Female,70+,67
+CKD,Tunisian,Male,50-59,12
+Heart disease,Tunisian,Male,50-59,21
+Hypertension,Tunisian,Male,50-59,9
+Diabetes,Tunisian,Male,50-59,10
+Heart disease,Libyan,Male,70+,27
+Hypertension,Kazakh,Female,30-39,1
+Diabetes,Kazakh,Female,30-39,5
+Obesity,Kazakh,Male,60-69,6
+Heart disease,Kazakh,Male,60-69,15
+Dyslipidemia,Kazakh,Male,60-69,12
+Obesity,Russian,Female,60-69,60
+Dyslipidemia,Russian,Female,60-69,76
+Dyslipidemia,Russian,Male,40-49,30
+Diabetes,Bulgarian,Female,40-49,7
+Dyslipidemia,English,Male,70+,29
+Obesity,Algerian,Female,40-49,15
+Nash,Yemeni,Male,60-69,6
+Dyslipidemia,Algerian,Female,70+,80
+Dyslipidemia,Moroccan,Female,50-59,77
+CKD,Ucranian,Male,30-39,15
+Nash,Ucranian,Male,30-39,9
+Obesity,Rumanian,Female,60-69,59
+CKD,Ucranian,Male,60-69,123
+Hypertension,Ucranian,Male,60-69,85
+Dyslipidemia,Argentinian,Male,50-59,26
+Hypertension,Argentinian,Male,50-59,10
+Diabetes,Argentinian,Male,50-59,18
+Heart disease,Uzbek,Male,60-69,31
+Obesity,Uzbek,Male,60-69,13
+Hypertension,Uzbek,Male,60-69,12
+CKD,Uzbek,Male,60-69,22
+Nash,Uzbek,Male,60-69,7
+Heart disease,Iranian,Female,40-49,9
+Dyslipidemia,Iranian,Female,40-49,10
+Hypertension,Argentinian,Female,60-69,17
+Dyslipidemia,Argentinian,Female,60-69,33
+Nash,Ucranian,Female,70+,20
+Diabetes,Libyan,Female,30-39,1
+Dyslipidemia,Iranian,Male,60-69,61
+CKD,Sirian,Male,60-69,10
+Heart disease,Sirian,Male,60-69,10
+Diabetes,Sirian,Male,60-69,14
+Dyslipidemia,Sirian,Male,60-69,15
+Obesity,Turkish,Male,70+,4
+CKD,Tunisian,Male,40-49,10
+Diabetes,Uzbek,Male,50-59,23
+Heart disease,Indu,Male,50-59,12
+Heart disease,Libyan,Female,50-59,9
+Obesity,Moroccan,Female,70+,67
+Diabetes,Moroccan,Female,70+,179
+CKD,Indu,Female,60-69,16
+Heart disease,Indu,Female,60-69,17
+Diabetes,Indu,Female,60-69,14
+Hypertension,Ucranian,Female,50-59,24
+Diabetes,Ucranian,Female,50-59,54
+Heart disease,Yemeni,Female,50-59,14
+Dyslipidemia,Yemeni,Female,50-59,16
+Hypertension,Algerian,Female,30-39,8
+CKD,Libyan,Male,70+,20
+Diabetes,Libyan,Male,70+,17
+Heart disease,Yemeni,Female,60-69,18
+Obesity,Yemeni,Female,60-69,3
+Diabetes,Yemeni,Female,60-69,15
+Nash,Yemeni,Female,60-69,5
+Dyslipidemia,German,Male,70+,34
+Heart disease,Indu,Male,40-49,5
+Obesity,Indu,Male,40-49,7
+Hypertension,Moroccan,Female,30-39,16
+CKD,Iranian,Male,20-29,6
+Obesity,Iranian,Male,20-29,5
+Nash,Iraqui,Male,30-39,3
+Obesity,Iraqui,Male,30-39,5
+Diabetes,Iraqui,Male,30-39,5
+Dyslipidemia,Iraqui,Male,30-39,4
+CKD,Turkish,Male,60-69,42
+Nash,Turkish,Male,60-69,4
+Heart disease,Turkish,Male,60-69,50
+Hypertension,Turkish,Male,60-69,28
+Diabetes,Turkish,Male,60-69,32
+Obesity,Russian,Male,70+,31
+Dyslipidemia,English,Female,70+,35
+CKD,Algerian,Female,70+,77
+Hypertension,Algerian,Female,70+,59
+CKD,Ethiopian,Male,40-49,21
+Obesity,Iraqui,Female,40-49,15
+Heart disease,Russian,Female,60-69,72
+CKD,Azerbaijani,Male,50-59,13
+Heart disease,Azerbaijani,Male,50-59,14
+Diabetes,Azerbaijani,Male,50-59,8
+Diabetes,Rumanian,Male,70+,95
+CKD,Hungarian,Male,70+,21
+Heart disease,Hungarian,Male,70+,28
+Hypertension,Hungarian,Male,70+,13
+Heart disease,Ethiopian,Male,30-39,9
+Obesity,Ethiopian,Male,30-39,9
+Heart disease,Moroccan,Female,30-39,10
+Diabetes,Russian,Female,40-49,32
+Heart disease,Iranian,Male,40-49,12
+Dyslipidemia,Ucranian,Female,40-49,22
+Heart disease,Russian,Female,40-49,22
+CKD,Russian,Female,40-49,22
+Hypertension,Russian,Female,40-49,8
+Obesity,Ucranian,Female,20-29,31
+Obesity,Hungarian,Male,50-59,6
+Heart disease,Hungarian,Male,50-59,10
+Dyslipidemia,Hungarian,Male,50-59,7
+Heart disease,Moroccan,Female,50-59,59
+Dyslipidemia,South African,Male,40-49,4
+Nash,Moroccan,Female,60-69,22
+Dyslipidemia,Egyptian,Male,70+,35
+Hypertension,Iraqui,Male,60-69,31
+Obesity,Iraqui,Male,60-69,21
+CKD,Moldavian,Male,60-69,10
+Diabetes,Moldavian,Male,60-69,10
+Dyslipidemia,Moldavian,Male,60-69,12
+CKD,Yemeni,Female,50-59,10
+Diabetes,Yemeni,Female,50-59,18
+CKD,Yemeni,Male,20-29,4
+Heart disease,Turkish,Female,50-59,14
+Obesity,Turkish,Female,50-59,10
+Dyslipidemia,Turkish,Female,50-59,13
+Hypertension,Turkish,Female,50-59,3
+CKD,Turkish,Female,50-59,8
+CKD,Russian,Female,60-69,49
+CKD,Bilorussian,Female,70+,28
+Heart disease,Bilorussian,Female,70+,38
+Hypertension,Bilorussian,Female,70+,18
+Diabetes,Bilorussian,Female,70+,25
+Nash,Ucranian,Female,50-59,15
+CKD,Iraqui,Male,30-39,9
+Hypertension,Iraqui,Male,30-39,5
+Heart disease,Ucranian,Male,20-29,6
+Diabetes,Ucranian,Male,20-29,2
+Diabetes,Tunisian,Female,20-29,5
+Obesity,Polonian,Female,70+,21
+Obesity,Moroccan,Female,20-29,28
+CKD,French,Male,30-39,4
+Hypertension,French,Male,30-39,3
+Nash,Tunisian,Male,30-39,1
+Obesity,Egyptian,Male,40-49,3
+CKD,Yemeni,Female,30-39,2
+Diabetes,Yemeni,Female,30-39,6
+Obesity,Yemeni,Female,30-39,9
+Hypertension,Ethiopian,Male,70+,102
+Dyslipidemia,Bilorussian,Female,70+,28
+CKD,Polonian,Male,70+,100
+Diabetes,Russian,Female,60-69,65
+Obesity,Ucranian,Male,60-69,53
+Obesity,Ucranian,Female,60-69,43
+Hypertension,Ucranian,Female,60-69,30
+Heart disease,United States,Female,30-39,6
+Obesity,United States,Female,30-39,17
+CKD,Algerian,Female,50-59,22
+Dyslipidemia,Algerian,Female,50-59,25
+Obesity,Algerian,Female,50-59,22
+Dyslipidemia,Uzbek,Female,50-59,8
+Heart disease,Moldavian,Female,70+,21
+Dyslipidemia,Moldavian,Female,70+,13
+Hypertension,Moldavian,Female,70+,13
+Diabetes,Moldavian,Female,70+,15
+CKD,Moldavian,Female,70+,14
+Nash,Ucranian,Male,50-59,28
+Dyslipidemia,Georgian,Male,70+,15
+CKD,Algerian,Male,40-49,13
+Hypertension,Algerian,Male,40-49,9
+CKD,Ethiopian,Female,50-59,26
+Hypertension,Polonian,Male,70+,67
+Heart disease,Egyptian,Female,50-59,10
+Diabetes,Argentinian,Female,70+,39
+CKD,Tunisian,Male,70+,32
+Heart disease,Tunisian,Male,70+,45
+Hypertension,Tunisian,Male,70+,24
+Diabetes,Tunisian,Male,70+,21
+Nash,Ethiopian,Female,30-39,4
+Obesity,Ethiopian,Female,30-39,16
+CKD,Polonian,Male,20-29,8
+Obesity,Russian,Male,20-29,4
+Hypertension,Polonian,Female,70+,65
+CKD,Polonian,Female,70+,89
+Nash,Iraqui,Male,20-29,3
+Diabetes,Iraqui,Male,20-29,3
+Obesity,Iraqui,Male,20-29,4
+Nash,Ethiopian,Female,60-69,7
+Dyslipidemia,Algerian,Male,40-49,17
+Obesity,Ucranian,Female,40-49,32
+Dyslipidemia,United States,Male,40-49,22
+Dyslipidemia,Turkish,Male,60-69,43
+Hypertension,English,Female,70+,23
+Diabetes,Russian,Male,40-49,33
+Obesity,Russian,Female,70+,46
+CKD,French,Female,60-69,15
+Diabetes,Israeli,Female,10-19,16
+Diabetes,Hungarian,Male,60-69,11
+Dyslipidemia,Hungarian,Male,60-69,14
+CKD,Ethiopian,Female,20-29,7
+Hypertension,Ethiopian,Female,20-29,4
+Diabetes,Ethiopian,Female,20-29,10
+Dyslipidemia,Ethiopian,Female,20-29,2
+Obesity,Uzbek,Female,30-39,6
+Heart disease,Moroccan,Female,20-29,3
+Dyslipidemia,English,Female,40-49,6
+CKD,Bulgarian,Female,70+,33
+Heart disease,Bulgarian,Female,70+,40
+Hypertension,Bulgarian,Female,70+,27
+Obesity,Bulgarian,Female,70+,7
+Obesity,Algerian,Female,70+,23
+Heart disease,French,Male,60-69,50
+Dyslipidemia,French,Male,60-69,46
+Hypertension,French,Male,60-69,26
+Diabetes,French,Male,60-69,33
+CKD,French,Male,60-69,41
+Obesity,Indu,Female,40-49,8
+Nash,Bulgarian,Female,50-59,2
+Nash,Algerian,Male,50-59,10
+Obesity,Algerian,Male,50-59,16
+CKD,German,Male,20-29,2
+Hypertension,Israeli,Male,10-19,1
+Nash,Rumanian,Female,60-69,13
+Dyslipidemia,Indu,Male,70+,21
+Hypertension,Indu,Male,70+,18
+Obesity,Kazakh,Female,60-69,4
+CKD,German,Male,50-59,17
+Heart disease,German,Male,50-59,25
+Hypertension,German,Male,50-59,8
+Dyslipidemia,German,Male,50-59,17
+Nash,Uzbek,Female,60-69,6
+CKD,English,Female,30-39,2
+Diabetes,English,Female,30-39,5
+CKD,Hungarian,Female,70+,23
+Heart disease,Hungarian,Female,70+,32
+Diabetes,Hungarian,Female,70+,15
+Dyslipidemia,Argentinian,Male,40-49,16
+Dyslipidemia,Russian,Female,50-59,64
+Diabetes,Yemeni,Male,60-69,26
+Diabetes,English,Female,50-59,13
+Dyslipidemia,English,Female,50-59,10
+Heart disease,Indu,Female,70+,22
+Hypertension,Indu,Female,70+,18
+Diabetes,Indu,Female,70+,15
+CKD,Indu,Female,70+,19
+Nash,Indu,Female,70+,1
+Diabetes,Ethiopian,Female,60-69,55
+Heart disease,Turkish,Male,40-49,7
+Obesity,Turkish,Male,50-59,10
+Heart disease,Azerbaijani,Male,60-69,13
+Obesity,Azerbaijani,Male,60-69,2
+Hypertension,Azerbaijani,Male,60-69,8
+Nash,Azerbaijani,Male,60-69,3
+Hypertension,Sirian,Male,60-69,5
+CKD,South African,Female,60-69,10
+Diabetes,Libyan,Female,60-69,16
+Dyslipidemia,Libyan,Female,60-69,16
+Obesity,Moroccan,Male,30-39,18
+Hypertension,Iranian,Male,60-69,30
+Diabetes,Polonian,Male,20-29,2
+Nash,Turkish,Female,60-69,4
+Nash,Tunisian,Male,20-29,2
+Obesity,Tunisian,Male,20-29,3
+Diabetes,Tunisian,Male,20-29,3
+Dyslipidemia,Tunisian,Male,20-29,1
+Nash,Polonian,Male,30-39,6
+Heart disease,Iranian,Female,60-69,32
+Diabetes,Iranian,Female,60-69,27
+Heart disease,German,Female,60-69,18
+Hypertension,German,Female,60-69,10
+Diabetes,German,Female,60-69,17
+CKD,German,Female,60-69,15
+Diabetes,Indu,Male,50-59,13
+Heart disease,United States,Female,50-59,28
+Dyslipidemia,United States,Female,50-59,31
+Hypertension,United States,Female,50-59,18
+Diabetes,United States,Female,50-59,37
+CKD,United States,Female,50-59,33
+Heart disease,German,Male,70+,60
+Hypertension,German,Male,70+,40
+Diabetes,German,Male,70+,24
+Nash,Yemeni,Female,70+,5
+Nash,United States,Male,20-29,2
+Heart disease,United States,Male,20-29,3
+Obesity,United States,Male,20-29,3
+Obesity,French,Male,30-39,3
+Nash,Iranian,Female,30-39,2
+Obesity,Iranian,Female,30-39,16
+Hypertension,Argentinian,Male,70+,48
+Nash,United States,Male,70+,15
+Obesity,Israeli,Female,10-19,67
+Obesity,Iraqui,Male,70+,21
+Obesity,Polonian,Female,40-49,9
+CKD,Indu,Female,50-59,10
+Hypertension,Indu,Female,50-59,7
+Dyslipidemia,Indu,Female,50-59,5
+Obesity,Indu,Female,30-39,3
+Diabetes,Iranian,Male,60-69,51
+Heart disease,Libyan,Female,60-69,17
+Heart disease,Yemeni,Male,40-49,12
+CKD,Uzbek,Female,60-69,15
+Hypertension,Uzbek,Female,60-69,7
+Hypertension,Turkish,Female,60-69,11
+Diabetes,Turkish,Female,60-69,17
+Dyslipidemia,Turkish,Female,60-69,20
+Nash,United States,Female,70+,8
+Diabetes,Polonian,Male,70+,68
+Diabetes,Indu,Female,50-59,8
+Obesity,Indu,Female,50-59,9
+Obesity,Azerbaijani,Female,20-29,3
+CKD,Uzbek,Female,70+,29
+Hypertension,Uzbek,Female,70+,23
+Dyslipidemia,Uzbek,Female,70+,30
+Dyslipidemia,Polonian,Female,20-29,4
+Diabetes,Polonian,Female,20-29,7
+Obesity,Polonian,Female,20-29,14
+Obesity,Tunisian,Female,50-59,9
+Diabetes,Tunisian,Female,50-59,11
+Dyslipidemia,Tunisian,Female,50-59,12
+CKD,Ucranian,Male,20-29,12
+Dyslipidemia,Egyptian,Male,60-69,25
+Heart disease,Egyptian,Male,60-69,27
+Diabetes,Egyptian,Male,60-69,17
+Obesity,Egyptian,Male,60-69,9
+Obesity,Russian,Female,20-29,21
+Dyslipidemia,Russian,Female,20-29,2
+Nash,Ucranian,Male,40-49,16
+Obesity,South African,Female,30-39,2
+Diabetes,Moroccan,Female,30-39,29
+CKD,Polonian,Female,50-59,16
+Hypertension,Polonian,Female,50-59,11
+CKD,Rumanian,Male,40-49,28
+Hypertension,Rumanian,Male,40-49,14
+Obesity,Russian,Male,50-59,39
+Nash,Russian,Female,50-59,20
+Obesity,Iranian,Female,70+,17
+Nash,Iranian,Female,70+,7
+Nash,Moroccan,Female,20-29,7
+Obesity,Turkish,Male,60-69,10
+Hypertension,Yemeni,Female,60-69,5
+CKD,Argentinian,Female,50-59,11
+Hypertension,Argentinian,Female,50-59,7
+Nash,Moroccan,Female,70+,25
+Heart disease,English,Male,10-19,1
+CKD,Indu,Male,60-69,12
+Heart disease,Iranian,Female,30-39,4
+Nash,Argentinian,Female,70+,8
+Heart disease,English,Female,60-69,13
+Diabetes,English,Female,60-69,16
+Heart disease,English,Male,40-49,8
+Diabetes,Hungarian,Male,30-39,2
+Obesity,Hungarian,Male,30-39,2
+Obesity,Iranian,Male,40-49,8
+Dyslipidemia,Iranian,Male,40-49,15
+Obesity,Tunisian,Male,60-69,6
+CKD,Yemeni,Male,30-39,7
+Nash,Yemeni,Male,30-39,5
+Dyslipidemia,Yemeni,Male,30-39,6
+Obesity,Yemeni,Male,30-39,4
+Dyslipidemia,Moroccan,Female,20-29,3
+Dyslipidemia,Rumanian,Female,50-59,43
+Diabetes,Bilorussian,Female,50-59,8
+Dyslipidemia,Bilorussian,Female,50-59,11
+CKD,Moldavian,Male,50-59,4
+Obesity,Egyptian,Female,70+,7
+Nash,Moroccan,Male,60-69,23
+Dyslipidemia,Rumanian,Male,20-29,3
+Obesity,Yemeni,Male,60-69,5
+Dyslipidemia,Bulgarian,Female,70+,31
+Dyslipidemia,Russian,Female,40-49,16
+Hypertension,Kazakh,Female,70+,12
+Hypertension,Iranian,Female,50-59,8
+Dyslipidemia,Georgian,Female,70+,21
+Obesity,Libyan,Female,20-29,4
+Nash,Polonian,Female,20-29,2
+CKD,Argentinian,Male,30-39,6
+Nash,Moroccan,Female,30-39,8
+Diabetes,Algerian,Male,30-39,4
+Obesity,Algerian,Male,30-39,6
+Obesity,Iraqui,Female,20-29,13
+CKD,Polonian,Female,60-69,36
+Hypertension,Polonian,Female,60-69,23
+CKD,Ethiopian,Male,30-39,17
+Hypertension,Ethiopian,Male,30-39,8
+Heart disease,Bulgarian,Male,40-49,6
+Dyslipidemia,Ucranian,Female,50-59,60
+Diabetes,Bulgarian,Female,70+,19
+Dyslipidemia,Tunisian,Male,70+,19
+Obesity,Sirian,Male,70+,4
+Diabetes,Sirian,Male,70+,11
+Obesity,English,Female,40-49,14
+Nash,Russian,Male,50-59,24
+CKD,Georgian,Female,70+,21
+Heart disease,Georgian,Female,70+,25
+Hypertension,Georgian,Female,70+,14
+Heart disease,Moldavian,Male,50-59,9
+Nash,Argentinian,Male,50-59,13
+Hypertension,Moldavian,Male,60-69,6
+Heart disease,Iraqui,Female,50-59,34
+Nash,United States,Female,50-59,11
+Diabetes,Moldavian,Male,70+,10
+Heart disease,Moldavian,Female,40-49,5
+Heart disease,Bulgarian,Male,60-69,22
+Dyslipidemia,Bulgarian,Male,60-69,12
+CKD,Russian,Female,50-59,64
+Heart disease,Russian,Female,50-59,61
+Dyslipidemia,Algerian,Male,70+,71
+Heart disease,Turkish,Female,60-69,23
+Obesity,Iranian,Female,60-69,15
+Dyslipidemia,Iranian,Female,60-69,32
+Hypertension,Iranian,Female,60-69,12
+CKD,Rumanian,Female,40-49,15
+Heart disease,Rumanian,Female,40-49,25
+Dyslipidemia,Rumanian,Female,40-49,28
+Nash,Bilorussian,Female,70+,2
+Nash,German,Male,40-49,6
+Diabetes,German,Male,40-49,7
+Obesity,German,Male,40-49,10
+Diabetes,Egyptian,Male,50-59,14
+Obesity,Indu,Female,60-69,13
+Hypertension,Indu,Female,60-69,7
+Nash,United States,Female,40-49,12
+Obesity,Moroccan,Male,40-49,20
+Obesity,German,Male,70+,9
+CKD,Ethiopian,Female,40-49,14
+Obesity,United States,Female,20-29,12
+CKD,Ucranian,Female,30-39,17
+Nash,Ucranian,Female,30-39,9
+Hypertension,Ethiopian,Female,60-69,22
+Dyslipidemia,Egyptian,Female,30-39,3
+Nash,Iraqui,Female,60-69,8
+Heart disease,Uzbek,Female,50-59,8
+Obesity,Algerian,Female,60-69,22
+Dyslipidemia,Algerian,Female,60-69,37
+CKD,Rumanian,Male,20-29,14
+Hypertension,Russian,Male,30-39,3
+Nash,Russian,Female,40-49,11
+CKD,Rumanian,Female,50-59,41
+Hypertension,Rumanian,Female,50-59,19
+Heart disease,Georgian,Male,50-59,8
+Dyslipidemia,Georgian,Male,50-59,7
+Diabetes,Georgian,Male,50-59,8
+CKD,Georgian,Male,50-59,7
+Nash,Georgian,Male,50-59,3
+Heart disease,Uzbek,Female,20-29,1
+Diabetes,South African,Male,50-59,10
+CKD,Iraqui,Female,30-39,7
+Dyslipidemia,Iraqui,Female,30-39,6
+Diabetes,Polonian,Female,40-49,13
+Diabetes,Sirian,Female,70+,10
+Dyslipidemia,Sirian,Female,70+,6
+Heart disease,Ucranian,Female,30-39,7
+Obesity,Ucranian,Female,30-39,36
+Dyslipidemia,Ucranian,Female,30-39,12
+Hypertension,Ucranian,Female,30-39,10
+Hypertension,Russian,Female,60-69,28
+Nash,Russian,Female,60-69,22
+Hypertension,Ethiopian,Female,50-59,16
+Nash,Russian,Female,70+,13
+Dyslipidemia,Ucranian,Male,30-39,9
+Heart disease,Uzbek,Male,50-59,20
+Obesity,Uzbek,Male,50-59,13
+Heart disease,Uzbek,Female,70+,41
+Diabetes,Uzbek,Female,70+,25
+Hypertension,Ucranian,Male,50-59,41
+Nash,French,Male,60-69,13
+Heart disease,Libyan,Male,60-69,17
+Dyslipidemia,Libyan,Male,60-69,18
+CKD,Iranian,Female,40-49,9
+Diabetes,Iranian,Female,40-49,12
+Dyslipidemia,German,Female,50-59,10
+Dyslipidemia,Algerian,Female,40-49,8
+Diabetes,Libyan,Male,50-59,6
+Obesity,Libyan,Male,50-59,10
+Heart disease,Algerian,Female,30-39,4
+Diabetes,Algerian,Female,30-39,10
+Diabetes,Ethiopian,Female,40-49,24
+CKD,United States,Male,20-29,3
+CKD,Moroccan,Male,20-29,15
+Hypertension,Moroccan,Male,20-29,4
+CKD,Russian,Male,30-39,18
+Diabetes,Russian,Male,30-39,8
+Obesity,Russian,Male,30-39,13
+Nash,Rumanian,Male,70+,9
+Dyslipidemia,French,Female,50-59,18
+CKD,Iraqui,Female,50-59,22
+Hypertension,Ethiopian,Male,40-49,8
+Dyslipidemia,Ethiopian,Male,40-49,25
+Heart disease,English,Female,40-49,6
+CKD,Moldavian,Female,10-19,1
+Obesity,Yemeni,Male,20-29,4
+CKD,French,Male,40-49,18
+Nash,Argentinian,Female,50-59,6
+Nash,Azerbaijani,Male,50-59,7
+Hypertension,Azerbaijani,Male,50-59,14
+Dyslipidemia,Azerbaijani,Male,50-59,12
+Diabetes,French,Male,50-59,24
+CKD,Bilorussian,Male,50-59,17
+Diabetes,Bilorussian,Male,50-59,20
+Obesity,German,Female,70+,11
+Diabetes,Ethiopian,Male,70+,87
+CKD,South African,Male,60-69,6
+Nash,Ethiopian,Female,70+,10
+CKD,Kazakh,Female,60-69,5
+Hypertension,Kazakh,Female,60-69,4
+Dyslipidemia,Kazakh,Female,60-69,5
+CKD,Russian,Female,20-29,5
+Nash,Bilorussian,Male,50-59,8
+CKD,Russian,Male,50-59,52
+Hypertension,Russian,Male,50-59,27
+CKD,Ucranian,Female,20-29,13
+Hypertension,Moldavian,Female,40-49,3
+Dyslipidemia,South African,Male,70+,13
+Obesity,Ethiopian,Male,20-29,3
+Diabetes,German,Female,30-39,7
+Heart disease,Russian,Male,30-39,13
+Diabetes,Georgian,Female,40-49,3
+Dyslipidemia,Georgian,Female,40-49,4
+Diabetes,South African,Male,30-39,4
+Nash,Argentinian,Male,20-29,1
+Obesity,Argentinian,Male,20-29,1
+Dyslipidemia,French,Male,40-49,11
+Hypertension,Libyan,Male,70+,13
+Dyslipidemia,Libyan,Male,70+,22
+CKD,Bilorussian,Male,60-69,18
+CKD,Polonian,Male,30-39,11
+Heart disease,Polonian,Male,30-39,8
+CKD,Sirian,Male,40-49,2
+Obesity,Iraqui,Female,30-39,16
+Nash,French,Female,40-49,8
+Heart disease,French,Female,40-49,11
+Dyslipidemia,French,Female,40-49,8
+Nash,Russian,Male,40-49,13
+Obesity,Tunisian,Male,50-59,9
+CKD,English,Female,50-59,7
+Nash,English,Female,50-59,2
+Heart disease,English,Female,50-59,9
+Hypertension,English,Female,50-59,4
+Obesity,Georgian,Female,70+,4
+Diabetes,Georgian,Female,70+,12
+Obesity,English,Male,30-39,2
+Dyslipidemia,Moldavian,Male,70+,12
+Heart disease,French,Male,30-39,3
+Obesity,French,Female,50-59,14
+Heart disease,Turkish,Male,20-29,1
+Obesity,French,Male,60-69,13
+Dyslipidemia,Uzbek,Male,70+,36
+Hypertension,Moldavian,Male,70+,12
+Obesity,Georgian,Female,30-39,4
+CKD,Egyptian,Female,40-49,6
+Nash,Egyptian,Female,40-49,4
+Heart disease,Egyptian,Female,40-49,9
+CKD,United States,Female,20-29,4
+Diabetes,Argentinian,Female,50-59,16
+Hypertension,Hungarian,Female,70+,12
+Heart disease,Rumanian,Male,20-29,6
+Diabetes,Rumanian,Male,20-29,5
+Hypertension,Argentinian,Male,40-49,6
+CKD,Argentinian,Male,40-49,9
+Heart disease,South African,Female,40-49,2
+Nash,Algerian,Male,70+,4
+Obesity,Hungarian,Female,70+,4
+Dyslipidemia,Hungarian,Female,70+,21
+Dyslipidemia,Hungarian,Male,70+,15
+Diabetes,Hungarian,Male,70+,12
+Nash,Moldavian,Female,20-29,2
+Diabetes,Moldavian,Female,20-29,3
+Nash,Uzbek,Male,70+,8
+Diabetes,French,Male,40-49,10
+Obesity,French,Male,40-49,6
+CKD,Egyptian,Male,40-49,3
+Nash,Egyptian,Male,40-49,3
+Nash,Kazakh,Female,60-69,3
+Obesity,Iranian,Male,60-69,24
+Nash,Bilorussian,Male,30-39,3
+Obesity,Ethiopian,Female,20-29,18
+Obesity,Bilorussian,Male,70+,6
+Dyslipidemia,Azerbaijani,Female,30-39,1
+Obesity,Azerbaijani,Female,30-39,2
+Dyslipidemia,Egyptian,Female,60-69,15
+Heart disease,Ethiopian,Female,30-39,6
+Diabetes,Ethiopian,Female,30-39,13
+Dyslipidemia,Ethiopian,Female,30-39,8
+Nash,French,Female,70+,5
+Obesity,Yemeni,Female,50-59,16
+Obesity,Yemeni,Female,70+,14
+Obesity,Russian,Female,50-59,61
+Heart disease,German,Female,50-59,10
+Obesity,German,Female,50-59,8
+Hypertension,German,Female,50-59,4
+Diabetes,German,Female,50-59,14
+CKD,German,Female,50-59,10
+Hypertension,Rumanian,Female,40-49,9
+Hypertension,Argentinian,Female,70+,41
+CKD,South African,Male,50-59,9
+Heart disease,South African,Male,50-59,8
+Obesity,Bilorussian,Male,50-59,11
+CKD,Iraqui,Female,40-49,16
+Nash,French,Male,40-49,7
+Diabetes,Sirian,Female,40-49,1
+Dyslipidemia,Sirian,Female,40-49,1
+Nash,Polonian,Female,50-59,13
+Heart disease,Russian,Male,20-29,4
+Heart disease,French,Male,40-49,11
+Obesity,Ethiopian,Male,70+,25
+Diabetes,Russian,Female,20-29,13
+Obesity,Moldavian,Male,70+,1
+Nash,Ethiopian,Male,50-59,20
+CKD,English,Male,60-69,16
+Nash,English,Male,60-69,4
+Hypertension,English,Male,60-69,12
+Obesity,German,Female,20-29,5
+Obesity,Argentinian,Male,60-69,19
+Nash,Kazakh,Female,40-49,3
+Diabetes,Kazakh,Female,40-49,5
+Dyslipidemia,Kazakh,Female,40-49,10
+Nash,Sirian,Male,30-39,1
+Obesity,Sirian,Male,30-39,1
+CKD,English,Female,70+,27
+Nash,Rumanian,Male,40-49,6
+Nash,Libyan,Male,30-39,2
+Heart disease,Libyan,Male,30-39,3
+Nash,Iraqui,Male,40-49,11
+Dyslipidemia,Iraqui,Male,40-49,19
+Nash,Argentinian,Female,30-39,2
+Obesity,Egyptian,Male,20-29,2
+Obesity,French,Female,20-29,5
+Dyslipidemia,United States,Male,30-39,8
+CKD,Libyan,Male,40-49,4
+Diabetes,Libyan,Male,40-49,8
+Obesity,Moldavian,Female,60-69,1
+Dyslipidemia,Ethiopian,Male,30-39,10
+CKD,German,Female,30-39,3
+Nash,German,Female,30-39,1
+Dyslipidemia,South African,Female,70+,19
+CKD,Iranian,Female,60-69,16
+Diabetes,Tunisian,Female,60-69,18
+Dyslipidemia,Tunisian,Female,60-69,19
+Dyslipidemia,United States,Female,30-39,8
+CKD,Argentinian,Male,50-59,21
+Hypertension,South African,Female,60-69,5
+Hypertension,South African,Female,40-49,1
+Dyslipidemia,Kazakh,Female,70+,16
+Nash,English,Male,30-39,1
+Diabetes,English,Male,30-39,3
+Dyslipidemia,English,Male,30-39,3
+Obesity,Moroccan,Female,10-19,1
+Obesity,Argentinian,Female,50-59,9
+Diabetes,Bulgarian,Male,50-59,3
+Dyslipidemia,Bulgarian,Male,50-59,10
+Obesity,Turkish,Female,20-29,4
+Nash,Iraqui,Female,30-39,5
+Diabetes,Georgian,Male,60-69,14
+Dyslipidemia,Georgian,Male,60-69,11
+Nash,Ethiopian,Male,70+,14
+Heart disease,Kazakh,Male,50-59,4
+Obesity,Kazakh,Male,50-59,3
+Dyslipidemia,Kazakh,Male,50-59,6
+Hypertension,Kazakh,Male,50-59,3
+Diabetes,Kazakh,Male,50-59,9
+Nash,Kazakh,Male,50-59,4
+Heart disease,Iraqui,Male,30-39,6
+Diabetes,Indu,Female,40-49,3
+Diabetes,United States,Female,20-29,9
+Dyslipidemia,Libyan,Male,40-49,7
+Hypertension,Russian,Male,40-49,15
+Hypertension,Ethiopian,Female,40-49,8
+Nash,Ethiopian,Female,40-49,8
+CKD,Kazakh,Male,40-49,6
+Heart disease,Kazakh,Male,40-49,4
+Hypertension,Kazakh,Male,40-49,2
+Dyslipidemia,Kazakh,Male,40-49,4
+Obesity,Iranian,Female,20-29,7
+Obesity,Tunisian,Male,70+,5
+Heart disease,Tunisian,Female,50-59,8
+Nash,Iranian,Male,60-69,12
+Dyslipidemia,Bulgarian,Female,60-69,5
+Nash,Rumanian,Female,40-49,8
+Diabetes,Israeli,Male,10-19,4
+Obesity,Israeli,Male,10-19,9
+Dyslipidemia,Moroccan,Female,30-39,12
+Diabetes,Argentinian,Male,20-29,2
+Dyslipidemia,Argentinian,Male,20-29,1
+Dyslipidemia,Algerian,Male,50-59,27
+Heart disease,Georgian,Female,60-69,7
+Obesity,Georgian,Female,60-69,4
+Dyslipidemia,Georgian,Female,60-69,12
+Hypertension,Georgian,Female,60-69,4
+Diabetes,Georgian,Female,60-69,5
+CKD,Georgian,Female,60-69,5
+Diabetes,Hungarian,Female,50-59,2
+Hypertension,Russian,Female,30-39,16
+Hypertension,Israeli,Female,10-19,10
+CKD,Azerbaijani,Male,40-49,6
+Hypertension,Azerbaijani,Male,40-49,3
+Diabetes,Azerbaijani,Male,40-49,5
+Obesity,Azerbaijani,Male,40-49,6
+Obesity,Tunisian,Female,30-39,4
+CKD,Uzbek,Female,40-49,3
+Diabetes,Uzbek,Female,40-49,9
+Dyslipidemia,Uzbek,Female,40-49,6
+Diabetes,English,Male,70+,22
+Obesity,German,Female,40-49,5
+CKD,Georgian,Male,60-69,10
+Heart disease,Georgian,Male,60-69,17
+Hypertension,Georgian,Male,60-69,8
+Obesity,Bulgarian,Male,70+,6
+Nash,Uzbek,Female,50-59,5
+Nash,Egyptian,Female,60-69,4
+Obesity,Egyptian,Female,60-69,6
+Hypertension,South African,Female,30-39,2
+Diabetes,South African,Female,30-39,4
+Obesity,German,Female,30-39,7
+Obesity,Egyptian,Male,30-39,2
+Hypertension,German,Female,40-49,1
+Dyslipidemia,Russian,Female,30-39,10
+CKD,Bulgarian,Male,60-69,17
+Hypertension,Bulgarian,Male,60-69,10
+Dyslipidemia,Israeli,Female,10-19,8
+CKD,Libyan,Male,50-59,9
+Obesity,Bilorussian,Male,60-69,8
+Heart disease,Israeli,Male,10-19,7
+CKD,Rumanian,Female,20-29,6
+Hypertension,Rumanian,Female,20-29,1
+Heart disease,Libyan,Male,50-59,13
+Nash,Yemeni,Male,70+,1
+Obesity,Bilorussian,Female,20-29,4
+Dyslipidemia,Tunisian,Male,50-59,18
+Heart disease,Ucranian,Male,30-39,8
+Hypertension,Ucranian,Male,30-39,4
+Heart disease,French,Female,30-39,3
+CKD,Turkish,Male,30-39,5
+Heart disease,Turkish,Male,30-39,2
+Obesity,Turkish,Male,30-39,3
+Nash,Rumanian,Male,30-39,9
+Heart disease,Rumanian,Male,30-39,5
+Hypertension,Rumanian,Male,30-39,5
+Dyslipidemia,Rumanian,Male,30-39,10
+Heart disease,Georgian,Male,70+,24
+Diabetes,Georgian,Male,70+,12
+Obesity,Algerian,Female,30-39,12
+Dyslipidemia,Iranian,Male,30-39,3
+CKD,English,Male,40-49,8
+Hypertension,English,Male,40-49,5
+Obesity,English,Male,40-49,6
+Diabetes,United States,Female,30-39,10
+Heart disease,French,Female,10-19,1
+Dyslipidemia,Indu,Female,70+,19
+CKD,German,Male,60-69,19
+Heart disease,German,Male,60-69,28
+Hypertension,German,Male,60-69,12
+Dyslipidemia,German,Male,60-69,21
+Obesity,Polonian,Female,30-39,17
+CKD,Tunisian,Female,60-69,13
+Diabetes,Hungarian,Female,60-69,7
+Dyslipidemia,Hungarian,Female,60-69,2
+CKD,Argentinian,Female,40-49,9
+Heart disease,Argentinian,Female,40-49,8
+Diabetes,Argentinian,Female,40-49,10
+Obesity,Argentinian,Female,40-49,11
+Hypertension,Libyan,Female,60-69,7
+CKD,Egyptian,Male,60-69,17
+CKD,Moroccan,Male,30-39,19
+Obesity,Moldavian,Female,50-59,9
+CKD,German,Male,40-49,8
+Hypertension,Tunisian,Female,30-39,4
+Heart disease,Iraqui,Female,40-49,8
+Hypertension,Iraqui,Female,40-49,6
+Diabetes,Iraqui,Female,40-49,13
+Nash,Iraqui,Female,40-49,10
+Heart disease,Tunisian,Male,30-39,3
+Hypertension,Algerian,Female,20-29,1
+Nash,Turkish,Male,50-59,6
+CKD,Libyan,Female,50-59,5
+Hypertension,Iranian,Male,50-59,13
+Diabetes,German,Male,50-59,11
+Nash,Moroccan,Male,30-39,8
+Diabetes,Ucranian,Male,30-39,10
+CKD,Bilorussian,Female,50-59,7
+Dyslipidemia,Sirian,Male,50-59,3
+CKD,United States,Male,40-49,25
+Diabetes,Iraqui,Female,20-29,10
+Heart disease,Ucranian,Female,20-29,9
+Obesity,Turkish,Male,20-29,2
+Diabetes,Libyan,Female,50-59,9
+Dyslipidemia,Libyan,Female,50-59,8
+Diabetes,Moroccan,Male,10-19,1
+Dyslipidemia,Moroccan,Male,10-19,1
+Heart disease,English,Male,60-69,23
+Diabetes,English,Male,60-69,16
+Heart disease,United States,Male,30-39,8
+Diabetes,Algerian,Female,40-49,11
+Obesity,Egyptian,Male,70+,8
+Nash,United States,Female,60-69,7
+Heart disease,Russian,Female,30-39,10
+Hypertension,Bulgarian,Male,40-49,3
+Diabetes,Bulgarian,Male,40-49,5
+CKD,Bulgarian,Male,40-49,7
+Diabetes,Rumanian,Female,20-29,9
+Obesity,Polonian,Male,30-39,6
+Dyslipidemia,Algerian,Male,30-39,3
+Nash,Algerian,Male,30-39,3
+Nash,German,Female,50-59,5
+Heart disease,Moldavian,Male,60-69,12
+Dyslipidemia,Iranian,Female,30-39,2
+Dyslipidemia,Algerian,Female,30-39,2
+Obesity,Ucranian,Male,30-39,17
+Nash,Bilorussian,Male,60-69,6
+Dyslipidemia,German,Male,40-49,11
+Dyslipidemia,Polonian,Male,30-39,4
+Hypertension,Polonian,Male,30-39,3
+Diabetes,Polonian,Male,30-39,6
+Heart disease,Rumanian,Female,20-29,2
+Nash,Argentinian,Male,40-49,5
+Hypertension,Argentinian,Male,60-69,12
+Obesity,Turkish,Female,60-69,16
+Hypertension,Bilorussian,Male,50-59,11
+Heart disease,Iranian,Male,20-29,1
+CKD,Uzbek,Female,30-39,3
+Hypertension,Turkish,Female,20-29,3
+Diabetes,Turkish,Female,20-29,3
+Nash,Turkish,Female,40-49,2
+Diabetes,Bilorussian,Female,20-29,5
+Obesity,Libyan,Female,60-69,6
+Heart disease,Kazakh,Female,50-59,12
+Nash,Iraqui,Female,70+,13
+Nash,French,Female,30-39,4
+Obesity,French,Female,30-39,13
+Diabetes,Argentinian,Male,30-39,3
+Obesity,South African,Male,20-29,2
+Nash,Polonian,Male,70+,9
+Obesity,Yemeni,Male,40-49,7
+Dyslipidemia,Yemeni,Male,40-49,12
+Hypertension,Yemeni,Male,40-49,7
+Diabetes,Yemeni,Male,40-49,6
+CKD,Yemeni,Male,40-49,13
+Nash,Yemeni,Male,40-49,3
+Diabetes,English,Female,70+,21
+Diabetes,Tunisian,Female,40-49,5
+Nash,Iranian,Female,60-69,3
+Nash,Algerian,Female,70+,8
+Diabetes,South African,Female,60-69,9
+Nash,Iraqui,Male,70+,6
+Diabetes,German,Male,60-69,20
+Nash,Iranian,Male,70+,8
+Obesity,Indu,Female,70+,6
+Diabetes,Egyptian,Male,40-49,5
+Nash,Polonian,Female,60-69,8
+Heart disease,Moldavian,Female,60-69,5
+Diabetes,Moldavian,Female,60-69,7
+Nash,English,Female,40-49,4
+Diabetes,French,Female,30-39,10
+Hypertension,French,Female,60-69,10
+Nash,Moroccan,Male,40-49,15
+Nash,Russian,Female,20-29,4
+Obesity,Iraqui,Female,50-59,24
+Diabetes,Iraqui,Female,50-59,22
+Hypertension,South African,Male,60-69,4
+Obesity,Indu,Male,50-59,5
+Obesity,Kazakh,Female,40-49,9
+CKD,Hungarian,Female,30-39,2
+Obesity,Hungarian,Female,30-39,3
+Obesity,Georgian,Male,60-69,4
+CKD,Kazakh,Female,40-49,5
+Hypertension,Kazakh,Female,40-49,2
+Diabetes,Yemeni,Female,40-49,7
+Heart disease,Algerian,Male,50-59,37
+CKD,Moldavian,Male,20-29,1
+Dyslipidemia,Indu,Male,40-49,7
+Obesity,Moldavian,Male,60-69,3
+Nash,Hungarian,Female,70+,3
+Nash,Turkish,Female,70+,5
+Heart disease,Iraqui,Female,30-39,8
+Hypertension,Iraqui,Female,30-39,13
+Diabetes,Iraqui,Female,30-39,10
+Hypertension,Libyan,Male,30-39,1
+Nash,Bulgarian,Female,30-39,2
+Diabetes,Bulgarian,Female,30-39,4
+Obesity,Bulgarian,Female,30-39,5
+Heart disease,Moroccan,Male,30-39,14
+Dyslipidemia,South African,Female,60-69,9
+CKD,Bilorussian,Female,30-39,2
+Nash,French,Male,20-29,1
+Obesity,French,Male,20-29,3
+CKD,Egyptian,Female,30-39,2
+Heart disease,Egyptian,Female,30-39,2
+Nash,Moldavian,Male,60-69,2
+Nash,Turkish,Female,50-59,5
+Nash,Moldavian,Female,30-39,1
+Diabetes,Moldavian,Female,30-39,5
+Obesity,Uzbek,Male,40-49,4
+Dyslipidemia,Uzbek,Male,40-49,11
+Obesity,French,Male,50-59,10
+Nash,English,Male,70+,3
+CKD,Russian,Female,30-39,11
+Nash,Algerian,Male,40-49,6
+Nash,Russian,Male,30-39,6
+Obesity,Argentinian,Female,70+,10
+Hypertension,Moroccan,Female,50-59,21
+Diabetes,French,Male,30-39,4
+Hypertension,Egyptian,Male,60-69,8
+Hypertension,Libyan,Male,60-69,7
+CKD,Moroccan,Female,20-29,6
+Heart disease,French,Male,50-59,23
+Dyslipidemia,French,Male,50-59,17
+Hypertension,French,Male,50-59,11
+Nash,French,Male,50-59,9
+Diabetes,Iranian,Male,40-49,14
+Diabetes,Azerbaijani,Male,60-69,6
+Heart disease,German,Male,30-39,3
+Hypertension,German,Male,30-39,1
+Nash,Iraqui,Female,20-29,6
+Nash,French,Female,50-59,9
+Hypertension,French,Female,50-59,4
+Obesity,Tunisian,Female,60-69,10
+Diabetes,Indu,Female,30-39,5
+Nash,German,Female,60-69,2
+Diabetes,Uzbek,Female,60-69,14
+Heart disease,Uzbek,Female,40-49,6
+Obesity,Uzbek,Female,40-49,7
+Hypertension,Uzbek,Female,40-49,1
+Heart disease,Sirian,Male,40-49,4
+Diabetes,Sirian,Male,40-49,2
+Nash,Polonian,Male,60-69,10
+Nash,Russian,Male,20-29,2
+Diabetes,Iranian,Female,30-39,12
+Diabetes,Uzbek,Male,30-39,5
+Dyslipidemia,Uzbek,Male,30-39,4
+Diabetes,Hungarian,Male,50-59,7
+CKD,South African,Female,50-59,4
+Nash,Algerian,Male,60-69,6
+Hypertension,Ucranian,Male,20-29,1
+Nash,Hungarian,Female,50-59,1
+Nash,United States,Female,30-39,5
+Diabetes,Iranian,Male,20-29,3
+Dyslipidemia,Iranian,Male,20-29,2
+Nash,Bulgarian,Female,70+,3
+Heart disease,Iraqui,Male,40-49,20
+Diabetes,Moldavian,Male,50-59,1
+Dyslipidemia,Moldavian,Male,50-59,5
+Heart disease,Algerian,Female,40-49,7
+Nash,Rumanian,Male,20-29,4
+Heart disease,Rumanian,Male,10-19,2
+Nash,South African,Male,50-59,2
+Heart disease,Turkish,Female,40-49,7
+CKD,Algerian,Female,30-39,5
+Hypertension,Yemeni,Female,50-59,6
+Nash,Tunisian,Male,50-59,6
+Hypertension,English,Female,60-69,6
+CKD,English,Female,60-69,10
+Obesity,Yemeni,Male,70+,4
+Diabetes,Polonian,Female,30-39,12
+Nash,Indu,Male,30-39,1
+CKD,United States,Male,10-19,2
+Obesity,Uzbek,Female,70+,13
+Diabetes,Turkish,Male,40-49,5
+CKD,Bilorussian,Male,70+,44
+CKD,Iranian,Male,40-49,18
+Nash,Iranian,Male,40-49,7
+Dyslipidemia,Azerbaijani,Male,70+,15
+CKD,South African,Female,20-29,1
+Nash,South African,Female,60-69,2
+Obesity,Ucranian,Male,20-29,7
+Heart disease,South African,Female,60-69,7
+Heart disease,Polonian,Female,20-29,4
+Hypertension,Georgian,Female,30-39,2
+Hypertension,Russian,Female,50-59,28
+Heart disease,Kazakh,Female,40-49,6
+Heart disease,United States,Female,20-29,2
+Hypertension,South African,Male,50-59,3
+CKD,United States,Male,30-39,10
+Hypertension,Bilorussian,Male,70+,33
+Hypertension,Georgian,Male,50-59,2
+Nash,Rumanian,Female,20-29,2
+CKD,Turkish,Male,40-49,6
+Obesity,Rumanian,Male,20-29,4
+Dyslipidemia,Polonian,Female,40-49,7
+Obesity,Russian,Male,40-49,21
+Hypertension,Turkish,Female,40-49,2
+CKD,South African,Male,40-49,4
+Obesity,South African,Male,40-49,2
+Obesity,Bulgarian,Male,50-59,2
+CKD,Bilorussian,Female,60-69,9
+Hypertension,Bilorussian,Female,60-69,5
+Heart disease,Bilorussian,Female,60-69,17
+Nash,South African,Female,50-59,2
+Obesity,South African,Female,50-59,4
+Diabetes,South African,Female,50-59,8
+Dyslipidemia,South African,Female,50-59,6
+Hypertension,Georgian,Male,70+,12
+Dyslipidemia,Argentinian,Female,40-49,9
+Hypertension,Argentinian,Female,40-49,5
+Hypertension,Tunisian,Female,60-69,6
+Nash,Ucranian,Male,70+,13
+Hypertension,Hungarian,Male,60-69,5
+CKD,Moldavian,Female,50-59,5
+Heart disease,Moldavian,Female,50-59,5
+Hypertension,Moldavian,Female,50-59,3
+Diabetes,Moldavian,Female,50-59,4
+CKD,Rumanian,Male,30-39,13
+Heart disease,Algerian,Female,50-59,20
+Hypertension,Algerian,Female,50-59,11
+Diabetes,Libyan,Male,30-39,4
+CKD,Polonian,Female,20-29,5
+Obesity,Uzbek,Female,50-59,6
+Heart disease,Ethiopian,Male,20-29,3
+Diabetes,Rumanian,Male,30-39,6
+Nash,Bilorussian,Female,30-39,1
+Diabetes,Bilorussian,Female,30-39,6
+Obesity,Bilorussian,Female,30-39,6
+Nash,Argentinian,Male,70+,4
+Nash,Iraqui,Male,60-69,6
+Hypertension,Moldavian,Male,50-59,2
+CKD,Uzbek,Female,20-29,2
+Hypertension,Uzbek,Female,20-29,2
+Nash,Ucranian,Male,60-69,26
+CKD,Iranian,Male,10-19,1
+Diabetes,Tunisian,Male,40-49,5
+Obesity,Egyptian,Female,20-29,4
+Obesity,French,Female,70+,15
+Hypertension,United States,Female,40-49,6
+Hypertension,Tunisian,Male,20-29,1
+CKD,Tunisian,Male,20-29,2
+Nash,Ethiopian,Male,40-49,11
+Diabetes,Algerian,Female,20-29,4
+CKD,Georgian,Male,70+,15
+Obesity,Sirian,Female,70+,4
+Nash,Libyan,Female,40-49,1
+Obesity,Libyan,Female,40-49,5
+Nash,Argentinian,Female,60-69,8
+Dyslipidemia,Egyptian,Male,30-39,1
+Nash,Tunisian,Male,70+,4
+Dyslipidemia,Bulgarian,Male,40-49,4
+Heart disease,Uzbek,Female,60-69,15
+Nash,Egyptian,Female,70+,2
+Heart disease,Georgian,Female,20-29,1
+Dyslipidemia,German,Female,20-29,1
+Diabetes,Egyptian,Female,60-69,6
+Nash,Ethiopian,Male,30-39,7
+Hypertension,Iraqui,Female,50-59,9
+Obesity,Egyptian,Female,30-39,6
+Heart disease,Hungarian,Male,60-69,12
+Obesity,United States,Male,70+,22
+Hypertension,Iranian,Female,30-39,2
+CKD,Libyan,Female,60-69,7
+CKD,Iranian,Male,30-39,7
+Nash,Iranian,Male,30-39,3
+Diabetes,Iranian,Male,30-39,4
+Hypertension,Uzbek,Male,50-59,9
+Hypertension,Moroccan,Female,20-29,9
+Dyslipidemia,Moldavian,Female,60-69,6
+Hypertension,Kazakh,Male,60-69,7
+Diabetes,Kazakh,Male,60-69,8
+CKD,Kazakh,Male,60-69,10
+Nash,Turkish,Female,30-39,3
+Obesity,Turkish,Female,30-39,4
+Diabetes,Kazakh,Female,60-69,11
+Hypertension,Polonian,Female,30-39,11
+Heart disease,Tunisian,Female,30-39,2
+Dyslipidemia,Tunisian,Female,30-39,2
+Nash,Iraqui,Female,50-59,8
+Heart disease,Hungarian,Male,40-49,6
+Obesity,Hungarian,Male,40-49,6
+Hypertension,Hungarian,Male,40-49,3
+Diabetes,Hungarian,Male,40-49,5
+CKD,Hungarian,Male,40-49,9
+Diabetes,Bulgarian,Female,50-59,7
+Obesity,Bulgarian,Female,50-59,3
+Obesity,Tunisian,Male,40-49,5
+Obesity,Bilorussian,Female,70+,6
+Nash,Indu,Female,50-59,2
+Nash,Indu,Male,70+,2
+Obesity,Indu,Male,70+,7
+Heart disease,Sirian,Female,50-59,4
+Diabetes,Sirian,Female,50-59,3
+Obesity,Sirian,Female,50-59,3
+Obesity,German,Male,50-59,4
+CKD,Polonian,Female,30-39,6
+Heart disease,Bulgarian,Female,40-49,5
+Hypertension,Libyan,Female,40-49,1
+Diabetes,Azerbaijani,Female,60-69,6
+CKD,Egyptian,Male,20-29,1
+Dyslipidemia,French,Male,30-39,1
+Nash,Egyptian,Male,50-59,6
+Obesity,Egyptian,Male,50-59,6
+Heart disease,Israeli,Female,10-19,15
+Hypertension,Tunisian,Male,40-49,5
+Dyslipidemia,Tunisian,Male,40-49,6
+Dyslipidemia,Egyptian,Male,40-49,6
+Diabetes,Turkish,Female,30-39,5
+Nash,Russian,Female,30-39,6
+Nash,Indu,Male,40-49,3
+Nash,Turkish,Female,20-29,1
+Heart disease,Hungarian,Female,60-69,6
+Obesity,Hungarian,Female,60-69,3
+Hypertension,Hungarian,Female,60-69,3
+CKD,Hungarian,Female,60-69,4
+Obesity,United States,Male,40-49,16
+Nash,Libyan,Male,60-69,3
+Obesity,Rumanian,Male,30-39,11
+Obesity,South African,Female,60-69,3
+Heart disease,Uzbek,Male,40-49,9
+Dyslipidemia,Bulgarian,Female,40-49,5
+Obesity,Yemeni,Female,20-29,10
+Obesity,Indu,Male,30-39,3
+Hypertension,Bilorussian,Female,30-39,3
+Heart disease,Russian,Female,20-29,3
+CKD,Algerian,Female,40-49,7
+Nash,Bilorussian,Female,50-59,7
+Obesity,Bilorussian,Female,50-59,7
+CKD,Argentinian,Female,20-29,6
+CKD,Bulgarian,Female,40-49,4
+Diabetes,Yemeni,Male,20-29,2
+Hypertension,Ucranian,Female,20-29,7
+Heart disease,Egyptian,Male,30-39,2
+Heart disease,Tunisian,Female,40-49,4
+Dyslipidemia,Tunisian,Female,40-49,2
+Hypertension,Tunisian,Female,40-49,4
+CKD,Tunisian,Female,40-49,5
+CKD,Yemeni,Female,40-49,4
+Heart disease,Yemeni,Female,40-49,3
+Obesity,Sirian,Male,40-49,3
+Obesity,Algerian,Female,20-29,4
+Obesity,English,Female,70+,5
+CKD,Tunisian,Female,20-29,3
+Diabetes,Tunisian,Female,30-39,3
+Obesity,English,Female,50-59,5
+Hypertension,Iraqui,Male,50-59,24
+Diabetes,Egyptian,Female,40-49,10
+Obesity,Egyptian,Female,40-49,9
+Diabetes,Ethiopian,Male,30-39,7
+Nash,German,Male,60-69,5
+Dyslipidemia,Egyptian,Female,50-59,8
+Obesity,Bilorussian,Female,60-69,8
+CKD,Uzbek,Male,40-49,5
+Diabetes,Turkish,Female,50-59,11
+Nash,Tunisian,Male,40-49,3
+Heart disease,Tunisian,Male,40-49,13
+Diabetes,Uzbek,Male,20-29,2
+Hypertension,Uzbek,Female,30-39,3
+CKD,Turkish,Female,20-29,1
+Nash,Iranian,Female,40-49,5
+Hypertension,Turkish,Male,30-39,2
+Diabetes,Turkish,Male,30-39,2
+CKD,Ethiopian,Female,30-39,6
+Obesity,Libyan,Female,30-39,1
+CKD,Kazakh,Male,30-39,2
+Hypertension,Kazakh,Male,70+,12
+Obesity,Sirian,Female,60-69,5
+Nash,Polonian,Male,20-29,2
+Obesity,Polonian,Male,20-29,1
+Hypertension,Iranian,Female,40-49,5
+Obesity,German,Female,60-69,14
+Nash,Moroccan,Male,20-29,4
+Dyslipidemia,Moroccan,Male,20-29,4
+Obesity,Hungarian,Male,70+,2
+Diabetes,Sirian,Male,50-59,3
+Heart disease,Indu,Female,50-59,8
+Heart disease,Azerbaijani,Male,40-49,7
+Dyslipidemia,Azerbaijani,Male,40-49,8
+Obesity,Yemeni,Female,10-19,1
+Nash,English,Male,40-49,1
+Hypertension,Hungarian,Female,20-29,1
+Nash,Argentinian,Male,30-39,1
+Obesity,German,Male,60-69,11
+Dyslipidemia,Hungarian,Female,50-59,3
+Dyslipidemia,Hungarian,Male,40-49,5
+Hypertension,Polonian,Female,20-29,4
+CKD,Sirian,Female,50-59,1
+Hypertension,Sirian,Female,50-59,2
+Nash,Indu,Male,50-59,2
+Nash,Egyptian,Male,70+,2
+Nash,Ethiopian,Female,20-29,4
+Obesity,South African,Male,30-39,1
+Dyslipidemia,South African,Male,30-39,1
+Nash,Algerian,Female,50-59,7
+Nash,Yemeni,Female,20-29,5
+Obesity,English,Male,60-69,5
+Dyslipidemia,Libyan,Male,50-59,7
+Hypertension,Libyan,Male,50-59,6
+Nash,Georgian,Male,60-69,4
+Hypertension,German,Female,20-29,2
+Heart disease,Libyan,Male,40-49,7
+Hypertension,United States,Male,30-39,4
+Diabetes,Moldavian,Female,40-49,2
+Hypertension,Uzbek,Male,40-49,4
+Obesity,Yemeni,Female,40-49,8
+Diabetes,Argentinian,Female,20-29,5
+CKD,Azerbaijani,Male,30-39,2
+Heart disease,Azerbaijani,Male,30-39,1
+Hypertension,Azerbaijani,Male,30-39,2
+Diabetes,Azerbaijani,Male,30-39,1
+Dyslipidemia,Turkish,Male,50-59,14
+Hypertension,Turkish,Male,50-59,4
+Hypertension,South African,Female,50-59,2
+Nash,French,Female,60-69,6
+CKD,Hungarian,Male,50-59,5
+Nash,United States,Female,20-29,2
+Hypertension,Rumanian,Male,20-29,1
+Nash,United States,Male,30-39,3
+Diabetes,Egyptian,Female,10-19,1
+Obesity,Egyptian,Female,10-19,2
+Nash,Tunisian,Female,70+,4
+Obesity,Bilorussian,Female,40-49,4
+Obesity,Uzbek,Male,70+,6
+Dyslipidemia,English,Male,60-69,14
+Obesity,South African,Female,20-29,1
+Hypertension,Sirian,Female,20-29,1
+Obesity,Indu,Female,20-29,1
+Heart disease,German,Female,40-49,4
+Dyslipidemia,Moldavian,Female,50-59,4
+Nash,Tunisian,Female,60-69,2
+CKD,Bilorussian,Male,30-39,1
+Heart disease,Ethiopian,Female,20-29,3
+Heart disease,Bulgarian,Male,50-59,5
+Heart disease,Iranian,Male,30-39,5
+Hypertension,Tunisian,Male,60-69,9
+Obesity,Egyptian,Female,50-59,4
+CKD,Ethiopian,Male,10-19,2
+Nash,German,Male,70+,5
+Dyslipidemia,Polonian,Female,30-39,7
+CKD,Moldavian,Male,10-19,1
+Heart disease,Kazakh,Female,60-69,9
+Nash,Libyan,Male,40-49,3
+CKD,Egyptian,Female,50-59,4
+Hypertension,Egyptian,Female,50-59,3
+Heart disease,English,Female,30-39,3
+Obesity,Iranian,Male,30-39,7
+Hypertension,Moroccan,Male,30-39,4
+Diabetes,Azerbaijani,Female,10-19,1
+Dyslipidemia,Ucranian,Male,20-29,3
+Diabetes,Tunisian,Male,30-39,1
+Diabetes,Bilorussian,Male,30-39,2
+CKD,Tunisian,Male,30-39,2
+Diabetes,Sirian,Female,60-69,5
+Dyslipidemia,Sirian,Female,60-69,5
+Hypertension,Iraqui,Female,20-29,2
+CKD,Yemeni,Male,10-19,1
+CKD,Iraqui,Female,20-29,9
+Heart disease,Iraqui,Female,20-29,2
+Diabetes,Iraqui,Female,10-19,1
+Hypertension,Egyptian,Female,20-29,2
+CKD,Argentinian,Male,20-29,2
+Hypertension,Argentinian,Male,20-29,1
+Nash,Moldavian,Male,70+,4
+Nash,Azerbaijani,Male,40-49,1
+Dyslipidemia,Ethiopian,Female,40-49,12
+Hypertension,Yemeni,Female,40-49,1
+Nash,Argentinian,Female,40-49,4
+Heart disease,Georgian,Male,40-49,2
+Diabetes,Georgian,Male,40-49,3
+CKD,Indu,Female,40-49,1
+Dyslipidemia,Indu,Female,40-49,2
+Dyslipidemia,Yemeni,Female,20-29,3
+CKD,Ethiopian,Male,20-29,9
+Diabetes,United States,Female,10-19,3
+Dyslipidemia,Turkish,Female,40-49,1
+CKD,Polonian,Male,40-49,10
+Nash,Polonian,Male,40-49,5
+Heart disease,Sirian,Female,60-69,4
+Nash,Israeli,Female,10-19,9
+Diabetes,Kazakh,Male,40-49,3
+Obesity,Azerbaijani,Male,70+,5
+Nash,Sirian,Male,40-49,3
+CKD,Egyptian,Female,20-29,2
+Diabetes,Indu,Male,30-39,3
+Dyslipidemia,Egyptian,Female,40-49,4
+Nash,Libyan,Male,70+,1
+Obesity,Kazakh,Female,30-39,4
+Nash,Kazakh,Male,70+,2
+Nash,Yemeni,Female,40-49,3
+Hypertension,Indu,Female,20-29,1
+Nash,English,Female,60-69,2
+Obesity,Georgian,Male,50-59,4
+Nash,Hungarian,Male,50-59,3
+Heart disease,Turkish,Female,20-29,1
+Nash,South African,Female,30-39,1
+Nash,Turkish,Male,70+,1
+CKD,Egyptian,Male,30-39,2
+Dyslipidemia,Sirian,Male,40-49,2
+Hypertension,English,Female,40-49,1
+Diabetes,English,Female,40-49,5
+CKD,English,Female,40-49,4
+CKD,Uzbek,Female,50-59,5
+Obesity,Sirian,Female,30-39,1
+CKD,Iraqui,Male,20-29,5
+Hypertension,United States,Female,30-39,4
+CKD,Hungarian,Male,20-29,4
+Dyslipidemia,South African,Male,60-69,2
+CKD,Moldavian,Female,60-69,1
+Diabetes,English,Male,40-49,8
+Heart disease,Bulgarian,Male,30-39,3
+Nash,Bulgarian,Male,60-69,4
+Obesity,Bulgarian,Male,60-69,4
+Dyslipidemia,Bilorussian,Male,30-39,3
+Nash,English,Female,30-39,3
+Hypertension,English,Female,30-39,2
+Obesity,English,Female,30-39,6
+Nash,Indu,Male,60-69,1
+Obesity,Kazakh,Female,20-29,2
+Nash,South African,Male,20-29,1
+Hypertension,United States,Male,40-49,8
+CKD,Libyan,Male,20-29,1
+CKD,Sirian,Female,60-69,2
+Hypertension,Sirian,Female,60-69,2
+Obesity,Tunisian,Female,20-29,9
+Nash,Iranian,Female,20-29,2
+Heart disease,Iranian,Female,20-29,2
+Heart disease,Polonian,Female,30-39,5
+Obesity,Kazakh,Male,30-39,2
+Dyslipidemia,Rumanian,Female,20-29,2
+Hypertension,Indu,Female,30-39,2
+Nash,Bulgarian,Male,70+,3
+Heart disease,Bilorussian,Male,30-39,2
+Obesity,Bilorussian,Male,30-39,2
+Nash,Libyan,Female,60-69,4
+Hypertension,French,Male,40-49,6
+Nash,Ucranian,Male,20-29,3
+Heart disease,South African,Male,20-29,1
+Diabetes,South African,Male,20-29,1
+Diabetes,Uzbek,Female,50-59,8
+Nash,Egyptian,Female,50-59,1
+CKD,Kazakh,Male,20-29,2
+Diabetes,Kazakh,Male,20-29,2
+Obesity,Kazakh,Male,20-29,2
+CKD,Indu,Male,20-29,2
+Heart disease,Indu,Male,20-29,1
+Obesity,Indu,Male,20-29,2
+Diabetes,Turkish,Female,40-49,2
+Nash,Polonian,Female,30-39,1
+Hypertension,Sirian,Male,50-59,1
+Obesity,Sirian,Male,50-59,5
+Dyslipidemia,Iraqui,Female,20-29,2
+Diabetes,Egyptian,Female,50-59,5
+CKD,Tunisian,Female,30-39,3
+Nash,Azerbaijani,Female,60-69,1
+Nash,Egyptian,Male,30-39,1
+Nash,Ethiopian,Male,20-29,1
+Hypertension,Bulgarian,Male,50-59,1
+CKD,Turkish,Female,30-39,2
+Hypertension,Turkish,Female,30-39,2
+Obesity,Moldavian,Male,50-59,2
+Diabetes,Rumanian,Female,10-19,1
+Obesity,Rumanian,Female,10-19,1
+Obesity,Hungarian,Male,60-69,5
+Hypertension,Hungarian,Male,50-59,3
+Dyslipidemia,Hungarian,Male,30-39,1
+CKD,Indu,Male,40-49,5
+CKD,Turkish,Female,40-49,4
+Hypertension,Iranian,Male,30-39,2
+Nash,English,Male,50-59,5
+Nash,Bilorussian,Female,40-49,2
+Diabetes,Bilorussian,Female,40-49,2
+Nash,Israeli,Male,10-19,3
+Diabetes,Kazakh,Female,50-59,4
+Nash,United States,Male,40-49,7
+Hypertension,Uzbek,Male,30-39,5
+Hypertension,Moldavian,Female,60-69,1
+Hypertension,French,Female,20-29,2
+CKD,French,Female,20-29,3
+Dyslipidemia,Moroccan,Female,10-19,1
+CKD,Turkish,Male,20-29,2
+Obesity,Turkish,Male,40-49,2
+CKD,Bilorussian,Female,40-49,2
+Hypertension,Tunisian,Female,20-29,2
+Nash,Hungarian,Male,40-49,3
+CKD,Rumanian,Male,10-19,1
+Nash,Algerian,Female,40-49,3
+Heart disease,Polonian,Male,20-29,3
+Hypertension,Iranian,Male,20-29,1
+Obesity,English,Male,70+,2
+Nash,Georgian,Female,40-49,1
+Hypertension,United States,Female,20-29,2
+CKD,United States,Female,30-39,5
+Nash,Yemeni,Male,50-59,6
+Hypertension,Libyan,Female,50-59,2
+Nash,Bulgarian,Female,40-49,2
+Obesity,Algerian,Male,20-29,2
+Obesity,Libyan,Male,40-49,3
+Obesity,Kazakh,Female,50-59,6
+Dyslipidemia,Kazakh,Female,50-59,6
+Diabetes,Uzbek,Female,30-39,2
+Dyslipidemia,Kazakh,Female,20-29,1
+Nash,Algerian,Female,60-69,6
+Hypertension,Egyptian,Female,30-39,2
+Heart disease,Egyptian,Male,40-49,3
+Dyslipidemia,Sirian,Female,50-59,4
+Nash,Sirian,Female,50-59,1
+Nash,Libyan,Female,20-29,2
+Heart disease,Indu,Female,20-29,1
+Heart disease,Indu,Female,40-49,2
+Diabetes,Bilorussian,Female,60-69,7
+Hypertension,Polonian,Male,40-49,5
+Hypertension,Algerian,Male,30-39,1
+Nash,Algerian,Female,30-39,2
+Obesity,Bilorussian,Male,40-49,5
+CKD,German,Male,30-39,3
+Hypertension,Indu,Male,40-49,2
+Heart disease,South African,Male,40-49,5
+Obesity,Libyan,Male,60-69,4
+Nash,Libyan,Female,70+,2
+CKD,Tunisian,Female,50-59,9
+Heart disease,Yemeni,Male,20-29,1
+Dyslipidemia,English,Male,20-29,1
+Heart disease,Yemeni,Male,30-39,4
+Hypertension,Yemeni,Male,30-39,1
+Diabetes,South African,Female,20-29,3
+Diabetes,Moldavian,Male,40-49,2
+Dyslipidemia,Moldavian,Male,40-49,2
+Nash,South African,Male,40-49,3
+Dyslipidemia,Bilorussian,Female,30-39,1
+Diabetes,Azerbaijani,Female,50-59,6
+Obesity,Georgian,Female,20-29,1
+Heart disease,Hungarian,Female,30-39,1
+Nash,Turkish,Male,40-49,1
+Diabetes,German,Female,40-49,1
+Nash,Argentinian,Female,20-29,2
+Obesity,South African,Male,50-59,1
+Dyslipidemia,Azerbaijani,Female,20-29,1
+Heart disease,Azerbaijani,Female,20-29,1
+Diabetes,Azerbaijani,Female,20-29,1
+CKD,Moldavian,Male,30-39,1
+Diabetes,Moldavian,Male,30-39,3
+Heart disease,Azerbaijani,Female,50-59,5
+Heart disease,Bulgarian,Female,30-39,1
+Diabetes,United States,Male,20-29,2
+Heart disease,South African,Female,50-59,2
+Nash,Bulgarian,Male,30-39,1
+Diabetes,Bulgarian,Male,30-39,2
+Obesity,Bulgarian,Male,30-39,1
+Hypertension,Ethiopian,Female,30-39,2
+Obesity,Azerbaijani,Male,50-59,2
+Hypertension,Iraqui,Male,40-49,5
+Dyslipidemia,Bulgarian,Female,50-59,5
+CKD,South African,Male,20-29,1
+CKD,German,Female,20-29,3
+Diabetes,Yemeni,Male,30-39,4
+Nash,Bilorussian,Male,70+,5
+Nash,Tunisian,Male,60-69,4
+Obesity,South African,Male,70+,2
+CKD,Moldavian,Female,40-49,3
+Hypertension,South African,Male,40-49,1
+Nash,Bilorussian,Female,60-69,2
+Nash,Uzbek,Male,40-49,1
+CKD,Indu,Female,30-39,2
+Heart disease,Yemeni,Female,30-39,2
+Obesity,Sirian,Female,40-49,1
+CKD,Azerbaijani,Female,50-59,5
+Dyslipidemia,Moldavian,Male,30-39,1
+Obesity,South African,Female,70+,3
+Diabetes,French,Female,20-29,2
+Nash,Libyan,Female,50-59,2
+CKD,Bulgarian,Male,20-29,2
+Hypertension,Yemeni,Female,30-39,1
+Dyslipidemia,Tunisian,Female,20-29,1
+CKD,Algerian,Female,20-29,1
+CKD,Georgian,Male,40-49,2
+Dyslipidemia,Georgian,Male,40-49,3
+Obesity,English,Female,20-29,3
+Diabetes,Kazakh,Male,30-39,1
+Dyslipidemia,Kazakh,Male,30-39,1
+CKD,Uzbek,Male,20-29,3
+Obesity,Uzbek,Male,20-29,1
+Heart disease,Kazakh,Male,30-39,2
+Dyslipidemia,Israeli,Male,10-19,2
+Obesity,Azerbaijani,Female,50-59,2
+Dyslipidemia,Azerbaijani,Female,50-59,4
+Nash,South African,Female,40-49,2
+Hypertension,Algerian,Female,40-49,3
+Nash,English,Female,70+,3
+Nash,Sirian,Male,60-69,3
+Hypertension,Bulgarian,Female,50-59,2
+Dyslipidemia,Iraqui,Male,20-29,1
+CKD,Georgian,Female,30-39,1
+Nash,Georgian,Female,30-39,1
+Heart disease,Georgian,Female,30-39,1
+Diabetes,Georgian,Female,30-39,1
+Dyslipidemia,Iranian,Female,20-29,1
+Hypertension,Sirian,Male,40-49,1
+Heart disease,Algerian,Male,20-29,1
+Obesity,Moldavian,Female,20-29,1
+Hypertension,Argentinian,Female,20-29,2
+Nash,Tunisian,Female,50-59,5
+Nash,Indu,Female,60-69,1
+Dyslipidemia,French,Female,20-29,1
+Heart disease,Uzbek,Female,30-39,2
+Nash,Bilorussian,Female,20-29,2
+Hypertension,Uzbek,Female,50-59,1
+CKD,English,Male,30-39,2
+Heart disease,English,Male,30-39,2
+Hypertension,English,Male,30-39,1
+Hypertension,Iranian,Male,40-49,4
+Obesity,Moroccan,Male,10-19,1
+Heart disease,English,Female,20-29,1
+Dyslipidemia,Georgian,Female,50-59,3
+Heart disease,Russian,Male,10-19,1
+Obesity,Indu,Female,10-19,1
+CKD,Uzbek,Female,10-19,2
+Heart disease,Georgian,Female,50-59,2
+Hypertension,Georgian,Female,50-59,1
+Diabetes,Georgian,Female,50-59,2
+CKD,Georgian,Female,50-59,2
+CKD,Iranian,Female,30-39,1
+Nash,Egyptian,Female,20-29,1
+Heart disease,Egyptian,Female,20-29,1
+Diabetes,Egyptian,Female,20-29,2
+Nash,Sirian,Female,70+,2
+Heart disease,Uzbek,Male,30-39,5
+Hypertension,Argentinian,Male,30-39,1
+Obesity,Argentinian,Male,30-39,1
+Nash,Uzbek,Male,20-29,1
+CKD,Kazakh,Female,50-59,7
+CKD,Sirian,Male,30-39,1
+Hypertension,Sirian,Male,30-39,1
+CKD,South African,Male,30-39,2
+Heart disease,South African,Male,30-39,2
+Hypertension,South African,Male,30-39,2
+CKD,French,Male,20-29,3
+Heart disease,Iraqui,Male,20-29,2
+Obesity,Georgian,Female,50-59,3
+Diabetes,German,Male,30-39,1
+Dyslipidemia,German,Male,30-39,2
+Nash,German,Male,50-59,2
+Nash,Kazakh,Male,40-49,2
+Hypertension,South African,Female,20-29,2
+Nash,German,Male,30-39,2
+Nash,Hungarian,Male,30-39,1
+Hypertension,Egyptian,Female,40-49,1
+Hypertension,German,Female,30-39,1
+Nash,Azerbaijani,Male,70+,2
+Diabetes,Uzbek,Female,20-29,1
+Obesity,South African,Female,40-49,2
+Diabetes,South African,Male,40-49,1
+Dyslipidemia,United States,Male,20-29,1
+CKD,Bulgarian,Female,30-39,2
+Nash,Kazakh,Male,60-69,3
+Dyslipidemia,Kazakh,Male,20-29,1
+Hypertension,Kazakh,Male,20-29,1
+Hypertension,Iraqui,Male,20-29,1
+Heart disease,Bilorussian,Female,50-59,6
+Hypertension,Bilorussian,Female,50-59,4
+CKD,English,Male,20-29,1
+Nash,Bulgarian,Female,60-69,1
+Heart disease,Tunisian,Male,20-29,1
+Dyslipidemia,South African,Male,50-59,4
+Nash,Libyan,Male,50-59,3
+Obesity,Azerbaijani,Female,40-49,1
+Nash,South African,Male,70+,2
+Hypertension,Ethiopian,Male,20-29,2
+Nash,Yemeni,Male,20-29,3
+Nash,Uzbek,Female,70+,4
+Obesity,Libyan,Male,70+,2
+Diabetes,Moroccan,Female,10-19,1
+Nash,French,Male,30-39,2
+Hypertension,Kazakh,Female,50-59,2
+Diabetes,Moldavian,Male,20-29,1
+CKD,Uzbek,Male,30-39,2
+CKD,Azerbaijani,Male,20-29,1
+Heart disease,Azerbaijani,Male,20-29,1
+Hypertension,Azerbaijani,Male,20-29,1
+Nash,Moldavian,Female,50-59,1
+Heart disease,Bulgarian,Male,20-29,2
+Hypertension,Bulgarian,Male,20-29,1
+CKD,Georgian,Male,30-39,2
+Nash,Georgian,Male,30-39,1
+Hypertension,Georgian,Male,30-39,1
+Obesity,Georgian,Male,30-39,1
+CKD,Bulgarian,Female,50-59,4
+Obesity,Kazakh,Male,40-49,2
+Heart disease,Libyan,Female,40-49,2
+Dyslipidemia,Libyan,Female,40-49,3
+Diabetes,Libyan,Female,40-49,2
+CKD,Libyan,Female,40-49,1
+CKD,Bilorussian,Female,20-29,2
+Hypertension,Bilorussian,Female,20-29,1
+Heart disease,Algerian,Male,30-39,3
+CKD,Polonian,Male,10-19,1
+Hypertension,Polonian,Male,10-19,1
+Nash,Moldavian,Male,40-49,2
+Obesity,Moldavian,Male,40-49,1
+Nash,Moldavian,Female,60-69,1
+Nash,South African,Female,70+,2
+Heart disease,Argentinian,Female,20-29,1
+Hypertension,Indu,Male,30-39,2
+Obesity,Uzbek,Male,30-39,3
+Hypertension,Tunisian,Female,50-59,1
+Dyslipidemia,Uzbek,Female,30-39,1
+Obesity,Russian,Male,10-19,1
+Dyslipidemia,Indu,Female,30-39,1
+Nash,Uzbek,Male,30-39,2
+Nash,Georgian,Female,60-69,1
+Diabetes,German,Male,20-29,1
+Obesity,German,Male,20-29,1
+Obesity,Bulgarian,Female,20-29,1
+Hypertension,Libyan,Male,40-49,1
+Nash,Ucranian,Female,10-19,1
+Obesity,Ucranian,Female,10-19,2
+Dyslipidemia,Argentinian,Male,30-39,2
+Dyslipidemia,Ethiopian,Male,20-29,2
+CKD,Azerbaijani,Female,30-39,1
+Diabetes,Georgian,Male,20-29,1
+Obesity,Georgian,Male,20-29,1
+Nash,Algerian,Male,20-29,2
+Hypertension,French,Female,30-39,1
+Nash,English,Male,20-29,1
+Diabetes,English,Male,20-29,1
+Obesity,English,Male,20-29,1
+Hypertension,Bilorussian,Male,30-39,1
+Nash,Kazakh,Female,70+,1
+Nash,Sirian,Male,70+,1
+Dyslipidemia,Bulgarian,Male,30-39,1
+Diabetes,Ucranian,Female,10-19,1
+Nash,Georgian,Female,70+,1
+CKD,Ucranian,Female,10-19,1
+Hypertension,Azerbaijani,Female,20-29,1
+CKD,German,Male,10-19,1
+Dyslipidemia,Turkish,Male,30-39,2
+CKD,Rumanian,Female,10-19,1
+CKD,Bilorussian,Male,20-29,1
+Nash,Bilorussian,Male,20-29,1
+Heart disease,Algerian,Female,20-29,1
+CKD,Bulgarian,Male,30-39,1
+Obesity,German,Male,30-39,1
+Nash,Indu,Female,40-49,1
+Dyslipidemia,United States,Female,20-29,1
+Dyslipidemia,Kazakh,Female,30-39,1
+CKD,Hungarian,Male,30-39,2
+Dyslipidemia,Turkish,Female,30-39,1
+Hypertension,Uzbek,Male,20-29,1
+Hypertension,Georgian,Male,40-49,1
+Obesity,Bilorussian,Male,20-29,1
+Nash,Bulgarian,Male,40-49,1
+Hypertension,French,Male,20-29,1
+CKD,English,Female,20-29,2
+Hypertension,English,Female,20-29,1
+Nash,German,Female,40-49,1
+Diabetes,English,Female,20-29,3
+Dyslipidemia,English,Female,20-29,1
+Heart disease,Moroccan,Female,10-19,1
+Obesity,Argentinian,Female,10-19,1
+CKD,Sirian,Female,40-49,1
+Heart disease,Sirian,Female,40-49,1
+Hypertension,Sirian,Female,40-49,1
+Obesity,Sirian,Male,60-69,1
+Heart disease,Libyan,Female,20-29,2
+Hypertension,Libyan,Female,20-29,1
+Hypertension,Ethiopian,Female,10-19,1
+Obesity,Ethiopian,Female,10-19,1
+Nash,Kazakh,Male,20-29,1
+Obesity,Georgian,Male,70+,1
+Hypertension,Bulgarian,Female,30-39,1
+Hypertension,Indu,Male,20-29,1
+Dyslipidemia,Indu,Male,20-29,1
+Dyslipidemia,Turkish,Male,40-49,2
+Hypertension,Turkish,Male,40-49,2
+Heart disease,Uzbek,Male,20-29,1
+Nash,Kazakh,Female,50-59,1
+Hypertension,Bulgarian,Female,40-49,1
+Heart disease,Argentinian,Male,30-39,1
+Nash,English,Female,20-29,1
+Nash,Argentinian,Female,10-19,1
+Nash,Georgian,Male,70+,1
+Nash,South African,Male,60-69,1
+Heart disease,Yemeni,Female,20-29,1
+CKD,Moldavian,Male,40-49,1
+Hypertension,Moldavian,Male,40-49,1
